@@ -1,0 +1,341 @@
+{
+  "description": "Original testing examples only. These are NOT historical university admission questions.",
+  "questions": [
+    {
+      "subject": "বাংলা",
+      "chapter": "ব্যাকরণ",
+      "topic": "পদ",
+      "question": "‘সে বই পড়ে।’ বাক্যে ‘বই’ কোন পদ?",
+      "options": [
+        "বিশেষ্য",
+        "বিশেষণ",
+        "সর্বনাম",
+        "ক্রিয়া"
+      ],
+      "correctAnswer": 0,
+      "explanation": "‘বই’ একটি বস্তুর নাম, তাই এটি বিশেষ্য পদ।\nবাক্যে ‘সে’ সর্বনাম এবং ‘পড়ে’ ক্রিয়া; কোন শব্দের পদ জানতে চাওয়া হয়েছে তা আগে চিহ্নিত করতে হবে।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "শব্দভাণ্ডার",
+      "topic": "বিপরীত শব্দ",
+      "question": "‘আলো’ শব্দের বিপরীত শব্দ কোনটি?",
+      "options": [
+        "অন্ধকার",
+        "আকাশ",
+        "সকাল",
+        "কিরণ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "আলোর বিপরীত অর্থ প্রকাশ করে অন্ধকার।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Subject–verb agreement",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She go to school.",
+        "She goes to school.",
+        "She going to school.",
+        "She gone to school."
+      ],
+      "correctAnswer": 1,
+      "explanation": "In the simple present, the third-person singular subject “she” takes “goes”.\n“She go” lacks the required verb ending. “She going” and “She gone” lack an auxiliary verb and do not form the requested simple-present sentence.",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "en"
+    },
+    {
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "topic": "Antonyms",
+      "question": "Which word is the opposite of ‘ancient’?",
+      "options": [
+        "Old",
+        "Historic",
+        "Modern",
+        "Early"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ancient refers to the distant past; modern refers to the present or recent times.",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "en"
+    },
+    {
+      "subject": "সাধারণ জ্ঞান",
+      "chapter": "ভূগোল",
+      "topic": "মহাদেশ",
+      "question": "বাংলাদেশ কোন মহাদেশে অবস্থিত?",
+      "options": [
+        "এশিয়া",
+        "আফ্রিকা",
+        "ইউরোপ",
+        "অস্ট্রেলিয়া"
+      ],
+      "correctAnswer": 0,
+      "explanation": "বাংলাদেশ দক্ষিণ এশিয়ায় অবস্থিত।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "সাধারণ জ্ঞান",
+      "chapter": "পরিবেশ",
+      "topic": "জলচক্র",
+      "question": "পানি বাষ্পে পরিণত হওয়ার প্রক্রিয়াকে কী বলে?",
+      "options": [
+        "ঘনীভবন",
+        "বাষ্পীভবন",
+        "বর্ষণ",
+        "হিমায়ন"
+      ],
+      "correctAnswer": 1,
+      "explanation": "তরল পানি বাষ্পে রূপান্তরিত হওয়ার প্রক্রিয়া হলো বাষ্পীভবন।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "chapter": "জাতীয় পরিচয়",
+      "topic": "জাতীয় ফুল",
+      "question": "বাংলাদেশের জাতীয় ফুল কোনটি?",
+      "options": [
+        "গোলাপ",
+        "শাপলা",
+        "বেলি",
+        "জুঁই"
+      ],
+      "correctAnswer": 1,
+      "explanation": "শাপলা বাংলাদেশের জাতীয় ফুল।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "chapter": "ইতিহাস",
+      "topic": "ভাষা আন্দোলন",
+      "question": "ভাষা আন্দোলনের স্মরণে শহীদ দিবস পালিত হয় কোন তারিখে?",
+      "options": [
+        "২৬ মার্চ",
+        "১৬ ডিসেম্বর",
+        "২১ ফেব্রুয়ারি",
+        "১৪ এপ্রিল"
+      ],
+      "correctAnswer": 2,
+      "explanation": "২১ ফেব্রুয়ারি ভাষাশহীদদের স্মরণে শহীদ দিবস পালিত হয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "chapter": "আন্তর্জাতিক সংস্থা",
+      "topic": "জাতিসংঘ",
+      "question": "জাতিসংঘ প্রতিষ্ঠিত হয় কত সালে?",
+      "options": [
+        "১৯১৯",
+        "১৯৪৫",
+        "১৯৫২",
+        "১৯৭১"
+      ],
+      "correctAnswer": 1,
+      "explanation": "দ্বিতীয় বিশ্বযুদ্ধের শেষে ১৯৪৫ সালে জাতিসংঘ প্রতিষ্ঠিত হয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "chapter": "বিশ্ব ভূগোল",
+      "topic": "মহাসাগর",
+      "question": "আয়তনে পৃথিবীর বৃহত্তম মহাসাগর কোনটি?",
+      "options": [
+        "আটলান্টিক",
+        "ভারত",
+        "প্রশান্ত",
+        "আর্কটিক"
+      ],
+      "correctAnswer": 2,
+      "explanation": "প্রশান্ত মহাসাগর আয়তনে পৃথিবীর বৃহত্তম মহাসাগর।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "সাধারণ বিজ্ঞান",
+      "chapter": "জীববিজ্ঞান",
+      "topic": "সালোকসংশ্লেষণ",
+      "question": "সালোকসংশ্লেষণের সময় উদ্ভিদ কোন গ্যাস গ্রহণ করে?",
+      "options": [
+        "অক্সিজেন",
+        "কার্বন ডাইঅক্সাইড",
+        "হিলিয়াম",
+        "নিয়ন"
+      ],
+      "correctAnswer": 1,
+      "explanation": "উদ্ভিদ সালোকসংশ্লেষণে কার্বন ডাইঅক্সাইড ও পানি ব্যবহার করে খাদ্য তৈরি করে।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "সাধারণ বিজ্ঞান",
+      "chapter": "পদার্থবিজ্ঞান",
+      "topic": "একক",
+      "question": "বলের SI একক কী?",
+      "options": [
+        "জুল",
+        "ওয়াট",
+        "নিউটন",
+        "পাসকেল"
+      ],
+      "correctAnswer": 2,
+      "explanation": "বলের SI একক নিউটন। জুল শক্তি, ওয়াট ক্ষমতা এবং পাসকেল চাপের একক।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "ICT",
+      "chapter": "সংখ্যা পদ্ধতি",
+      "topic": "বাইনারি",
+      "question": "বাইনারি সংখ্যা পদ্ধতিতে কোন দুটি অঙ্ক ব্যবহৃত হয়?",
+      "options": [
+        "০ ও ১",
+        "১ ও ২",
+        "০ ও ৯",
+        "২ ও ৮"
+      ],
+      "correctAnswer": 0,
+      "explanation": "বাইনারি হলো দুই ভিত্তিক সংখ্যা পদ্ধতি; এতে ০ ও ১ ব্যবহৃত হয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "ICT",
+      "chapter": "কম্পিউটার",
+      "topic": "হার্ডওয়্যার",
+      "question": "নিচের কোনটি ইনপুট ডিভাইস?",
+      "options": [
+        "মনিটর",
+        "প্রিন্টার",
+        "কিবোর্ড",
+        "স্পিকার"
+      ],
+      "correctAnswer": 2,
+      "explanation": "কিবোর্ড দিয়ে কম্পিউটারে তথ্য ও নির্দেশনা প্রবেশ করানো হয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "মানসিক দক্ষতা",
+      "chapter": "ধারা",
+      "topic": "সংখ্যার ধারা",
+      "question": "২, ৪, ৮, ১৬, … ধারার পরের সংখ্যা কত?",
+      "options": [
+        "১৮",
+        "২৪",
+        "৩০",
+        "৩২"
+      ],
+      "correctAnswer": 3,
+      "explanation": "প্রতিটি পদ আগের পদের দ্বিগুণ। তাই ১৬ × ২ = ৩২।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    },
+    {
+      "subject": "মানসিক দক্ষতা",
+      "chapter": "যুক্তি",
+      "topic": "তুলনা",
+      "question": "রিমা মীনার চেয়ে লম্বা। মীনা সীমার চেয়ে লম্বা। সবচেয়ে লম্বা কে?",
+      "options": [
+        "রিমা",
+        "মীনা",
+        "সীমা",
+        "বলা যায় না"
+      ],
+      "correctAnswer": 0,
+      "explanation": "দেওয়া তথ্য অনুযায়ী রিমা > মীনা > সীমা। তাই রিমা সবচেয়ে লম্বা।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "easy",
+      "isSample": true,
+      "source": "Original app testing example; not a previous-year admission question.",
+      "language": "bn"
+    }
+  ]
+}

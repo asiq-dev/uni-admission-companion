@@ -1,0 +1,9102 @@
+{
+  "provenance": {
+    "source": "mledoze/countries contributors",
+    "sourceURL": "https://github.com/mledoze/countries/blob/fa4f62182d19ff4f8b325cde6387c9cd9d80955a/countries.json",
+    "commit": "fa4f62182d19ff4f8b325cde6387c9cd9d80955a",
+    "sha256": "0d92fb23b43ae080bd439f5dc5d61a8845395fdd0af1479b433c59fe079bd6fd",
+    "collected": "2026-11-17",
+    "license": "ODbL 1.0",
+    "derivedDatabaseLicense": "ODbL 1.0",
+    "changes": "Factual MCQ templates, selected fields, explanations and deterministic distractors.",
+    "verification": "Source-matched; NOT independently verified as current. Not university past papers.",
+    "sourceRecords": 250,
+    "independentRecords": 194,
+    "included": 945,
+    "capitalHold": [
+      "BEN",
+      "BOL",
+      "CIV",
+      "IDN",
+      "ISR",
+      "LKA",
+      "MYS",
+      "NLD",
+      "PSE",
+      "SDN",
+      "SWZ",
+      "TZA",
+      "YEM"
+    ]
+  },
+  "rows": [
+    {
+      "code": "ABW",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "AIA",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "ALA",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "ASM",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "ATA",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "ATF",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "BLM",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "SHN",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "BMU",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "BES",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "BVT",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "CCK",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "COK",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "CUW",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "CXR",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "CYM",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "ESH",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "FLK",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "FRO",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "GGY",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "GIB",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "GLP",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "GRL",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "GUF",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "GUM",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "HKG",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "HMD",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "IMN",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "IOT",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "JEY",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "UNK",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "MAC",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "MAF",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "MNP",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "MSR",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "MTQ",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "MYT",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "NCL",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "NFK",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "NIU",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "PCN",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "PRI",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "PSE",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "PYF",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "REU",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "SGS",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "SJM",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "SPM",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "SXM",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "TCA",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "TKL",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "TWN",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "UMI",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "VGB",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "VIR",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "WLF",
+      "status": "excluded",
+      "reason": "not marked independent in source"
+    },
+    {
+      "code": "AFG",
+      "field": "capital",
+      "status": "included",
+      "answer": "Kabul",
+      "validAnswers": [
+        "Kabul"
+      ]
+    },
+    {
+      "code": "AFG",
+      "field": "currency",
+      "status": "included",
+      "answer": "Afghan afghani",
+      "validAnswers": [
+        "Afghan afghani"
+      ]
+    },
+    {
+      "code": "AFG",
+      "field": "language",
+      "status": "included",
+      "answer": "Dari",
+      "validAnswers": [
+        "Dari",
+        "Pashto",
+        "Turkmen"
+      ]
+    },
+    {
+      "code": "AFG",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "AFG",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Asia",
+      "validAnswers": [
+        "Southern Asia"
+      ]
+    },
+    {
+      "code": "AGO",
+      "field": "capital",
+      "status": "included",
+      "answer": "Luanda",
+      "validAnswers": [
+        "Luanda"
+      ]
+    },
+    {
+      "code": "AGO",
+      "field": "currency",
+      "status": "included",
+      "answer": "Angolan kwanza",
+      "validAnswers": [
+        "Angolan kwanza"
+      ]
+    },
+    {
+      "code": "AGO",
+      "field": "language",
+      "status": "included",
+      "answer": "Portuguese",
+      "validAnswers": [
+        "Portuguese"
+      ]
+    },
+    {
+      "code": "AGO",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "AGO",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "ALB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Tirana",
+      "validAnswers": [
+        "Tirana"
+      ]
+    },
+    {
+      "code": "ALB",
+      "field": "currency",
+      "status": "included",
+      "answer": "Albanian lek",
+      "validAnswers": [
+        "Albanian lek"
+      ]
+    },
+    {
+      "code": "ALB",
+      "field": "language",
+      "status": "included",
+      "answer": "Albanian",
+      "validAnswers": [
+        "Albanian"
+      ]
+    },
+    {
+      "code": "ALB",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "ALB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southeast Europe",
+      "validAnswers": [
+        "Southeast Europe"
+      ]
+    },
+    {
+      "code": "AND",
+      "field": "capital",
+      "status": "included",
+      "answer": "Andorra la Vella",
+      "validAnswers": [
+        "Andorra la Vella"
+      ]
+    },
+    {
+      "code": "AND",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "AND",
+      "field": "language",
+      "status": "included",
+      "answer": "Catalan",
+      "validAnswers": [
+        "Catalan"
+      ]
+    },
+    {
+      "code": "AND",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "AND",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Europe",
+      "validAnswers": [
+        "Southern Europe"
+      ]
+    },
+    {
+      "code": "ARE",
+      "field": "capital",
+      "status": "included",
+      "answer": "Abu Dhabi",
+      "validAnswers": [
+        "Abu Dhabi"
+      ]
+    },
+    {
+      "code": "ARE",
+      "field": "currency",
+      "status": "included",
+      "answer": "United Arab Emirates dirham",
+      "validAnswers": [
+        "United Arab Emirates dirham"
+      ]
+    },
+    {
+      "code": "ARE",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "ARE",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "ARE",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "ARG",
+      "field": "capital",
+      "status": "included",
+      "answer": "Buenos Aires",
+      "validAnswers": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "code": "ARG",
+      "field": "currency",
+      "status": "included",
+      "answer": "Argentine peso",
+      "validAnswers": [
+        "Argentine peso"
+      ]
+    },
+    {
+      "code": "ARG",
+      "field": "language",
+      "status": "included",
+      "answer": "Guaraní",
+      "validAnswers": [
+        "Guaraní",
+        "Spanish"
+      ]
+    },
+    {
+      "code": "ARG",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "ARG",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "ARM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Yerevan",
+      "validAnswers": [
+        "Yerevan"
+      ]
+    },
+    {
+      "code": "ARM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Armenian dram",
+      "validAnswers": [
+        "Armenian dram"
+      ]
+    },
+    {
+      "code": "ARM",
+      "field": "language",
+      "status": "included",
+      "answer": "Armenian",
+      "validAnswers": [
+        "Armenian"
+      ]
+    },
+    {
+      "code": "ARM",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "ARM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "ATG",
+      "field": "capital",
+      "status": "included",
+      "answer": "Saint John's",
+      "validAnswers": [
+        "Saint John's"
+      ]
+    },
+    {
+      "code": "ATG",
+      "field": "currency",
+      "status": "included",
+      "answer": "Eastern Caribbean dollar",
+      "validAnswers": [
+        "Eastern Caribbean dollar"
+      ]
+    },
+    {
+      "code": "ATG",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "ATG",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "ATG",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "AUS",
+      "field": "capital",
+      "status": "included",
+      "answer": "Canberra",
+      "validAnswers": [
+        "Canberra"
+      ]
+    },
+    {
+      "code": "AUS",
+      "field": "currency",
+      "status": "included",
+      "answer": "Australian dollar",
+      "validAnswers": [
+        "Australian dollar"
+      ]
+    },
+    {
+      "code": "AUS",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "AUS",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "AUS",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Australia and New Zealand",
+      "validAnswers": [
+        "Australia and New Zealand"
+      ]
+    },
+    {
+      "code": "AUT",
+      "field": "capital",
+      "status": "included",
+      "answer": "Vienna",
+      "validAnswers": [
+        "Vienna"
+      ]
+    },
+    {
+      "code": "AUT",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "AUT",
+      "field": "language",
+      "status": "included",
+      "answer": "Austro-Bavarian German",
+      "validAnswers": [
+        "Austro-Bavarian German"
+      ]
+    },
+    {
+      "code": "AUT",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "AUT",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Europe",
+      "validAnswers": [
+        "Central Europe"
+      ]
+    },
+    {
+      "code": "AZE",
+      "field": "capital",
+      "status": "included",
+      "answer": "Baku",
+      "validAnswers": [
+        "Baku"
+      ]
+    },
+    {
+      "code": "AZE",
+      "field": "currency",
+      "status": "included",
+      "answer": "Azerbaijani manat",
+      "validAnswers": [
+        "Azerbaijani manat"
+      ]
+    },
+    {
+      "code": "AZE",
+      "field": "language",
+      "status": "included",
+      "answer": "Azerbaijani",
+      "validAnswers": [
+        "Azerbaijani",
+        "Russian"
+      ]
+    },
+    {
+      "code": "AZE",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "AZE",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "BDI",
+      "field": "capital",
+      "status": "included",
+      "answer": "Gitega",
+      "validAnswers": [
+        "Gitega"
+      ]
+    },
+    {
+      "code": "BDI",
+      "field": "currency",
+      "status": "included",
+      "answer": "Burundian franc",
+      "validAnswers": [
+        "Burundian franc"
+      ]
+    },
+    {
+      "code": "BDI",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French",
+        "Kirundi"
+      ]
+    },
+    {
+      "code": "BDI",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "BDI",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "BEL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Brussels",
+      "validAnswers": [
+        "Brussels"
+      ]
+    },
+    {
+      "code": "BEL",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "BEL",
+      "field": "language",
+      "status": "included",
+      "answer": "Dutch",
+      "validAnswers": [
+        "Dutch",
+        "French",
+        "German"
+      ]
+    },
+    {
+      "code": "BEL",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "BEL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Europe",
+      "validAnswers": [
+        "Western Europe"
+      ]
+    },
+    {
+      "code": "BEN",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "BEN",
+      "field": "currency",
+      "status": "included",
+      "answer": "West African CFA franc",
+      "validAnswers": [
+        "West African CFA franc"
+      ]
+    },
+    {
+      "code": "BEN",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "BEN",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "BEN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "BFA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Ouagadougou",
+      "validAnswers": [
+        "Ouagadougou"
+      ]
+    },
+    {
+      "code": "BFA",
+      "field": "currency",
+      "status": "included",
+      "answer": "West African CFA franc",
+      "validAnswers": [
+        "West African CFA franc"
+      ]
+    },
+    {
+      "code": "BFA",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "BFA",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "BFA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "BGD",
+      "field": "capital",
+      "status": "included",
+      "answer": "Dhaka",
+      "validAnswers": [
+        "Dhaka"
+      ]
+    },
+    {
+      "code": "BGD",
+      "field": "currency",
+      "status": "included",
+      "answer": "Bangladeshi taka",
+      "validAnswers": [
+        "Bangladeshi taka"
+      ]
+    },
+    {
+      "code": "BGD",
+      "field": "language",
+      "status": "included",
+      "answer": "Bengali",
+      "validAnswers": [
+        "Bengali"
+      ]
+    },
+    {
+      "code": "BGD",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "BGD",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Asia",
+      "validAnswers": [
+        "Southern Asia"
+      ]
+    },
+    {
+      "code": "BGR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Sofia",
+      "validAnswers": [
+        "Sofia"
+      ]
+    },
+    {
+      "code": "BGR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "BGR",
+      "field": "language",
+      "status": "included",
+      "answer": "Bulgarian",
+      "validAnswers": [
+        "Bulgarian"
+      ]
+    },
+    {
+      "code": "BGR",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "BGR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southeast Europe",
+      "validAnswers": [
+        "Southeast Europe"
+      ]
+    },
+    {
+      "code": "BHR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Manama",
+      "validAnswers": [
+        "Manama"
+      ]
+    },
+    {
+      "code": "BHR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Bahraini dinar",
+      "validAnswers": [
+        "Bahraini dinar"
+      ]
+    },
+    {
+      "code": "BHR",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "BHR",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "BHR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "BHS",
+      "field": "capital",
+      "status": "included",
+      "answer": "Nassau",
+      "validAnswers": [
+        "Nassau"
+      ]
+    },
+    {
+      "code": "BHS",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "BHS",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "BHS",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "BHS",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "BIH",
+      "field": "capital",
+      "status": "included",
+      "answer": "Sarajevo",
+      "validAnswers": [
+        "Sarajevo"
+      ]
+    },
+    {
+      "code": "BIH",
+      "field": "currency",
+      "status": "included",
+      "answer": "Bosnia and Herzegovina convertible mark",
+      "validAnswers": [
+        "Bosnia and Herzegovina convertible mark"
+      ]
+    },
+    {
+      "code": "BIH",
+      "field": "language",
+      "status": "included",
+      "answer": "Bosnian",
+      "validAnswers": [
+        "Bosnian",
+        "Croatian",
+        "Serbian"
+      ]
+    },
+    {
+      "code": "BIH",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "BIH",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southeast Europe",
+      "validAnswers": [
+        "Southeast Europe"
+      ]
+    },
+    {
+      "code": "BLR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Minsk",
+      "validAnswers": [
+        "Minsk"
+      ]
+    },
+    {
+      "code": "BLR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Belarusian ruble",
+      "validAnswers": [
+        "Belarusian ruble"
+      ]
+    },
+    {
+      "code": "BLR",
+      "field": "language",
+      "status": "included",
+      "answer": "Belarusian",
+      "validAnswers": [
+        "Belarusian",
+        "Russian"
+      ]
+    },
+    {
+      "code": "BLR",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "BLR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Europe",
+      "validAnswers": [
+        "Eastern Europe"
+      ]
+    },
+    {
+      "code": "BLZ",
+      "field": "capital",
+      "status": "included",
+      "answer": "Belmopan",
+      "validAnswers": [
+        "Belmopan"
+      ]
+    },
+    {
+      "code": "BLZ",
+      "field": "currency",
+      "status": "included",
+      "answer": "Belize dollar",
+      "validAnswers": [
+        "Belize dollar"
+      ]
+    },
+    {
+      "code": "BLZ",
+      "field": "language",
+      "status": "included",
+      "answer": "Belizean Creole",
+      "validAnswers": [
+        "Belizean Creole",
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "code": "BLZ",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "BLZ",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central America",
+      "validAnswers": [
+        "Central America"
+      ]
+    },
+    {
+      "code": "BOL",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "BOL",
+      "field": "currency",
+      "status": "included",
+      "answer": "Bolivian boliviano",
+      "validAnswers": [
+        "Bolivian boliviano"
+      ]
+    },
+    {
+      "code": "BOL",
+      "field": "language",
+      "status": "included",
+      "answer": "Aymara",
+      "validAnswers": [
+        "Aymara",
+        "Guaraní",
+        "Quechua",
+        "Spanish"
+      ]
+    },
+    {
+      "code": "BOL",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "BOL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "BRA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Brasília",
+      "validAnswers": [
+        "Brasília"
+      ]
+    },
+    {
+      "code": "BRA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Brazilian real",
+      "validAnswers": [
+        "Brazilian real"
+      ]
+    },
+    {
+      "code": "BRA",
+      "field": "language",
+      "status": "included",
+      "answer": "Portuguese",
+      "validAnswers": [
+        "Portuguese"
+      ]
+    },
+    {
+      "code": "BRA",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "BRA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "BRB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bridgetown",
+      "validAnswers": [
+        "Bridgetown"
+      ]
+    },
+    {
+      "code": "BRB",
+      "field": "currency",
+      "status": "included",
+      "answer": "Barbadian dollar",
+      "validAnswers": [
+        "Barbadian dollar"
+      ]
+    },
+    {
+      "code": "BRB",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "BRB",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "BRB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "BRN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bandar Seri Begawan",
+      "validAnswers": [
+        "Bandar Seri Begawan"
+      ]
+    },
+    {
+      "code": "BRN",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "BRN",
+      "field": "language",
+      "status": "included",
+      "answer": "Malay",
+      "validAnswers": [
+        "Malay"
+      ]
+    },
+    {
+      "code": "BRN",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "BRN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "BTN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Thimphu",
+      "validAnswers": [
+        "Thimphu"
+      ]
+    },
+    {
+      "code": "BTN",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "BTN",
+      "field": "language",
+      "status": "included",
+      "answer": "Dzongkha",
+      "validAnswers": [
+        "Dzongkha"
+      ]
+    },
+    {
+      "code": "BTN",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "BTN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Asia",
+      "validAnswers": [
+        "Southern Asia"
+      ]
+    },
+    {
+      "code": "BWA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Gaborone",
+      "validAnswers": [
+        "Gaborone"
+      ]
+    },
+    {
+      "code": "BWA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Botswana pula",
+      "validAnswers": [
+        "Botswana pula"
+      ]
+    },
+    {
+      "code": "BWA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Tswana"
+      ]
+    },
+    {
+      "code": "BWA",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "BWA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Africa",
+      "validAnswers": [
+        "Southern Africa"
+      ]
+    },
+    {
+      "code": "CAF",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bangui",
+      "validAnswers": [
+        "Bangui"
+      ]
+    },
+    {
+      "code": "CAF",
+      "field": "currency",
+      "status": "included",
+      "answer": "Central African CFA franc",
+      "validAnswers": [
+        "Central African CFA franc"
+      ]
+    },
+    {
+      "code": "CAF",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French",
+        "Sango"
+      ]
+    },
+    {
+      "code": "CAF",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "CAF",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "CAN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Ottawa",
+      "validAnswers": [
+        "Ottawa"
+      ]
+    },
+    {
+      "code": "CAN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Canadian dollar",
+      "validAnswers": [
+        "Canadian dollar"
+      ]
+    },
+    {
+      "code": "CAN",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "French"
+      ]
+    },
+    {
+      "code": "CAN",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "CAN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "North America",
+      "validAnswers": [
+        "North America"
+      ]
+    },
+    {
+      "code": "CHE",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bern",
+      "validAnswers": [
+        "Bern"
+      ]
+    },
+    {
+      "code": "CHE",
+      "field": "currency",
+      "status": "included",
+      "answer": "Swiss franc",
+      "validAnswers": [
+        "Swiss franc"
+      ]
+    },
+    {
+      "code": "CHE",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French",
+        "Italian",
+        "Romansh",
+        "Swiss German"
+      ]
+    },
+    {
+      "code": "CHE",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "CHE",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Europe",
+      "validAnswers": [
+        "Western Europe"
+      ]
+    },
+    {
+      "code": "CHL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Santiago",
+      "validAnswers": [
+        "Santiago"
+      ]
+    },
+    {
+      "code": "CHL",
+      "field": "currency",
+      "status": "included",
+      "answer": "Chilean peso",
+      "validAnswers": [
+        "Chilean peso"
+      ]
+    },
+    {
+      "code": "CHL",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "CHL",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "CHL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "CHN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Beijing",
+      "validAnswers": [
+        "Beijing"
+      ]
+    },
+    {
+      "code": "CHN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Chinese yuan",
+      "validAnswers": [
+        "Chinese yuan"
+      ]
+    },
+    {
+      "code": "CHN",
+      "field": "language",
+      "status": "included",
+      "answer": "Chinese",
+      "validAnswers": [
+        "Chinese"
+      ]
+    },
+    {
+      "code": "CHN",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "CHN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Asia",
+      "validAnswers": [
+        "Eastern Asia"
+      ]
+    },
+    {
+      "code": "CIV",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "CIV",
+      "field": "currency",
+      "status": "included",
+      "answer": "West African CFA franc",
+      "validAnswers": [
+        "West African CFA franc"
+      ]
+    },
+    {
+      "code": "CIV",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "CIV",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "CIV",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "CMR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Yaoundé",
+      "validAnswers": [
+        "Yaoundé"
+      ]
+    },
+    {
+      "code": "CMR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Central African CFA franc",
+      "validAnswers": [
+        "Central African CFA franc"
+      ]
+    },
+    {
+      "code": "CMR",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "French"
+      ]
+    },
+    {
+      "code": "CMR",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "CMR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "COD",
+      "field": "capital",
+      "status": "included",
+      "answer": "Kinshasa",
+      "validAnswers": [
+        "Kinshasa"
+      ]
+    },
+    {
+      "code": "COD",
+      "field": "currency",
+      "status": "included",
+      "answer": "Congolese franc",
+      "validAnswers": [
+        "Congolese franc"
+      ]
+    },
+    {
+      "code": "COD",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French",
+        "Kikongo",
+        "Lingala",
+        "Swahili",
+        "Tshiluba"
+      ]
+    },
+    {
+      "code": "COD",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "COD",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "COG",
+      "field": "capital",
+      "status": "included",
+      "answer": "Brazzaville",
+      "validAnswers": [
+        "Brazzaville"
+      ]
+    },
+    {
+      "code": "COG",
+      "field": "currency",
+      "status": "included",
+      "answer": "Central African CFA franc",
+      "validAnswers": [
+        "Central African CFA franc"
+      ]
+    },
+    {
+      "code": "COG",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French",
+        "Kikongo",
+        "Lingala"
+      ]
+    },
+    {
+      "code": "COG",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "COG",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "COL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bogotá",
+      "validAnswers": [
+        "Bogotá"
+      ]
+    },
+    {
+      "code": "COL",
+      "field": "currency",
+      "status": "included",
+      "answer": "Colombian peso",
+      "validAnswers": [
+        "Colombian peso"
+      ]
+    },
+    {
+      "code": "COL",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "COL",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "COL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "COM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Moroni",
+      "validAnswers": [
+        "Moroni"
+      ]
+    },
+    {
+      "code": "COM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Comorian franc",
+      "validAnswers": [
+        "Comorian franc"
+      ]
+    },
+    {
+      "code": "COM",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "Comorian",
+        "French"
+      ]
+    },
+    {
+      "code": "COM",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "COM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "CPV",
+      "field": "capital",
+      "status": "included",
+      "answer": "Praia",
+      "validAnswers": [
+        "Praia"
+      ]
+    },
+    {
+      "code": "CPV",
+      "field": "currency",
+      "status": "included",
+      "answer": "Cape Verdean escudo",
+      "validAnswers": [
+        "Cape Verdean escudo"
+      ]
+    },
+    {
+      "code": "CPV",
+      "field": "language",
+      "status": "included",
+      "answer": "Portuguese",
+      "validAnswers": [
+        "Portuguese"
+      ]
+    },
+    {
+      "code": "CPV",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "CPV",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "CRI",
+      "field": "capital",
+      "status": "included",
+      "answer": "San José",
+      "validAnswers": [
+        "San José"
+      ]
+    },
+    {
+      "code": "CRI",
+      "field": "currency",
+      "status": "included",
+      "answer": "Costa Rican colón",
+      "validAnswers": [
+        "Costa Rican colón"
+      ]
+    },
+    {
+      "code": "CRI",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "CRI",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "CRI",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central America",
+      "validAnswers": [
+        "Central America"
+      ]
+    },
+    {
+      "code": "CUB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Havana",
+      "validAnswers": [
+        "Havana"
+      ]
+    },
+    {
+      "code": "CUB",
+      "field": "currency",
+      "status": "included",
+      "answer": "Cuban peso",
+      "validAnswers": [
+        "Cuban peso"
+      ]
+    },
+    {
+      "code": "CUB",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "CUB",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "CUB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "CYP",
+      "field": "capital",
+      "status": "included",
+      "answer": "Nicosia",
+      "validAnswers": [
+        "Nicosia"
+      ]
+    },
+    {
+      "code": "CYP",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "CYP",
+      "field": "language",
+      "status": "included",
+      "answer": "Greek",
+      "validAnswers": [
+        "Greek",
+        "Turkish"
+      ]
+    },
+    {
+      "code": "CYP",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "CYP",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Europe",
+      "validAnswers": [
+        "Southern Europe"
+      ]
+    },
+    {
+      "code": "CZE",
+      "field": "capital",
+      "status": "included",
+      "answer": "Prague",
+      "validAnswers": [
+        "Prague"
+      ]
+    },
+    {
+      "code": "CZE",
+      "field": "currency",
+      "status": "included",
+      "answer": "Czech koruna",
+      "validAnswers": [
+        "Czech koruna"
+      ]
+    },
+    {
+      "code": "CZE",
+      "field": "language",
+      "status": "included",
+      "answer": "Czech",
+      "validAnswers": [
+        "Czech",
+        "Slovak"
+      ]
+    },
+    {
+      "code": "CZE",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "CZE",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Europe",
+      "validAnswers": [
+        "Central Europe"
+      ]
+    },
+    {
+      "code": "DEU",
+      "field": "capital",
+      "status": "included",
+      "answer": "Berlin",
+      "validAnswers": [
+        "Berlin"
+      ]
+    },
+    {
+      "code": "DEU",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "DEU",
+      "field": "language",
+      "status": "included",
+      "answer": "German",
+      "validAnswers": [
+        "German"
+      ]
+    },
+    {
+      "code": "DEU",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "DEU",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Europe",
+      "validAnswers": [
+        "Western Europe"
+      ]
+    },
+    {
+      "code": "DJI",
+      "field": "capital",
+      "status": "included",
+      "answer": "Djibouti",
+      "validAnswers": [
+        "Djibouti"
+      ]
+    },
+    {
+      "code": "DJI",
+      "field": "currency",
+      "status": "included",
+      "answer": "Djiboutian franc",
+      "validAnswers": [
+        "Djiboutian franc"
+      ]
+    },
+    {
+      "code": "DJI",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "French"
+      ]
+    },
+    {
+      "code": "DJI",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "DJI",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "DMA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Roseau",
+      "validAnswers": [
+        "Roseau"
+      ]
+    },
+    {
+      "code": "DMA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Eastern Caribbean dollar",
+      "validAnswers": [
+        "Eastern Caribbean dollar"
+      ]
+    },
+    {
+      "code": "DMA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "DMA",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "DMA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "DNK",
+      "field": "capital",
+      "status": "included",
+      "answer": "Copenhagen",
+      "validAnswers": [
+        "Copenhagen"
+      ]
+    },
+    {
+      "code": "DNK",
+      "field": "currency",
+      "status": "included",
+      "answer": "Danish krone",
+      "validAnswers": [
+        "Danish krone"
+      ]
+    },
+    {
+      "code": "DNK",
+      "field": "language",
+      "status": "included",
+      "answer": "Danish",
+      "validAnswers": [
+        "Danish"
+      ]
+    },
+    {
+      "code": "DNK",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "DNK",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "DOM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Santo Domingo",
+      "validAnswers": [
+        "Santo Domingo"
+      ]
+    },
+    {
+      "code": "DOM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Dominican peso",
+      "validAnswers": [
+        "Dominican peso"
+      ]
+    },
+    {
+      "code": "DOM",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "DOM",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "DOM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "DZA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Algiers",
+      "validAnswers": [
+        "Algiers"
+      ]
+    },
+    {
+      "code": "DZA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Algerian dinar",
+      "validAnswers": [
+        "Algerian dinar"
+      ]
+    },
+    {
+      "code": "DZA",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "DZA",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "DZA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Africa",
+      "validAnswers": [
+        "Northern Africa"
+      ]
+    },
+    {
+      "code": "ECU",
+      "field": "capital",
+      "status": "included",
+      "answer": "Quito",
+      "validAnswers": [
+        "Quito"
+      ]
+    },
+    {
+      "code": "ECU",
+      "field": "currency",
+      "status": "included",
+      "answer": "United States dollar",
+      "validAnswers": [
+        "United States dollar"
+      ]
+    },
+    {
+      "code": "ECU",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "ECU",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "ECU",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "EGY",
+      "field": "capital",
+      "status": "included",
+      "answer": "Cairo",
+      "validAnswers": [
+        "Cairo"
+      ]
+    },
+    {
+      "code": "EGY",
+      "field": "currency",
+      "status": "included",
+      "answer": "Egyptian pound",
+      "validAnswers": [
+        "Egyptian pound"
+      ]
+    },
+    {
+      "code": "EGY",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "EGY",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "EGY",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Africa",
+      "validAnswers": [
+        "Northern Africa"
+      ]
+    },
+    {
+      "code": "ERI",
+      "field": "capital",
+      "status": "included",
+      "answer": "Asmara",
+      "validAnswers": [
+        "Asmara"
+      ]
+    },
+    {
+      "code": "ERI",
+      "field": "currency",
+      "status": "included",
+      "answer": "Eritrean nakfa",
+      "validAnswers": [
+        "Eritrean nakfa"
+      ]
+    },
+    {
+      "code": "ERI",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "English",
+        "Tigrinya"
+      ]
+    },
+    {
+      "code": "ERI",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "ERI",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "ESP",
+      "field": "capital",
+      "status": "included",
+      "answer": "Madrid",
+      "validAnswers": [
+        "Madrid"
+      ]
+    },
+    {
+      "code": "ESP",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "ESP",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "ESP",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "ESP",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Europe",
+      "validAnswers": [
+        "Southern Europe"
+      ]
+    },
+    {
+      "code": "EST",
+      "field": "capital",
+      "status": "included",
+      "answer": "Tallinn",
+      "validAnswers": [
+        "Tallinn"
+      ]
+    },
+    {
+      "code": "EST",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "EST",
+      "field": "language",
+      "status": "included",
+      "answer": "Estonian",
+      "validAnswers": [
+        "Estonian"
+      ]
+    },
+    {
+      "code": "EST",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "EST",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "ETH",
+      "field": "capital",
+      "status": "included",
+      "answer": "Addis Ababa",
+      "validAnswers": [
+        "Addis Ababa"
+      ]
+    },
+    {
+      "code": "ETH",
+      "field": "currency",
+      "status": "included",
+      "answer": "Ethiopian birr",
+      "validAnswers": [
+        "Ethiopian birr"
+      ]
+    },
+    {
+      "code": "ETH",
+      "field": "language",
+      "status": "included",
+      "answer": "Amharic",
+      "validAnswers": [
+        "Amharic"
+      ]
+    },
+    {
+      "code": "ETH",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "ETH",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "FIN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Helsinki",
+      "validAnswers": [
+        "Helsinki"
+      ]
+    },
+    {
+      "code": "FIN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "FIN",
+      "field": "language",
+      "status": "included",
+      "answer": "Finnish",
+      "validAnswers": [
+        "Finnish",
+        "Swedish"
+      ]
+    },
+    {
+      "code": "FIN",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "FIN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "FJI",
+      "field": "capital",
+      "status": "included",
+      "answer": "Suva",
+      "validAnswers": [
+        "Suva"
+      ]
+    },
+    {
+      "code": "FJI",
+      "field": "currency",
+      "status": "included",
+      "answer": "Fijian dollar",
+      "validAnswers": [
+        "Fijian dollar"
+      ]
+    },
+    {
+      "code": "FJI",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Fiji Hindi",
+        "Fijian"
+      ]
+    },
+    {
+      "code": "FJI",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "FJI",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Melanesia",
+      "validAnswers": [
+        "Melanesia"
+      ]
+    },
+    {
+      "code": "FRA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Paris",
+      "validAnswers": [
+        "Paris"
+      ]
+    },
+    {
+      "code": "FRA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "FRA",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "FRA",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "FRA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Europe",
+      "validAnswers": [
+        "Western Europe"
+      ]
+    },
+    {
+      "code": "FSM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Palikir",
+      "validAnswers": [
+        "Palikir"
+      ]
+    },
+    {
+      "code": "FSM",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "FSM",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "FSM",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "FSM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Micronesia",
+      "validAnswers": [
+        "Micronesia"
+      ]
+    },
+    {
+      "code": "GAB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Libreville",
+      "validAnswers": [
+        "Libreville"
+      ]
+    },
+    {
+      "code": "GAB",
+      "field": "currency",
+      "status": "included",
+      "answer": "Central African CFA franc",
+      "validAnswers": [
+        "Central African CFA franc"
+      ]
+    },
+    {
+      "code": "GAB",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "GAB",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "GAB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "GBR",
+      "field": "capital",
+      "status": "included",
+      "answer": "London",
+      "validAnswers": [
+        "London"
+      ]
+    },
+    {
+      "code": "GBR",
+      "field": "currency",
+      "status": "included",
+      "answer": "British pound",
+      "validAnswers": [
+        "British pound"
+      ]
+    },
+    {
+      "code": "GBR",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "GBR",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "GBR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "GEO",
+      "field": "capital",
+      "status": "included",
+      "answer": "Tbilisi",
+      "validAnswers": [
+        "Tbilisi"
+      ]
+    },
+    {
+      "code": "GEO",
+      "field": "currency",
+      "status": "included",
+      "answer": "lari",
+      "validAnswers": [
+        "lari"
+      ]
+    },
+    {
+      "code": "GEO",
+      "field": "language",
+      "status": "included",
+      "answer": "Georgian",
+      "validAnswers": [
+        "Georgian"
+      ]
+    },
+    {
+      "code": "GEO",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "GEO",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "GHA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Accra",
+      "validAnswers": [
+        "Accra"
+      ]
+    },
+    {
+      "code": "GHA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Ghanaian cedi",
+      "validAnswers": [
+        "Ghanaian cedi"
+      ]
+    },
+    {
+      "code": "GHA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "GHA",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "GHA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "GIN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Conakry",
+      "validAnswers": [
+        "Conakry"
+      ]
+    },
+    {
+      "code": "GIN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Guinean franc",
+      "validAnswers": [
+        "Guinean franc"
+      ]
+    },
+    {
+      "code": "GIN",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "GIN",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "GIN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "GMB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Banjul",
+      "validAnswers": [
+        "Banjul"
+      ]
+    },
+    {
+      "code": "GMB",
+      "field": "currency",
+      "status": "included",
+      "answer": "dalasi",
+      "validAnswers": [
+        "dalasi"
+      ]
+    },
+    {
+      "code": "GMB",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "GMB",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "GMB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "GNB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bissau",
+      "validAnswers": [
+        "Bissau"
+      ]
+    },
+    {
+      "code": "GNB",
+      "field": "currency",
+      "status": "included",
+      "answer": "West African CFA franc",
+      "validAnswers": [
+        "West African CFA franc"
+      ]
+    },
+    {
+      "code": "GNB",
+      "field": "language",
+      "status": "included",
+      "answer": "Portuguese",
+      "validAnswers": [
+        "Portuguese",
+        "Upper Guinea Creole"
+      ]
+    },
+    {
+      "code": "GNB",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "GNB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "GNQ",
+      "field": "capital",
+      "status": "included",
+      "answer": "Ciudad de la Paz",
+      "validAnswers": [
+        "Ciudad de la Paz"
+      ]
+    },
+    {
+      "code": "GNQ",
+      "field": "currency",
+      "status": "included",
+      "answer": "Central African CFA franc",
+      "validAnswers": [
+        "Central African CFA franc"
+      ]
+    },
+    {
+      "code": "GNQ",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "code": "GNQ",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "GNQ",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "GRC",
+      "field": "capital",
+      "status": "included",
+      "answer": "Athens",
+      "validAnswers": [
+        "Athens"
+      ]
+    },
+    {
+      "code": "GRC",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "GRC",
+      "field": "language",
+      "status": "included",
+      "answer": "Greek",
+      "validAnswers": [
+        "Greek"
+      ]
+    },
+    {
+      "code": "GRC",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "GRC",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Europe",
+      "validAnswers": [
+        "Southern Europe"
+      ]
+    },
+    {
+      "code": "GRD",
+      "field": "capital",
+      "status": "included",
+      "answer": "St. George's",
+      "validAnswers": [
+        "St. George's"
+      ]
+    },
+    {
+      "code": "GRD",
+      "field": "currency",
+      "status": "included",
+      "answer": "Eastern Caribbean dollar",
+      "validAnswers": [
+        "Eastern Caribbean dollar"
+      ]
+    },
+    {
+      "code": "GRD",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "GRD",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "GRD",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "GTM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Guatemala City",
+      "validAnswers": [
+        "Guatemala City"
+      ]
+    },
+    {
+      "code": "GTM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Guatemalan quetzal",
+      "validAnswers": [
+        "Guatemalan quetzal"
+      ]
+    },
+    {
+      "code": "GTM",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "GTM",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "GTM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central America",
+      "validAnswers": [
+        "Central America"
+      ]
+    },
+    {
+      "code": "GUY",
+      "field": "capital",
+      "status": "included",
+      "answer": "Georgetown",
+      "validAnswers": [
+        "Georgetown"
+      ]
+    },
+    {
+      "code": "GUY",
+      "field": "currency",
+      "status": "included",
+      "answer": "Guyanese dollar",
+      "validAnswers": [
+        "Guyanese dollar"
+      ]
+    },
+    {
+      "code": "GUY",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "GUY",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "GUY",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "HND",
+      "field": "capital",
+      "status": "included",
+      "answer": "Tegucigalpa",
+      "validAnswers": [
+        "Tegucigalpa"
+      ]
+    },
+    {
+      "code": "HND",
+      "field": "currency",
+      "status": "included",
+      "answer": "Honduran lempira",
+      "validAnswers": [
+        "Honduran lempira"
+      ]
+    },
+    {
+      "code": "HND",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "HND",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "HND",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central America",
+      "validAnswers": [
+        "Central America"
+      ]
+    },
+    {
+      "code": "HRV",
+      "field": "capital",
+      "status": "included",
+      "answer": "Zagreb",
+      "validAnswers": [
+        "Zagreb"
+      ]
+    },
+    {
+      "code": "HRV",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "HRV",
+      "field": "language",
+      "status": "included",
+      "answer": "Croatian",
+      "validAnswers": [
+        "Croatian"
+      ]
+    },
+    {
+      "code": "HRV",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "HRV",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southeast Europe",
+      "validAnswers": [
+        "Southeast Europe"
+      ]
+    },
+    {
+      "code": "HTI",
+      "field": "capital",
+      "status": "included",
+      "answer": "Port-au-Prince",
+      "validAnswers": [
+        "Port-au-Prince"
+      ]
+    },
+    {
+      "code": "HTI",
+      "field": "currency",
+      "status": "included",
+      "answer": "Haitian gourde",
+      "validAnswers": [
+        "Haitian gourde"
+      ]
+    },
+    {
+      "code": "HTI",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French",
+        "Haitian Creole"
+      ]
+    },
+    {
+      "code": "HTI",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "HTI",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "HUN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Budapest",
+      "validAnswers": [
+        "Budapest"
+      ]
+    },
+    {
+      "code": "HUN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Hungarian forint",
+      "validAnswers": [
+        "Hungarian forint"
+      ]
+    },
+    {
+      "code": "HUN",
+      "field": "language",
+      "status": "included",
+      "answer": "Hungarian",
+      "validAnswers": [
+        "Hungarian"
+      ]
+    },
+    {
+      "code": "HUN",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "HUN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Europe",
+      "validAnswers": [
+        "Central Europe"
+      ]
+    },
+    {
+      "code": "IDN",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "IDN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Indonesian rupiah",
+      "validAnswers": [
+        "Indonesian rupiah"
+      ]
+    },
+    {
+      "code": "IDN",
+      "field": "language",
+      "status": "included",
+      "answer": "Indonesian",
+      "validAnswers": [
+        "Indonesian"
+      ]
+    },
+    {
+      "code": "IDN",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "IDN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "IND",
+      "field": "capital",
+      "status": "included",
+      "answer": "New Delhi",
+      "validAnswers": [
+        "New Delhi"
+      ]
+    },
+    {
+      "code": "IND",
+      "field": "currency",
+      "status": "included",
+      "answer": "Indian rupee",
+      "validAnswers": [
+        "Indian rupee"
+      ]
+    },
+    {
+      "code": "IND",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Hindi",
+        "Tamil"
+      ]
+    },
+    {
+      "code": "IND",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "IND",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Asia",
+      "validAnswers": [
+        "Southern Asia"
+      ]
+    },
+    {
+      "code": "IRL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Dublin",
+      "validAnswers": [
+        "Dublin"
+      ]
+    },
+    {
+      "code": "IRL",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "IRL",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Irish"
+      ]
+    },
+    {
+      "code": "IRL",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "IRL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "IRN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Tehran",
+      "validAnswers": [
+        "Tehran"
+      ]
+    },
+    {
+      "code": "IRN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Iranian rial",
+      "validAnswers": [
+        "Iranian rial"
+      ]
+    },
+    {
+      "code": "IRN",
+      "field": "language",
+      "status": "included",
+      "answer": "Persian (Farsi)",
+      "validAnswers": [
+        "Persian (Farsi)"
+      ]
+    },
+    {
+      "code": "IRN",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "IRN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Asia",
+      "validAnswers": [
+        "Southern Asia"
+      ]
+    },
+    {
+      "code": "IRQ",
+      "field": "capital",
+      "status": "included",
+      "answer": "Baghdad",
+      "validAnswers": [
+        "Baghdad"
+      ]
+    },
+    {
+      "code": "IRQ",
+      "field": "currency",
+      "status": "included",
+      "answer": "Iraqi dinar",
+      "validAnswers": [
+        "Iraqi dinar"
+      ]
+    },
+    {
+      "code": "IRQ",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "Aramaic",
+        "Sorani"
+      ]
+    },
+    {
+      "code": "IRQ",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "IRQ",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "ISL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Reykjavik",
+      "validAnswers": [
+        "Reykjavik"
+      ]
+    },
+    {
+      "code": "ISL",
+      "field": "currency",
+      "status": "included",
+      "answer": "Icelandic króna",
+      "validAnswers": [
+        "Icelandic króna"
+      ]
+    },
+    {
+      "code": "ISL",
+      "field": "language",
+      "status": "included",
+      "answer": "Icelandic",
+      "validAnswers": [
+        "Icelandic"
+      ]
+    },
+    {
+      "code": "ISL",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "ISL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "ISR",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "ISR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Israeli new shekel",
+      "validAnswers": [
+        "Israeli new shekel"
+      ]
+    },
+    {
+      "code": "ISR",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "Hebrew"
+      ]
+    },
+    {
+      "code": "ISR",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "ISR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "ITA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Rome",
+      "validAnswers": [
+        "Rome"
+      ]
+    },
+    {
+      "code": "ITA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "ITA",
+      "field": "language",
+      "status": "included",
+      "answer": "Italian",
+      "validAnswers": [
+        "Italian"
+      ]
+    },
+    {
+      "code": "ITA",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "ITA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Europe",
+      "validAnswers": [
+        "Southern Europe"
+      ]
+    },
+    {
+      "code": "JAM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Kingston",
+      "validAnswers": [
+        "Kingston"
+      ]
+    },
+    {
+      "code": "JAM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Jamaican dollar",
+      "validAnswers": [
+        "Jamaican dollar"
+      ]
+    },
+    {
+      "code": "JAM",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Jamaican Patois"
+      ]
+    },
+    {
+      "code": "JAM",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "JAM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "JOR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Amman",
+      "validAnswers": [
+        "Amman"
+      ]
+    },
+    {
+      "code": "JOR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Jordanian dinar",
+      "validAnswers": [
+        "Jordanian dinar"
+      ]
+    },
+    {
+      "code": "JOR",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "JOR",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "JOR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "JPN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Tokyo",
+      "validAnswers": [
+        "Tokyo"
+      ]
+    },
+    {
+      "code": "JPN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Japanese yen",
+      "validAnswers": [
+        "Japanese yen"
+      ]
+    },
+    {
+      "code": "JPN",
+      "field": "language",
+      "status": "included",
+      "answer": "Japanese",
+      "validAnswers": [
+        "Japanese"
+      ]
+    },
+    {
+      "code": "JPN",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "JPN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Asia",
+      "validAnswers": [
+        "Eastern Asia"
+      ]
+    },
+    {
+      "code": "KAZ",
+      "field": "capital",
+      "status": "included",
+      "answer": "Astana",
+      "validAnswers": [
+        "Astana"
+      ]
+    },
+    {
+      "code": "KAZ",
+      "field": "currency",
+      "status": "included",
+      "answer": "Kazakhstani tenge",
+      "validAnswers": [
+        "Kazakhstani tenge"
+      ]
+    },
+    {
+      "code": "KAZ",
+      "field": "language",
+      "status": "included",
+      "answer": "Kazakh",
+      "validAnswers": [
+        "Kazakh",
+        "Russian"
+      ]
+    },
+    {
+      "code": "KAZ",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "KAZ",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Asia",
+      "validAnswers": [
+        "Central Asia"
+      ]
+    },
+    {
+      "code": "KEN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Nairobi",
+      "validAnswers": [
+        "Nairobi"
+      ]
+    },
+    {
+      "code": "KEN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Kenyan shilling",
+      "validAnswers": [
+        "Kenyan shilling"
+      ]
+    },
+    {
+      "code": "KEN",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Swahili"
+      ]
+    },
+    {
+      "code": "KEN",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "KEN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "KGZ",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bishkek",
+      "validAnswers": [
+        "Bishkek"
+      ]
+    },
+    {
+      "code": "KGZ",
+      "field": "currency",
+      "status": "included",
+      "answer": "Kyrgyzstani som",
+      "validAnswers": [
+        "Kyrgyzstani som"
+      ]
+    },
+    {
+      "code": "KGZ",
+      "field": "language",
+      "status": "included",
+      "answer": "Kyrgyz",
+      "validAnswers": [
+        "Kyrgyz",
+        "Russian"
+      ]
+    },
+    {
+      "code": "KGZ",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "KGZ",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Asia",
+      "validAnswers": [
+        "Central Asia"
+      ]
+    },
+    {
+      "code": "KHM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Phnom Penh",
+      "validAnswers": [
+        "Phnom Penh"
+      ]
+    },
+    {
+      "code": "KHM",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "KHM",
+      "field": "language",
+      "status": "included",
+      "answer": "Khmer",
+      "validAnswers": [
+        "Khmer"
+      ]
+    },
+    {
+      "code": "KHM",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "KHM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "KIR",
+      "field": "capital",
+      "status": "included",
+      "answer": "South Tarawa",
+      "validAnswers": [
+        "South Tarawa"
+      ]
+    },
+    {
+      "code": "KIR",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "KIR",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Gilbertese"
+      ]
+    },
+    {
+      "code": "KIR",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "KIR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Micronesia",
+      "validAnswers": [
+        "Micronesia"
+      ]
+    },
+    {
+      "code": "KNA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Basseterre",
+      "validAnswers": [
+        "Basseterre"
+      ]
+    },
+    {
+      "code": "KNA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Eastern Caribbean dollar",
+      "validAnswers": [
+        "Eastern Caribbean dollar"
+      ]
+    },
+    {
+      "code": "KNA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "KNA",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "KNA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "KOR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Seoul",
+      "validAnswers": [
+        "Seoul"
+      ]
+    },
+    {
+      "code": "KOR",
+      "field": "currency",
+      "status": "included",
+      "answer": "South Korean won",
+      "validAnswers": [
+        "South Korean won"
+      ]
+    },
+    {
+      "code": "KOR",
+      "field": "language",
+      "status": "included",
+      "answer": "Korean",
+      "validAnswers": [
+        "Korean"
+      ]
+    },
+    {
+      "code": "KOR",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "KOR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Asia",
+      "validAnswers": [
+        "Eastern Asia"
+      ]
+    },
+    {
+      "code": "KWT",
+      "field": "capital",
+      "status": "included",
+      "answer": "Kuwait City",
+      "validAnswers": [
+        "Kuwait City"
+      ]
+    },
+    {
+      "code": "KWT",
+      "field": "currency",
+      "status": "included",
+      "answer": "Kuwaiti dinar",
+      "validAnswers": [
+        "Kuwaiti dinar"
+      ]
+    },
+    {
+      "code": "KWT",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "KWT",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "KWT",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "LAO",
+      "field": "capital",
+      "status": "included",
+      "answer": "Vientiane",
+      "validAnswers": [
+        "Vientiane"
+      ]
+    },
+    {
+      "code": "LAO",
+      "field": "currency",
+      "status": "included",
+      "answer": "Lao kip",
+      "validAnswers": [
+        "Lao kip"
+      ]
+    },
+    {
+      "code": "LAO",
+      "field": "language",
+      "status": "included",
+      "answer": "Lao",
+      "validAnswers": [
+        "Lao"
+      ]
+    },
+    {
+      "code": "LAO",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "LAO",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "LBN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Beirut",
+      "validAnswers": [
+        "Beirut"
+      ]
+    },
+    {
+      "code": "LBN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Lebanese pound",
+      "validAnswers": [
+        "Lebanese pound"
+      ]
+    },
+    {
+      "code": "LBN",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "French"
+      ]
+    },
+    {
+      "code": "LBN",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "LBN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "LBR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Monrovia",
+      "validAnswers": [
+        "Monrovia"
+      ]
+    },
+    {
+      "code": "LBR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Liberian dollar",
+      "validAnswers": [
+        "Liberian dollar"
+      ]
+    },
+    {
+      "code": "LBR",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "LBR",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "LBR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "LBY",
+      "field": "capital",
+      "status": "included",
+      "answer": "Tripoli",
+      "validAnswers": [
+        "Tripoli"
+      ]
+    },
+    {
+      "code": "LBY",
+      "field": "currency",
+      "status": "included",
+      "answer": "Libyan dinar",
+      "validAnswers": [
+        "Libyan dinar"
+      ]
+    },
+    {
+      "code": "LBY",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "LBY",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "LBY",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Africa",
+      "validAnswers": [
+        "Northern Africa"
+      ]
+    },
+    {
+      "code": "LCA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Castries",
+      "validAnswers": [
+        "Castries"
+      ]
+    },
+    {
+      "code": "LCA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Eastern Caribbean dollar",
+      "validAnswers": [
+        "Eastern Caribbean dollar"
+      ]
+    },
+    {
+      "code": "LCA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "LCA",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "LCA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "LIE",
+      "field": "capital",
+      "status": "included",
+      "answer": "Vaduz",
+      "validAnswers": [
+        "Vaduz"
+      ]
+    },
+    {
+      "code": "LIE",
+      "field": "currency",
+      "status": "included",
+      "answer": "Swiss franc",
+      "validAnswers": [
+        "Swiss franc"
+      ]
+    },
+    {
+      "code": "LIE",
+      "field": "language",
+      "status": "included",
+      "answer": "German",
+      "validAnswers": [
+        "German"
+      ]
+    },
+    {
+      "code": "LIE",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "LIE",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Europe",
+      "validAnswers": [
+        "Western Europe"
+      ]
+    },
+    {
+      "code": "LKA",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "LKA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Sri Lankan rupee",
+      "validAnswers": [
+        "Sri Lankan rupee"
+      ]
+    },
+    {
+      "code": "LKA",
+      "field": "language",
+      "status": "included",
+      "answer": "Sinhala",
+      "validAnswers": [
+        "Sinhala",
+        "Tamil"
+      ]
+    },
+    {
+      "code": "LKA",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "LKA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Asia",
+      "validAnswers": [
+        "Southern Asia"
+      ]
+    },
+    {
+      "code": "LSO",
+      "field": "capital",
+      "status": "included",
+      "answer": "Maseru",
+      "validAnswers": [
+        "Maseru"
+      ]
+    },
+    {
+      "code": "LSO",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "LSO",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Sotho"
+      ]
+    },
+    {
+      "code": "LSO",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "LSO",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Africa",
+      "validAnswers": [
+        "Southern Africa"
+      ]
+    },
+    {
+      "code": "LTU",
+      "field": "capital",
+      "status": "included",
+      "answer": "Vilnius",
+      "validAnswers": [
+        "Vilnius"
+      ]
+    },
+    {
+      "code": "LTU",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "LTU",
+      "field": "language",
+      "status": "included",
+      "answer": "Lithuanian",
+      "validAnswers": [
+        "Lithuanian"
+      ]
+    },
+    {
+      "code": "LTU",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "LTU",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "LUX",
+      "field": "capital",
+      "status": "included",
+      "answer": "Luxembourg",
+      "validAnswers": [
+        "Luxembourg"
+      ]
+    },
+    {
+      "code": "LUX",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "LUX",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French",
+        "German",
+        "Luxembourgish"
+      ]
+    },
+    {
+      "code": "LUX",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "LUX",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Europe",
+      "validAnswers": [
+        "Western Europe"
+      ]
+    },
+    {
+      "code": "LVA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Riga",
+      "validAnswers": [
+        "Riga"
+      ]
+    },
+    {
+      "code": "LVA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "LVA",
+      "field": "language",
+      "status": "included",
+      "answer": "Latvian",
+      "validAnswers": [
+        "Latvian"
+      ]
+    },
+    {
+      "code": "LVA",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "LVA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "MAR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Rabat",
+      "validAnswers": [
+        "Rabat"
+      ]
+    },
+    {
+      "code": "MAR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Moroccan dirham",
+      "validAnswers": [
+        "Moroccan dirham"
+      ]
+    },
+    {
+      "code": "MAR",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "Berber"
+      ]
+    },
+    {
+      "code": "MAR",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "MAR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Africa",
+      "validAnswers": [
+        "Northern Africa"
+      ]
+    },
+    {
+      "code": "MCO",
+      "field": "capital",
+      "status": "included",
+      "answer": "Monaco",
+      "validAnswers": [
+        "Monaco"
+      ]
+    },
+    {
+      "code": "MCO",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "MCO",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "MCO",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "MCO",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Europe",
+      "validAnswers": [
+        "Western Europe"
+      ]
+    },
+    {
+      "code": "MDA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Chișinău",
+      "validAnswers": [
+        "Chișinău"
+      ]
+    },
+    {
+      "code": "MDA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Moldovan leu",
+      "validAnswers": [
+        "Moldovan leu"
+      ]
+    },
+    {
+      "code": "MDA",
+      "field": "language",
+      "status": "included",
+      "answer": "Moldavian",
+      "validAnswers": [
+        "Moldavian"
+      ]
+    },
+    {
+      "code": "MDA",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "MDA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Europe",
+      "validAnswers": [
+        "Eastern Europe"
+      ]
+    },
+    {
+      "code": "MDG",
+      "field": "capital",
+      "status": "included",
+      "answer": "Antananarivo",
+      "validAnswers": [
+        "Antananarivo"
+      ]
+    },
+    {
+      "code": "MDG",
+      "field": "currency",
+      "status": "included",
+      "answer": "Malagasy ariary",
+      "validAnswers": [
+        "Malagasy ariary"
+      ]
+    },
+    {
+      "code": "MDG",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French",
+        "Malagasy"
+      ]
+    },
+    {
+      "code": "MDG",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "MDG",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "MDV",
+      "field": "capital",
+      "status": "included",
+      "answer": "Malé",
+      "validAnswers": [
+        "Malé"
+      ]
+    },
+    {
+      "code": "MDV",
+      "field": "currency",
+      "status": "included",
+      "answer": "Maldivian rufiyaa",
+      "validAnswers": [
+        "Maldivian rufiyaa"
+      ]
+    },
+    {
+      "code": "MDV",
+      "field": "language",
+      "status": "included",
+      "answer": "Maldivian",
+      "validAnswers": [
+        "Maldivian"
+      ]
+    },
+    {
+      "code": "MDV",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "MDV",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Asia",
+      "validAnswers": [
+        "Southern Asia"
+      ]
+    },
+    {
+      "code": "MEX",
+      "field": "capital",
+      "status": "included",
+      "answer": "Mexico City",
+      "validAnswers": [
+        "Mexico City"
+      ]
+    },
+    {
+      "code": "MEX",
+      "field": "currency",
+      "status": "included",
+      "answer": "Mexican peso",
+      "validAnswers": [
+        "Mexican peso"
+      ]
+    },
+    {
+      "code": "MEX",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "MEX",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "MEX",
+      "field": "subregion",
+      "status": "included",
+      "answer": "North America",
+      "validAnswers": [
+        "North America"
+      ]
+    },
+    {
+      "code": "MHL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Majuro",
+      "validAnswers": [
+        "Majuro"
+      ]
+    },
+    {
+      "code": "MHL",
+      "field": "currency",
+      "status": "included",
+      "answer": "United States dollar",
+      "validAnswers": [
+        "United States dollar"
+      ]
+    },
+    {
+      "code": "MHL",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Marshallese"
+      ]
+    },
+    {
+      "code": "MHL",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "MHL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Micronesia",
+      "validAnswers": [
+        "Micronesia"
+      ]
+    },
+    {
+      "code": "MKD",
+      "field": "capital",
+      "status": "included",
+      "answer": "Skopje",
+      "validAnswers": [
+        "Skopje"
+      ]
+    },
+    {
+      "code": "MKD",
+      "field": "currency",
+      "status": "included",
+      "answer": "denar",
+      "validAnswers": [
+        "denar"
+      ]
+    },
+    {
+      "code": "MKD",
+      "field": "language",
+      "status": "included",
+      "answer": "Macedonian",
+      "validAnswers": [
+        "Macedonian"
+      ]
+    },
+    {
+      "code": "MKD",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "MKD",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southeast Europe",
+      "validAnswers": [
+        "Southeast Europe"
+      ]
+    },
+    {
+      "code": "MLI",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bamako",
+      "validAnswers": [
+        "Bamako"
+      ]
+    },
+    {
+      "code": "MLI",
+      "field": "currency",
+      "status": "included",
+      "answer": "West African CFA franc",
+      "validAnswers": [
+        "West African CFA franc"
+      ]
+    },
+    {
+      "code": "MLI",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "MLI",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "MLI",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "MLT",
+      "field": "capital",
+      "status": "included",
+      "answer": "Valletta",
+      "validAnswers": [
+        "Valletta"
+      ]
+    },
+    {
+      "code": "MLT",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "MLT",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Maltese"
+      ]
+    },
+    {
+      "code": "MLT",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "MLT",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Europe",
+      "validAnswers": [
+        "Southern Europe"
+      ]
+    },
+    {
+      "code": "MMR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Naypyidaw",
+      "validAnswers": [
+        "Naypyidaw"
+      ]
+    },
+    {
+      "code": "MMR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Burmese kyat",
+      "validAnswers": [
+        "Burmese kyat"
+      ]
+    },
+    {
+      "code": "MMR",
+      "field": "language",
+      "status": "included",
+      "answer": "Burmese",
+      "validAnswers": [
+        "Burmese"
+      ]
+    },
+    {
+      "code": "MMR",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "MMR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "MNE",
+      "field": "capital",
+      "status": "included",
+      "answer": "Podgorica",
+      "validAnswers": [
+        "Podgorica"
+      ]
+    },
+    {
+      "code": "MNE",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "MNE",
+      "field": "language",
+      "status": "included",
+      "answer": "Montenegrin",
+      "validAnswers": [
+        "Montenegrin"
+      ]
+    },
+    {
+      "code": "MNE",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "MNE",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southeast Europe",
+      "validAnswers": [
+        "Southeast Europe"
+      ]
+    },
+    {
+      "code": "MNG",
+      "field": "capital",
+      "status": "included",
+      "answer": "Ulan Bator",
+      "validAnswers": [
+        "Ulan Bator"
+      ]
+    },
+    {
+      "code": "MNG",
+      "field": "currency",
+      "status": "included",
+      "answer": "Mongolian tögrög",
+      "validAnswers": [
+        "Mongolian tögrög"
+      ]
+    },
+    {
+      "code": "MNG",
+      "field": "language",
+      "status": "included",
+      "answer": "Mongolian",
+      "validAnswers": [
+        "Mongolian"
+      ]
+    },
+    {
+      "code": "MNG",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "MNG",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Asia",
+      "validAnswers": [
+        "Eastern Asia"
+      ]
+    },
+    {
+      "code": "MOZ",
+      "field": "capital",
+      "status": "included",
+      "answer": "Maputo",
+      "validAnswers": [
+        "Maputo"
+      ]
+    },
+    {
+      "code": "MOZ",
+      "field": "currency",
+      "status": "included",
+      "answer": "Mozambican metical",
+      "validAnswers": [
+        "Mozambican metical"
+      ]
+    },
+    {
+      "code": "MOZ",
+      "field": "language",
+      "status": "included",
+      "answer": "Portuguese",
+      "validAnswers": [
+        "Portuguese"
+      ]
+    },
+    {
+      "code": "MOZ",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "MOZ",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "MRT",
+      "field": "capital",
+      "status": "included",
+      "answer": "Nouakchott",
+      "validAnswers": [
+        "Nouakchott"
+      ]
+    },
+    {
+      "code": "MRT",
+      "field": "currency",
+      "status": "included",
+      "answer": "Mauritanian ouguiya",
+      "validAnswers": [
+        "Mauritanian ouguiya"
+      ]
+    },
+    {
+      "code": "MRT",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "MRT",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "MRT",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "MUS",
+      "field": "capital",
+      "status": "included",
+      "answer": "Port Louis",
+      "validAnswers": [
+        "Port Louis"
+      ]
+    },
+    {
+      "code": "MUS",
+      "field": "currency",
+      "status": "included",
+      "answer": "Mauritian rupee",
+      "validAnswers": [
+        "Mauritian rupee"
+      ]
+    },
+    {
+      "code": "MUS",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "French",
+        "Mauritian Creole"
+      ]
+    },
+    {
+      "code": "MUS",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "MUS",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "MWI",
+      "field": "capital",
+      "status": "included",
+      "answer": "Lilongwe",
+      "validAnswers": [
+        "Lilongwe"
+      ]
+    },
+    {
+      "code": "MWI",
+      "field": "currency",
+      "status": "included",
+      "answer": "Malawian kwacha",
+      "validAnswers": [
+        "Malawian kwacha"
+      ]
+    },
+    {
+      "code": "MWI",
+      "field": "language",
+      "status": "included",
+      "answer": "Chewa",
+      "validAnswers": [
+        "Chewa",
+        "English"
+      ]
+    },
+    {
+      "code": "MWI",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "MWI",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "MYS",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "MYS",
+      "field": "currency",
+      "status": "included",
+      "answer": "Malaysian ringgit",
+      "validAnswers": [
+        "Malaysian ringgit"
+      ]
+    },
+    {
+      "code": "MYS",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Malay"
+      ]
+    },
+    {
+      "code": "MYS",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "MYS",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "NAM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Windhoek",
+      "validAnswers": [
+        "Windhoek"
+      ]
+    },
+    {
+      "code": "NAM",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "NAM",
+      "field": "language",
+      "status": "included",
+      "answer": "Afrikaans",
+      "validAnswers": [
+        "Afrikaans",
+        "English",
+        "German",
+        "Herero",
+        "Khoekhoe",
+        "Kwangali",
+        "Lozi",
+        "Ndonga",
+        "Tswana"
+      ]
+    },
+    {
+      "code": "NAM",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "NAM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Africa",
+      "validAnswers": [
+        "Southern Africa"
+      ]
+    },
+    {
+      "code": "NER",
+      "field": "capital",
+      "status": "included",
+      "answer": "Niamey",
+      "validAnswers": [
+        "Niamey"
+      ]
+    },
+    {
+      "code": "NER",
+      "field": "currency",
+      "status": "included",
+      "answer": "West African CFA franc",
+      "validAnswers": [
+        "West African CFA franc"
+      ]
+    },
+    {
+      "code": "NER",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "NER",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "NER",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "NGA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Abuja",
+      "validAnswers": [
+        "Abuja"
+      ]
+    },
+    {
+      "code": "NGA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Nigerian naira",
+      "validAnswers": [
+        "Nigerian naira"
+      ]
+    },
+    {
+      "code": "NGA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "NGA",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "NGA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "NIC",
+      "field": "capital",
+      "status": "included",
+      "answer": "Managua",
+      "validAnswers": [
+        "Managua"
+      ]
+    },
+    {
+      "code": "NIC",
+      "field": "currency",
+      "status": "included",
+      "answer": "Nicaraguan córdoba",
+      "validAnswers": [
+        "Nicaraguan córdoba"
+      ]
+    },
+    {
+      "code": "NIC",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "NIC",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "NIC",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central America",
+      "validAnswers": [
+        "Central America"
+      ]
+    },
+    {
+      "code": "NLD",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "NLD",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "NLD",
+      "field": "language",
+      "status": "included",
+      "answer": "Dutch",
+      "validAnswers": [
+        "Dutch"
+      ]
+    },
+    {
+      "code": "NLD",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "NLD",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Europe",
+      "validAnswers": [
+        "Western Europe"
+      ]
+    },
+    {
+      "code": "NOR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Oslo",
+      "validAnswers": [
+        "Oslo"
+      ]
+    },
+    {
+      "code": "NOR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Norwegian krone",
+      "validAnswers": [
+        "Norwegian krone"
+      ]
+    },
+    {
+      "code": "NOR",
+      "field": "language",
+      "status": "included",
+      "answer": "Norwegian Bokmål",
+      "validAnswers": [
+        "Norwegian Bokmål",
+        "Norwegian Nynorsk",
+        "Sami"
+      ]
+    },
+    {
+      "code": "NOR",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "NOR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "NPL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Kathmandu",
+      "validAnswers": [
+        "Kathmandu"
+      ]
+    },
+    {
+      "code": "NPL",
+      "field": "currency",
+      "status": "included",
+      "answer": "Nepalese rupee",
+      "validAnswers": [
+        "Nepalese rupee"
+      ]
+    },
+    {
+      "code": "NPL",
+      "field": "language",
+      "status": "included",
+      "answer": "Nepali",
+      "validAnswers": [
+        "Nepali"
+      ]
+    },
+    {
+      "code": "NPL",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "NPL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Asia",
+      "validAnswers": [
+        "Southern Asia"
+      ]
+    },
+    {
+      "code": "NRU",
+      "field": "capital",
+      "status": "included",
+      "answer": "Yaren",
+      "validAnswers": [
+        "Yaren"
+      ]
+    },
+    {
+      "code": "NRU",
+      "field": "currency",
+      "status": "included",
+      "answer": "Australian dollar",
+      "validAnswers": [
+        "Australian dollar"
+      ]
+    },
+    {
+      "code": "NRU",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Nauru"
+      ]
+    },
+    {
+      "code": "NRU",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "NRU",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Micronesia",
+      "validAnswers": [
+        "Micronesia"
+      ]
+    },
+    {
+      "code": "NZL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Wellington",
+      "validAnswers": [
+        "Wellington"
+      ]
+    },
+    {
+      "code": "NZL",
+      "field": "currency",
+      "status": "included",
+      "answer": "New Zealand dollar",
+      "validAnswers": [
+        "New Zealand dollar"
+      ]
+    },
+    {
+      "code": "NZL",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Māori",
+        "New Zealand Sign Language"
+      ]
+    },
+    {
+      "code": "NZL",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "NZL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Australia and New Zealand",
+      "validAnswers": [
+        "Australia and New Zealand"
+      ]
+    },
+    {
+      "code": "OMN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Muscat",
+      "validAnswers": [
+        "Muscat"
+      ]
+    },
+    {
+      "code": "OMN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Omani rial",
+      "validAnswers": [
+        "Omani rial"
+      ]
+    },
+    {
+      "code": "OMN",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "OMN",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "OMN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "PAK",
+      "field": "capital",
+      "status": "included",
+      "answer": "Islamabad",
+      "validAnswers": [
+        "Islamabad"
+      ]
+    },
+    {
+      "code": "PAK",
+      "field": "currency",
+      "status": "included",
+      "answer": "Pakistani rupee",
+      "validAnswers": [
+        "Pakistani rupee"
+      ]
+    },
+    {
+      "code": "PAK",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Urdu"
+      ]
+    },
+    {
+      "code": "PAK",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "PAK",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Asia",
+      "validAnswers": [
+        "Southern Asia"
+      ]
+    },
+    {
+      "code": "PAN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Panama City",
+      "validAnswers": [
+        "Panama City"
+      ]
+    },
+    {
+      "code": "PAN",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "PAN",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "PAN",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "PAN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central America",
+      "validAnswers": [
+        "Central America"
+      ]
+    },
+    {
+      "code": "PER",
+      "field": "capital",
+      "status": "included",
+      "answer": "Lima",
+      "validAnswers": [
+        "Lima"
+      ]
+    },
+    {
+      "code": "PER",
+      "field": "currency",
+      "status": "included",
+      "answer": "Peruvian sol",
+      "validAnswers": [
+        "Peruvian sol"
+      ]
+    },
+    {
+      "code": "PER",
+      "field": "language",
+      "status": "included",
+      "answer": "Aymara",
+      "validAnswers": [
+        "Aymara",
+        "Quechua",
+        "Spanish"
+      ]
+    },
+    {
+      "code": "PER",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "PER",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "PHL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Manila",
+      "validAnswers": [
+        "Manila"
+      ]
+    },
+    {
+      "code": "PHL",
+      "field": "currency",
+      "status": "included",
+      "answer": "Philippine peso",
+      "validAnswers": [
+        "Philippine peso"
+      ]
+    },
+    {
+      "code": "PHL",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Filipino"
+      ]
+    },
+    {
+      "code": "PHL",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "PHL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "PLW",
+      "field": "capital",
+      "status": "included",
+      "answer": "Ngerulmud",
+      "validAnswers": [
+        "Ngerulmud"
+      ]
+    },
+    {
+      "code": "PLW",
+      "field": "currency",
+      "status": "included",
+      "answer": "United States dollar",
+      "validAnswers": [
+        "United States dollar"
+      ]
+    },
+    {
+      "code": "PLW",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Palauan"
+      ]
+    },
+    {
+      "code": "PLW",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "PLW",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Micronesia",
+      "validAnswers": [
+        "Micronesia"
+      ]
+    },
+    {
+      "code": "PNG",
+      "field": "capital",
+      "status": "included",
+      "answer": "Port Moresby",
+      "validAnswers": [
+        "Port Moresby"
+      ]
+    },
+    {
+      "code": "PNG",
+      "field": "currency",
+      "status": "included",
+      "answer": "Papua New Guinean kina",
+      "validAnswers": [
+        "Papua New Guinean kina"
+      ]
+    },
+    {
+      "code": "PNG",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Hiri Motu",
+        "Tok Pisin"
+      ]
+    },
+    {
+      "code": "PNG",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "PNG",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Melanesia",
+      "validAnswers": [
+        "Melanesia"
+      ]
+    },
+    {
+      "code": "POL",
+      "field": "capital",
+      "status": "included",
+      "answer": "Warsaw",
+      "validAnswers": [
+        "Warsaw"
+      ]
+    },
+    {
+      "code": "POL",
+      "field": "currency",
+      "status": "included",
+      "answer": "Polish złoty",
+      "validAnswers": [
+        "Polish złoty"
+      ]
+    },
+    {
+      "code": "POL",
+      "field": "language",
+      "status": "included",
+      "answer": "Polish",
+      "validAnswers": [
+        "Polish"
+      ]
+    },
+    {
+      "code": "POL",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "POL",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Europe",
+      "validAnswers": [
+        "Central Europe"
+      ]
+    },
+    {
+      "code": "PRK",
+      "field": "capital",
+      "status": "included",
+      "answer": "Pyongyang",
+      "validAnswers": [
+        "Pyongyang"
+      ]
+    },
+    {
+      "code": "PRK",
+      "field": "currency",
+      "status": "included",
+      "answer": "North Korean won",
+      "validAnswers": [
+        "North Korean won"
+      ]
+    },
+    {
+      "code": "PRK",
+      "field": "language",
+      "status": "included",
+      "answer": "Korean",
+      "validAnswers": [
+        "Korean"
+      ]
+    },
+    {
+      "code": "PRK",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "PRK",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Asia",
+      "validAnswers": [
+        "Eastern Asia"
+      ]
+    },
+    {
+      "code": "PRT",
+      "field": "capital",
+      "status": "included",
+      "answer": "Lisbon",
+      "validAnswers": [
+        "Lisbon"
+      ]
+    },
+    {
+      "code": "PRT",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "PRT",
+      "field": "language",
+      "status": "included",
+      "answer": "Portuguese",
+      "validAnswers": [
+        "Portuguese"
+      ]
+    },
+    {
+      "code": "PRT",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "PRT",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Europe",
+      "validAnswers": [
+        "Southern Europe"
+      ]
+    },
+    {
+      "code": "PRY",
+      "field": "capital",
+      "status": "included",
+      "answer": "Asunción",
+      "validAnswers": [
+        "Asunción"
+      ]
+    },
+    {
+      "code": "PRY",
+      "field": "currency",
+      "status": "included",
+      "answer": "Paraguayan guaraní",
+      "validAnswers": [
+        "Paraguayan guaraní"
+      ]
+    },
+    {
+      "code": "PRY",
+      "field": "language",
+      "status": "included",
+      "answer": "Guaraní",
+      "validAnswers": [
+        "Guaraní",
+        "Spanish"
+      ]
+    },
+    {
+      "code": "PRY",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "PRY",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "QAT",
+      "field": "capital",
+      "status": "included",
+      "answer": "Doha",
+      "validAnswers": [
+        "Doha"
+      ]
+    },
+    {
+      "code": "QAT",
+      "field": "currency",
+      "status": "included",
+      "answer": "Qatari riyal",
+      "validAnswers": [
+        "Qatari riyal"
+      ]
+    },
+    {
+      "code": "QAT",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "QAT",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "QAT",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "ROU",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bucharest",
+      "validAnswers": [
+        "Bucharest"
+      ]
+    },
+    {
+      "code": "ROU",
+      "field": "currency",
+      "status": "included",
+      "answer": "Romanian leu",
+      "validAnswers": [
+        "Romanian leu"
+      ]
+    },
+    {
+      "code": "ROU",
+      "field": "language",
+      "status": "included",
+      "answer": "Romanian",
+      "validAnswers": [
+        "Romanian"
+      ]
+    },
+    {
+      "code": "ROU",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "ROU",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southeast Europe",
+      "validAnswers": [
+        "Southeast Europe"
+      ]
+    },
+    {
+      "code": "RUS",
+      "field": "capital",
+      "status": "included",
+      "answer": "Moscow",
+      "validAnswers": [
+        "Moscow"
+      ]
+    },
+    {
+      "code": "RUS",
+      "field": "currency",
+      "status": "included",
+      "answer": "Russian ruble",
+      "validAnswers": [
+        "Russian ruble"
+      ]
+    },
+    {
+      "code": "RUS",
+      "field": "language",
+      "status": "included",
+      "answer": "Russian",
+      "validAnswers": [
+        "Russian"
+      ]
+    },
+    {
+      "code": "RUS",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "RUS",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Europe",
+      "validAnswers": [
+        "Eastern Europe"
+      ]
+    },
+    {
+      "code": "RWA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Kigali",
+      "validAnswers": [
+        "Kigali"
+      ]
+    },
+    {
+      "code": "RWA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Rwandan franc",
+      "validAnswers": [
+        "Rwandan franc"
+      ]
+    },
+    {
+      "code": "RWA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "French",
+        "Kinyarwanda"
+      ]
+    },
+    {
+      "code": "RWA",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "RWA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "SAU",
+      "field": "capital",
+      "status": "included",
+      "answer": "Riyadh",
+      "validAnswers": [
+        "Riyadh"
+      ]
+    },
+    {
+      "code": "SAU",
+      "field": "currency",
+      "status": "included",
+      "answer": "Saudi riyal",
+      "validAnswers": [
+        "Saudi riyal"
+      ]
+    },
+    {
+      "code": "SAU",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "SAU",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "SAU",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "SDN",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "SDN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Sudanese pound",
+      "validAnswers": [
+        "Sudanese pound"
+      ]
+    },
+    {
+      "code": "SDN",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "English"
+      ]
+    },
+    {
+      "code": "SDN",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "SDN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Africa",
+      "validAnswers": [
+        "Northern Africa"
+      ]
+    },
+    {
+      "code": "SEN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Dakar",
+      "validAnswers": [
+        "Dakar"
+      ]
+    },
+    {
+      "code": "SEN",
+      "field": "currency",
+      "status": "included",
+      "answer": "West African CFA franc",
+      "validAnswers": [
+        "West African CFA franc"
+      ]
+    },
+    {
+      "code": "SEN",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "SEN",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "SEN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "SGP",
+      "field": "capital",
+      "status": "included",
+      "answer": "Singapore",
+      "validAnswers": [
+        "Singapore"
+      ]
+    },
+    {
+      "code": "SGP",
+      "field": "currency",
+      "status": "included",
+      "answer": "Singapore dollar",
+      "validAnswers": [
+        "Singapore dollar"
+      ]
+    },
+    {
+      "code": "SGP",
+      "field": "language",
+      "status": "included",
+      "answer": "Chinese",
+      "validAnswers": [
+        "Chinese",
+        "English",
+        "Malay",
+        "Tamil"
+      ]
+    },
+    {
+      "code": "SGP",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "SGP",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "SLB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Honiara",
+      "validAnswers": [
+        "Honiara"
+      ]
+    },
+    {
+      "code": "SLB",
+      "field": "currency",
+      "status": "included",
+      "answer": "Solomon Islands dollar",
+      "validAnswers": [
+        "Solomon Islands dollar"
+      ]
+    },
+    {
+      "code": "SLB",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "SLB",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "SLB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Melanesia",
+      "validAnswers": [
+        "Melanesia"
+      ]
+    },
+    {
+      "code": "SLE",
+      "field": "capital",
+      "status": "included",
+      "answer": "Freetown",
+      "validAnswers": [
+        "Freetown"
+      ]
+    },
+    {
+      "code": "SLE",
+      "field": "currency",
+      "status": "included",
+      "answer": "Sierra Leonean leone",
+      "validAnswers": [
+        "Sierra Leonean leone"
+      ]
+    },
+    {
+      "code": "SLE",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "SLE",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "SLE",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "SLV",
+      "field": "capital",
+      "status": "included",
+      "answer": "San Salvador",
+      "validAnswers": [
+        "San Salvador"
+      ]
+    },
+    {
+      "code": "SLV",
+      "field": "currency",
+      "status": "included",
+      "answer": "United States dollar",
+      "validAnswers": [
+        "United States dollar"
+      ]
+    },
+    {
+      "code": "SLV",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "SLV",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "SLV",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central America",
+      "validAnswers": [
+        "Central America"
+      ]
+    },
+    {
+      "code": "SMR",
+      "field": "capital",
+      "status": "included",
+      "answer": "City of San Marino",
+      "validAnswers": [
+        "City of San Marino"
+      ]
+    },
+    {
+      "code": "SMR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "SMR",
+      "field": "language",
+      "status": "included",
+      "answer": "Italian",
+      "validAnswers": [
+        "Italian"
+      ]
+    },
+    {
+      "code": "SMR",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "SMR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Europe",
+      "validAnswers": [
+        "Southern Europe"
+      ]
+    },
+    {
+      "code": "SOM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Mogadishu",
+      "validAnswers": [
+        "Mogadishu"
+      ]
+    },
+    {
+      "code": "SOM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Somali shilling",
+      "validAnswers": [
+        "Somali shilling"
+      ]
+    },
+    {
+      "code": "SOM",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "Somali"
+      ]
+    },
+    {
+      "code": "SOM",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "SOM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "SRB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Belgrade",
+      "validAnswers": [
+        "Belgrade"
+      ]
+    },
+    {
+      "code": "SRB",
+      "field": "currency",
+      "status": "included",
+      "answer": "Serbian dinar",
+      "validAnswers": [
+        "Serbian dinar"
+      ]
+    },
+    {
+      "code": "SRB",
+      "field": "language",
+      "status": "included",
+      "answer": "Serbian",
+      "validAnswers": [
+        "Serbian"
+      ]
+    },
+    {
+      "code": "SRB",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "SRB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southeast Europe",
+      "validAnswers": [
+        "Southeast Europe"
+      ]
+    },
+    {
+      "code": "SSD",
+      "field": "capital",
+      "status": "included",
+      "answer": "Juba",
+      "validAnswers": [
+        "Juba"
+      ]
+    },
+    {
+      "code": "SSD",
+      "field": "currency",
+      "status": "included",
+      "answer": "South Sudanese pound",
+      "validAnswers": [
+        "South Sudanese pound"
+      ]
+    },
+    {
+      "code": "SSD",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "SSD",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "SSD",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "STP",
+      "field": "capital",
+      "status": "included",
+      "answer": "São Tomé",
+      "validAnswers": [
+        "São Tomé"
+      ]
+    },
+    {
+      "code": "STP",
+      "field": "currency",
+      "status": "included",
+      "answer": "São Tomé and Príncipe dobra",
+      "validAnswers": [
+        "São Tomé and Príncipe dobra"
+      ]
+    },
+    {
+      "code": "STP",
+      "field": "language",
+      "status": "included",
+      "answer": "Portuguese",
+      "validAnswers": [
+        "Portuguese"
+      ]
+    },
+    {
+      "code": "STP",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "STP",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "SUR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Paramaribo",
+      "validAnswers": [
+        "Paramaribo"
+      ]
+    },
+    {
+      "code": "SUR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Surinamese dollar",
+      "validAnswers": [
+        "Surinamese dollar"
+      ]
+    },
+    {
+      "code": "SUR",
+      "field": "language",
+      "status": "included",
+      "answer": "Dutch",
+      "validAnswers": [
+        "Dutch"
+      ]
+    },
+    {
+      "code": "SUR",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "SUR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "SVK",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bratislava",
+      "validAnswers": [
+        "Bratislava"
+      ]
+    },
+    {
+      "code": "SVK",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "SVK",
+      "field": "language",
+      "status": "included",
+      "answer": "Slovak",
+      "validAnswers": [
+        "Slovak"
+      ]
+    },
+    {
+      "code": "SVK",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "SVK",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Europe",
+      "validAnswers": [
+        "Central Europe"
+      ]
+    },
+    {
+      "code": "SVN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Ljubljana",
+      "validAnswers": [
+        "Ljubljana"
+      ]
+    },
+    {
+      "code": "SVN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "SVN",
+      "field": "language",
+      "status": "included",
+      "answer": "Slovene",
+      "validAnswers": [
+        "Slovene"
+      ]
+    },
+    {
+      "code": "SVN",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "SVN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Europe",
+      "validAnswers": [
+        "Central Europe"
+      ]
+    },
+    {
+      "code": "SWE",
+      "field": "capital",
+      "status": "included",
+      "answer": "Stockholm",
+      "validAnswers": [
+        "Stockholm"
+      ]
+    },
+    {
+      "code": "SWE",
+      "field": "currency",
+      "status": "included",
+      "answer": "Swedish krona",
+      "validAnswers": [
+        "Swedish krona"
+      ]
+    },
+    {
+      "code": "SWE",
+      "field": "language",
+      "status": "included",
+      "answer": "Swedish",
+      "validAnswers": [
+        "Swedish"
+      ]
+    },
+    {
+      "code": "SWE",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "SWE",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Europe",
+      "validAnswers": [
+        "Northern Europe"
+      ]
+    },
+    {
+      "code": "SWZ",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "SWZ",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "SWZ",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Swazi"
+      ]
+    },
+    {
+      "code": "SWZ",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "SWZ",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Africa",
+      "validAnswers": [
+        "Southern Africa"
+      ]
+    },
+    {
+      "code": "SYC",
+      "field": "capital",
+      "status": "included",
+      "answer": "Victoria",
+      "validAnswers": [
+        "Victoria"
+      ]
+    },
+    {
+      "code": "SYC",
+      "field": "currency",
+      "status": "included",
+      "answer": "Seychellois rupee",
+      "validAnswers": [
+        "Seychellois rupee"
+      ]
+    },
+    {
+      "code": "SYC",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "French",
+        "Seychellois Creole"
+      ]
+    },
+    {
+      "code": "SYC",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "SYC",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "SYR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Damascus",
+      "validAnswers": [
+        "Damascus"
+      ]
+    },
+    {
+      "code": "SYR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Syrian pound",
+      "validAnswers": [
+        "Syrian pound"
+      ]
+    },
+    {
+      "code": "SYR",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "SYR",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "SYR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "TCD",
+      "field": "capital",
+      "status": "included",
+      "answer": "N'Djamena",
+      "validAnswers": [
+        "N'Djamena"
+      ]
+    },
+    {
+      "code": "TCD",
+      "field": "currency",
+      "status": "included",
+      "answer": "Central African CFA franc",
+      "validAnswers": [
+        "Central African CFA franc"
+      ]
+    },
+    {
+      "code": "TCD",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic",
+        "French"
+      ]
+    },
+    {
+      "code": "TCD",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "TCD",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Middle Africa",
+      "validAnswers": [
+        "Middle Africa"
+      ]
+    },
+    {
+      "code": "TGO",
+      "field": "capital",
+      "status": "included",
+      "answer": "Lomé",
+      "validAnswers": [
+        "Lomé"
+      ]
+    },
+    {
+      "code": "TGO",
+      "field": "currency",
+      "status": "included",
+      "answer": "West African CFA franc",
+      "validAnswers": [
+        "West African CFA franc"
+      ]
+    },
+    {
+      "code": "TGO",
+      "field": "language",
+      "status": "included",
+      "answer": "French",
+      "validAnswers": [
+        "French"
+      ]
+    },
+    {
+      "code": "TGO",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "TGO",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Africa",
+      "validAnswers": [
+        "Western Africa"
+      ]
+    },
+    {
+      "code": "THA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Bangkok",
+      "validAnswers": [
+        "Bangkok"
+      ]
+    },
+    {
+      "code": "THA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Thai baht",
+      "validAnswers": [
+        "Thai baht"
+      ]
+    },
+    {
+      "code": "THA",
+      "field": "language",
+      "status": "included",
+      "answer": "Thai",
+      "validAnswers": [
+        "Thai"
+      ]
+    },
+    {
+      "code": "THA",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "THA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "TJK",
+      "field": "capital",
+      "status": "included",
+      "answer": "Dushanbe",
+      "validAnswers": [
+        "Dushanbe"
+      ]
+    },
+    {
+      "code": "TJK",
+      "field": "currency",
+      "status": "included",
+      "answer": "Tajikistani somoni",
+      "validAnswers": [
+        "Tajikistani somoni"
+      ]
+    },
+    {
+      "code": "TJK",
+      "field": "language",
+      "status": "included",
+      "answer": "Russian",
+      "validAnswers": [
+        "Russian",
+        "Tajik"
+      ]
+    },
+    {
+      "code": "TJK",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "TJK",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Asia",
+      "validAnswers": [
+        "Central Asia"
+      ]
+    },
+    {
+      "code": "TKM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Ashgabat",
+      "validAnswers": [
+        "Ashgabat"
+      ]
+    },
+    {
+      "code": "TKM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Turkmenistan manat",
+      "validAnswers": [
+        "Turkmenistan manat"
+      ]
+    },
+    {
+      "code": "TKM",
+      "field": "language",
+      "status": "included",
+      "answer": "Russian",
+      "validAnswers": [
+        "Russian",
+        "Turkmen"
+      ]
+    },
+    {
+      "code": "TKM",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "TKM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Asia",
+      "validAnswers": [
+        "Central Asia"
+      ]
+    },
+    {
+      "code": "TLS",
+      "field": "capital",
+      "status": "included",
+      "answer": "Dili",
+      "validAnswers": [
+        "Dili"
+      ]
+    },
+    {
+      "code": "TLS",
+      "field": "currency",
+      "status": "included",
+      "answer": "United States dollar",
+      "validAnswers": [
+        "United States dollar"
+      ]
+    },
+    {
+      "code": "TLS",
+      "field": "language",
+      "status": "included",
+      "answer": "Portuguese",
+      "validAnswers": [
+        "Portuguese",
+        "Tetum"
+      ]
+    },
+    {
+      "code": "TLS",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "TLS",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "TON",
+      "field": "capital",
+      "status": "included",
+      "answer": "Nuku'alofa",
+      "validAnswers": [
+        "Nuku'alofa"
+      ]
+    },
+    {
+      "code": "TON",
+      "field": "currency",
+      "status": "included",
+      "answer": "Tongan paʻanga",
+      "validAnswers": [
+        "Tongan paʻanga"
+      ]
+    },
+    {
+      "code": "TON",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Tongan"
+      ]
+    },
+    {
+      "code": "TON",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "TON",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Polynesia",
+      "validAnswers": [
+        "Polynesia"
+      ]
+    },
+    {
+      "code": "TTO",
+      "field": "capital",
+      "status": "included",
+      "answer": "Port of Spain",
+      "validAnswers": [
+        "Port of Spain"
+      ]
+    },
+    {
+      "code": "TTO",
+      "field": "currency",
+      "status": "included",
+      "answer": "Trinidad and Tobago dollar",
+      "validAnswers": [
+        "Trinidad and Tobago dollar"
+      ]
+    },
+    {
+      "code": "TTO",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "TTO",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "TTO",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "TUN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Tunis",
+      "validAnswers": [
+        "Tunis"
+      ]
+    },
+    {
+      "code": "TUN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Tunisian dinar",
+      "validAnswers": [
+        "Tunisian dinar"
+      ]
+    },
+    {
+      "code": "TUN",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "TUN",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "TUN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Northern Africa",
+      "validAnswers": [
+        "Northern Africa"
+      ]
+    },
+    {
+      "code": "TUR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Ankara",
+      "validAnswers": [
+        "Ankara"
+      ]
+    },
+    {
+      "code": "TUR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Turkish lira",
+      "validAnswers": [
+        "Turkish lira"
+      ]
+    },
+    {
+      "code": "TUR",
+      "field": "language",
+      "status": "included",
+      "answer": "Turkish",
+      "validAnswers": [
+        "Turkish"
+      ]
+    },
+    {
+      "code": "TUR",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "TUR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "TUV",
+      "field": "capital",
+      "status": "included",
+      "answer": "Funafuti",
+      "validAnswers": [
+        "Funafuti"
+      ]
+    },
+    {
+      "code": "TUV",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "TUV",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Tuvaluan"
+      ]
+    },
+    {
+      "code": "TUV",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "TUV",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Polynesia",
+      "validAnswers": [
+        "Polynesia"
+      ]
+    },
+    {
+      "code": "TZA",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "TZA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Tanzanian shilling",
+      "validAnswers": [
+        "Tanzanian shilling"
+      ]
+    },
+    {
+      "code": "TZA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Swahili"
+      ]
+    },
+    {
+      "code": "TZA",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "TZA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "UGA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Kampala",
+      "validAnswers": [
+        "Kampala"
+      ]
+    },
+    {
+      "code": "UGA",
+      "field": "currency",
+      "status": "included",
+      "answer": "Ugandan shilling",
+      "validAnswers": [
+        "Ugandan shilling"
+      ]
+    },
+    {
+      "code": "UGA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Swahili"
+      ]
+    },
+    {
+      "code": "UGA",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "UGA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "UKR",
+      "field": "capital",
+      "status": "included",
+      "answer": "Kyiv",
+      "validAnswers": [
+        "Kyiv"
+      ]
+    },
+    {
+      "code": "UKR",
+      "field": "currency",
+      "status": "included",
+      "answer": "Ukrainian hryvnia",
+      "validAnswers": [
+        "Ukrainian hryvnia"
+      ]
+    },
+    {
+      "code": "UKR",
+      "field": "language",
+      "status": "included",
+      "answer": "Ukrainian",
+      "validAnswers": [
+        "Ukrainian"
+      ]
+    },
+    {
+      "code": "UKR",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "UKR",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Europe",
+      "validAnswers": [
+        "Eastern Europe"
+      ]
+    },
+    {
+      "code": "URY",
+      "field": "capital",
+      "status": "included",
+      "answer": "Montevideo",
+      "validAnswers": [
+        "Montevideo"
+      ]
+    },
+    {
+      "code": "URY",
+      "field": "currency",
+      "status": "included",
+      "answer": "Uruguayan peso",
+      "validAnswers": [
+        "Uruguayan peso"
+      ]
+    },
+    {
+      "code": "URY",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "URY",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "URY",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "USA",
+      "field": "capital",
+      "status": "included",
+      "answer": "Washington D.C.",
+      "validAnswers": [
+        "Washington D.C."
+      ]
+    },
+    {
+      "code": "USA",
+      "field": "currency",
+      "status": "included",
+      "answer": "United States dollar",
+      "validAnswers": [
+        "United States dollar"
+      ]
+    },
+    {
+      "code": "USA",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "USA",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "USA",
+      "field": "subregion",
+      "status": "included",
+      "answer": "North America",
+      "validAnswers": [
+        "North America"
+      ]
+    },
+    {
+      "code": "UZB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Tashkent",
+      "validAnswers": [
+        "Tashkent"
+      ]
+    },
+    {
+      "code": "UZB",
+      "field": "currency",
+      "status": "included",
+      "answer": "Uzbekistani soʻm",
+      "validAnswers": [
+        "Uzbekistani soʻm"
+      ]
+    },
+    {
+      "code": "UZB",
+      "field": "language",
+      "status": "included",
+      "answer": "Russian",
+      "validAnswers": [
+        "Russian",
+        "Uzbek"
+      ]
+    },
+    {
+      "code": "UZB",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "UZB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Central Asia",
+      "validAnswers": [
+        "Central Asia"
+      ]
+    },
+    {
+      "code": "VAT",
+      "field": "capital",
+      "status": "included",
+      "answer": "Vatican City",
+      "validAnswers": [
+        "Vatican City"
+      ]
+    },
+    {
+      "code": "VAT",
+      "field": "currency",
+      "status": "included",
+      "answer": "Euro",
+      "validAnswers": [
+        "Euro"
+      ]
+    },
+    {
+      "code": "VAT",
+      "field": "language",
+      "status": "included",
+      "answer": "Italian",
+      "validAnswers": [
+        "Italian",
+        "Latin"
+      ]
+    },
+    {
+      "code": "VAT",
+      "field": "region",
+      "status": "included",
+      "answer": "Europe",
+      "validAnswers": [
+        "Europe"
+      ]
+    },
+    {
+      "code": "VAT",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Europe",
+      "validAnswers": [
+        "Southern Europe"
+      ]
+    },
+    {
+      "code": "VCT",
+      "field": "capital",
+      "status": "included",
+      "answer": "Kingstown",
+      "validAnswers": [
+        "Kingstown"
+      ]
+    },
+    {
+      "code": "VCT",
+      "field": "currency",
+      "status": "included",
+      "answer": "Eastern Caribbean dollar",
+      "validAnswers": [
+        "Eastern Caribbean dollar"
+      ]
+    },
+    {
+      "code": "VCT",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "VCT",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "VCT",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Caribbean",
+      "validAnswers": [
+        "Caribbean"
+      ]
+    },
+    {
+      "code": "VEN",
+      "field": "capital",
+      "status": "included",
+      "answer": "Caracas",
+      "validAnswers": [
+        "Caracas"
+      ]
+    },
+    {
+      "code": "VEN",
+      "field": "currency",
+      "status": "included",
+      "answer": "Venezuelan bolívar soberano",
+      "validAnswers": [
+        "Venezuelan bolívar soberano"
+      ]
+    },
+    {
+      "code": "VEN",
+      "field": "language",
+      "status": "included",
+      "answer": "Spanish",
+      "validAnswers": [
+        "Spanish"
+      ]
+    },
+    {
+      "code": "VEN",
+      "field": "region",
+      "status": "included",
+      "answer": "Americas",
+      "validAnswers": [
+        "Americas"
+      ]
+    },
+    {
+      "code": "VEN",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South America",
+      "validAnswers": [
+        "South America"
+      ]
+    },
+    {
+      "code": "VNM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Hanoi",
+      "validAnswers": [
+        "Hanoi"
+      ]
+    },
+    {
+      "code": "VNM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Vietnamese đồng",
+      "validAnswers": [
+        "Vietnamese đồng"
+      ]
+    },
+    {
+      "code": "VNM",
+      "field": "language",
+      "status": "included",
+      "answer": "Vietnamese",
+      "validAnswers": [
+        "Vietnamese"
+      ]
+    },
+    {
+      "code": "VNM",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "VNM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "South-Eastern Asia",
+      "validAnswers": [
+        "South-Eastern Asia"
+      ]
+    },
+    {
+      "code": "VUT",
+      "field": "capital",
+      "status": "included",
+      "answer": "Port Vila",
+      "validAnswers": [
+        "Port Vila"
+      ]
+    },
+    {
+      "code": "VUT",
+      "field": "currency",
+      "status": "included",
+      "answer": "Vanuatu vatu",
+      "validAnswers": [
+        "Vanuatu vatu"
+      ]
+    },
+    {
+      "code": "VUT",
+      "field": "language",
+      "status": "included",
+      "answer": "Bislama",
+      "validAnswers": [
+        "Bislama",
+        "English",
+        "French"
+      ]
+    },
+    {
+      "code": "VUT",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "VUT",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Melanesia",
+      "validAnswers": [
+        "Melanesia"
+      ]
+    },
+    {
+      "code": "WSM",
+      "field": "capital",
+      "status": "included",
+      "answer": "Apia",
+      "validAnswers": [
+        "Apia"
+      ]
+    },
+    {
+      "code": "WSM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Samoan tālā",
+      "validAnswers": [
+        "Samoan tālā"
+      ]
+    },
+    {
+      "code": "WSM",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English",
+        "Samoan"
+      ]
+    },
+    {
+      "code": "WSM",
+      "field": "region",
+      "status": "included",
+      "answer": "Oceania",
+      "validAnswers": [
+        "Oceania"
+      ]
+    },
+    {
+      "code": "WSM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Polynesia",
+      "validAnswers": [
+        "Polynesia"
+      ]
+    },
+    {
+      "code": "YEM",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "YEM",
+      "field": "currency",
+      "status": "included",
+      "answer": "Yemeni rial",
+      "validAnswers": [
+        "Yemeni rial"
+      ]
+    },
+    {
+      "code": "YEM",
+      "field": "language",
+      "status": "included",
+      "answer": "Arabic",
+      "validAnswers": [
+        "Arabic"
+      ]
+    },
+    {
+      "code": "YEM",
+      "field": "region",
+      "status": "included",
+      "answer": "Asia",
+      "validAnswers": [
+        "Asia"
+      ]
+    },
+    {
+      "code": "YEM",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Western Asia",
+      "validAnswers": [
+        "Western Asia"
+      ]
+    },
+    {
+      "code": "ZAF",
+      "field": "capital",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "ZAF",
+      "field": "currency",
+      "status": "included",
+      "answer": "South African rand",
+      "validAnswers": [
+        "South African rand"
+      ]
+    },
+    {
+      "code": "ZAF",
+      "field": "language",
+      "status": "included",
+      "answer": "Afrikaans",
+      "validAnswers": [
+        "Afrikaans",
+        "English",
+        "Northern Sotho",
+        "Southern Ndebele",
+        "Southern Sotho",
+        "Swazi",
+        "Tsonga",
+        "Tswana",
+        "Venda",
+        "Xhosa",
+        "Zulu"
+      ]
+    },
+    {
+      "code": "ZAF",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "ZAF",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Southern Africa",
+      "validAnswers": [
+        "Southern Africa"
+      ]
+    },
+    {
+      "code": "ZMB",
+      "field": "capital",
+      "status": "included",
+      "answer": "Lusaka",
+      "validAnswers": [
+        "Lusaka"
+      ]
+    },
+    {
+      "code": "ZMB",
+      "field": "currency",
+      "status": "included",
+      "answer": "Zambian kwacha",
+      "validAnswers": [
+        "Zambian kwacha"
+      ]
+    },
+    {
+      "code": "ZMB",
+      "field": "language",
+      "status": "included",
+      "answer": "English",
+      "validAnswers": [
+        "English"
+      ]
+    },
+    {
+      "code": "ZMB",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "ZMB",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    },
+    {
+      "code": "ZWE",
+      "field": "capital",
+      "status": "included",
+      "answer": "Harare",
+      "validAnswers": [
+        "Harare"
+      ]
+    },
+    {
+      "code": "ZWE",
+      "field": "currency",
+      "status": "excluded",
+      "reason": "missing, multiple-valued or capital nuance hold"
+    },
+    {
+      "code": "ZWE",
+      "field": "language",
+      "status": "included",
+      "answer": "Chewa",
+      "validAnswers": [
+        "Chewa",
+        "Chibarwe",
+        "English",
+        "Kalanga",
+        "Khoisan",
+        "Ndau",
+        "Northern Ndebele",
+        "Shona",
+        "Sotho",
+        "Tonga",
+        "Tsonga",
+        "Tswana",
+        "Venda",
+        "Xhosa",
+        "Zimbabwean Sign Language"
+      ]
+    },
+    {
+      "code": "ZWE",
+      "field": "region",
+      "status": "included",
+      "answer": "Africa",
+      "validAnswers": [
+        "Africa"
+      ]
+    },
+    {
+      "code": "ZWE",
+      "field": "subregion",
+      "status": "included",
+      "answer": "Eastern Africa",
+      "validAnswers": [
+        "Eastern Africa"
+      ]
+    }
+  ]
+}

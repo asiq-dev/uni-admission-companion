@@ -1,0 +1,1330 @@
+{
+  "provenance": {
+    "source": "OpenStax/Rice University and contributing authors, American Government 3e",
+    "license": "CC BY-NC-SA 4.0",
+    "release": {
+      "repository": "openstax/osbooks-american-government",
+      "commit": "a2677245241954039c7ebc996e82a8f3b0b4376f",
+      "archive": "osbooks-american-government-xml.zip",
+      "sha256": "f8faacf1121be0b5153b97ca7a69859d89ab747b8d3405cee03d14e8920eefb4",
+      "collected": "2026-11-17"
+    },
+    "changes": "Published MCQ stems/options/keys retained; textbook context mechanically selected from the same section; preparation links added.",
+    "verification": "Published key retained; context selection NOT independently expert-verified; supplementary subject practice, not university past papers.",
+    "included": 32
+  },
+  "questions": [
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "What is Government?",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nWhat goods are available to all without direct payment?",
+      "options": [
+        "private goods",
+        "public goods",
+        "common goods",
+        "toll goods"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: public goods.\n\nRelated textbook context from the same section:\n“Thus, the market cannot provide everything (in enough quantity or at low enough costs) in order to meet everyone’s needs. Therefore, some goods are provided by the government. Such goods or services that are available to all without charge are called public goods. Two such public goods are national security and education. It is difficult to see how a private business could protect the United States from attack. How could it build its own armies and create plans for defense and attack? Who would pay the men and women who served? Where would the intelligence come from? Due to its ability to tax, draw upon the resources of an entire nation, and compel citizen compliance, only government is capable of protecting the nation.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90378, exercise fs-id1171474484001. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90378/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The Pre-Revolutionary Period and the Roots of the American Political Tradition",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nBritish colonists in North America in the late seventeenth century were greatly influenced by the political thought of ________.",
+      "options": [
+        "King James II",
+        "Thomas Jefferson",
+        "John Locke",
+        "James Madison"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: John Locke.\n\nRelated textbook context from the same section:\n“The beliefs and attitudes that led to the call for independence had long been an important part of colonial life. Of all the political thinkers who influenced American beliefs about government, the most important is surely John Locke (). The most significant contributions of Locke, a seventeenth-century English philosopher, were his ideas regarding the relationship between government and natural rights, which were believed to be God-given rights to life, liberty, and property.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90382, exercise fs-id1166226382712. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90382/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "What Are Civil Rights and How Do We Identify Them?",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nA group of African American students believes a college admissions test that is used by a public university discriminates against them. What legal standard would the courts use in deciding their case?",
+      "options": [
+        "rational basis test",
+        "intermediate scrutiny",
+        "strict scrutiny",
+        "equal protection"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: strict scrutiny.\n\nRelated textbook context from the same section:\n“Discrimination against members of racial, ethnic, or religious groups or those of various national origins is reviewed to the greatest degree by the courts, which apply the strict scrutiny standard in these cases. Under strict scrutiny, the burden of proof is on the government to demonstrate that there is a compelling governmental interest in treating people from one group differently from those who are not part of that group—the law or action can be “narrowly tailored” to achieve the goal in question, and that it is the “least restrictive means” available to achieve that goal.Johnson v. California, 543 U.S. 499 (2005). In other words, if there is a non-discriminatory way to accomplish the goal in question, discrimination should not take place. In the modern era, laws and actions that are challenged under strict scrutiny have rarely been upheld. Strict scrutiny, however, was the legal basis for the Supreme Court’s 1944 upholding of the legality of the internment of Japanese Americans during World War II, discussed later in this chapter.Korematsu v. United States, 323 U.S. 214 (1944). Finally, affirmative action consists of government programs and policies designed to benefit members of groups historically subject to discrimination. Much of the controversy surrounding affirmative action is about whether strict scrutiny should be applied to these cases.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90412, exercise fs-id1164435652845. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90412/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The African American Struggle for Equality",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nThe Supreme Court decision ruling that “separate but equal” was constitutional and allowed racial segregation to take place was ________.",
+      "options": [
+        "Brown v. Board of Education",
+        "Plessy v. Ferguson",
+        "Loving v. Virginia",
+        "Shelley v. Kraemer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: Plessy v. Ferguson.\n\nRelated textbook context from the same section:\n“The landmark court decision of the judicial phase of the civil rights movement settled the Brown v. Board of Education case in 1954.Brown v. Board of Education of Topeka, 347 U.S. 483 (1954). In this case, the Supreme Court unanimously overturned its decision in Plessy v. Ferguson as it pertained to public education, stating that a separate but equal education was a logical impossibility. Even with the same funding and equivalent facilities, a segregated school could not have the same teachers or environment as the equivalent school for another race. The court also rested its decision in part on social science studies suggesting that racial discrimination led to feelings of inferiority among Black children. The only way to dispel this sense of inferiority was to end segregation and integrate public schools.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90413, exercise fs-id1164435664283. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90413/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Civil Rights for Indigenous Groups: Native Americans, Alaskans, and Hawaiians",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nThe Trail of Tears is the name given to the forced removal of this tribe from Georgia to Oklahoma.",
+      "options": [
+        "Lakota",
+        "Paiute",
+        "Navajo",
+        "Cherokee"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: Cherokee.\n\nRelated textbook context from the same section:\n“The next year, in Worcester v. Georgia, the Court ruled that non-Native Americans could not enter tribal lands without the tribe’s permission. White Georgians, however, refused to abide by the Court’s decision, and President Andrew Jackson, who had fought in conflicts against Native Americans, refused to enforce it.Francis Paul Prucha. 1984. The Great Father: The United States Government and American Indians, vol. 1. Lincoln: University of Nebraska Press, 212; Robert V. Remini. 2001. Andrew Jackson and His Indian Wars. New York: Viking, 257; Worcester v. Georgia, 31 U.S. 515 (1832). Between 1831 and 1838, members of several southern tribes, including the Cherokees, were forced by the U.S. Army to move west along routes shown in . The forced removal of the Cherokees to Oklahoma Territory, which had been set aside for settlement by displaced tribes and designated Indian Territory, resulted in the death of one-quarter of the tribe’s population.Prucha, 241; Ehle, 390–392; Russell Thornton. 1991. “Demography of the Trail of Tears,” In Cherokee Removal: Before and After, ed. William L. Anderson. Athens: University of Georgia Press, 75–93. The Cherokees remember this journey as the Trail of Tears.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90415, exercise fs-id1164436863368. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90415/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The Nature of Public Opinion",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\n________ political content is given by a media source that lets the reader or viewer know upfront there is a political bias or position.",
+      "options": [
+        "Overt",
+        "Covert",
+        "Explanatory",
+        "Expository"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Overt.\n\nRelated textbook context from the same section:\n“Finally, media information presented as fact can contain covert or overt political material. Covert content is political information provided under the pretense that it is neutral. A magazine might run a story on climate change by interviewing representatives of only one side of the policy debate and downplaying the opposing view, all without acknowledging the one-sided nature of its coverage. In contrast, when the writer or publication makes clear to the reader or viewer that the information offers only one side of the political debate, the political message is overt content. Political commentators like Rush Limbaugh and publications like Mother Jones openly state their ideological viewpoints. While such overt political content may be offensive or annoying to a reader or viewer, all are offered the choice whether to be exposed to the material.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90418, exercise fs-id1163758473471. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90418/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "What Does the Public Think?",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nWhich institution has the highest average public approval ratings?",
+      "options": [
+        "the presidency",
+        "the U.S. House of Representatives",
+        "the U.S. Senate",
+        "the Supreme Court"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: the Supreme Court.\n\nRelated textbook context from the same section:\n“Public opinion about American institutions is measured in public approval ratings rather than in questions of choice between positions or candidates. The congressional and executive branches of government are the subject of much scrutiny and discussed daily in the media. Polling companies take daily approval polls of these two branches. The Supreme Court makes the news less frequently, and approval polls are more likely after the court has released major opinions. All three branches, however, are susceptible to swings in public approval in response to their actions and to national events. Approval ratings are generally not stable for any of the three. We next look at each in turn.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90420, exercise fs-id1163758486205. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90420/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Voter Registration",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nWhich of the following makes it easy for a citizen to register to vote?",
+      "options": [
+        "grandfather clause",
+        "lengthy residency requirement",
+        "National Voter Registration Act",
+        "competency requirement"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: National Voter Registration Act.\n\nRelated textbook context from the same section:\n“Some attempts have been made to streamline voter registration. The National Voter Registration Act (1993), often referred to as Motor Voter, was enacted to expedite the registration process and make it as simple as possible for voters. The act required states to allow citizens to register to vote when they sign up for driver’s licenses and Social Security benefits. On each government form, the citizen need only mark an additional box to also register to vote. Unfortunately, while increasing registrations by 7 percent between 1992 and 2012, Motor Voter did not dramatically increase voter turnout.Royce Crocker, “The National Voter Registration Act of 1993: History, Implementation, and Effects,” Congressional Research Service, CRS Report R40609, September 18, 2013, https://www.fas.org/sgp/crs/misc/R40609.pdf. In fact, for two years following the passage of the act, voter turnout decreased slightly.“National General Election VEP Turnout Rates, 1789–Present,” http://www.electproject.org/national-1789-present (November 4, 2015). It appears that the main users of the expedited system were those already intending to vote. One study, however, found that preregistration may have a different effect on youth than on the overall voter pool; in Florida, it increased turnout of young voters by 13 percent.John B. Holbein, D. Sunshine Hillygus. 2015. “Making Young Voters: The Impact of Preregistration on Youth Turnout.” American Journal of Political Science (March). doi:10.1111/ajps.12177.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90423, exercise fs-id1171472161832. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90423/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Elections",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nIn which type of election are you most likely to see coattail effects?",
+      "options": [
+        "presidential",
+        "midterm",
+        "special",
+        "caucuses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: presidential.\n\nRelated textbook context from the same section:\n“During a presidential election year, members of Congress often experience the coattail effect, which gives members of a popular presidential candidate’s party an increase in popularity and raises their odds of retaining office. During a midterm election year, however, the president’s party often is blamed for the president’s actions or inaction. Representatives and senators from the sitting president’s party are more likely to lose their seats during a midterm election year. Many recent congressional realignments, in which the House or Senate changed from Democratic to Republican control, occurred because of this reverse-coattail effect during midterm elections. The most recent example is the 2018 election, in which control of the House returned to the Democratic Party after eight years of Republican control.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90425, exercise fs-id1171472135911. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90425/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "What Is the Media?",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nA local station that broadcasts national network programming is called a(an) ________ station.",
+      "options": [
+        "affiliate",
+        "cable",
+        "digital",
+        "network"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: affiliate.\n\nRelated textbook context from the same section:\n“Before the existence of cable and fiber optics, networks needed to own local affiliates to have access to the local station’s transmission towers. Towers have a limited radius, so each network needed an affiliate in each major city to reach viewers. While cable technology has lessened networks’ dependence on aerial signals, some viewers still use antennas and receivers to view programming broadcast from local towers.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90429, exercise fs-id1171471003538. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90429/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "What Are Parties and How Did They Form?",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nWhich supporter of federalism warned people about the dangers of political parties?",
+      "options": [
+        "John Adams",
+        "Alexander Hamilton",
+        "James Madison",
+        "George Washington"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: George Washington.\n\nRelated textbook context from the same section:\n“When the U.S. Constitution was drafted, its authors were certainly aware that political parties existed in other countries (like Great Britain), but they hoped to avoid them in the United States. They felt the importance of states in the U.S. federal structure would make it difficult for national parties to form. They also hoped that having a college of electors vote for the executive branch, with the top two vote-getters becoming president and vice president, would discourage the formation of parties. Their system worked for the first two presidential elections, when essentially all the electors voted for George Washington to serve as president. But by 1796, the Federalist and Anti-Federalist camps had organized into electoral coalitions. The Anti-Federalists joined with many others active in the process to become known as the Democratic-Republicans. The Federalist John Adams won the Electoral College vote, but his authority was undermined when the vice presidency went to Democratic-Republican Thomas Jefferson, who finished second. Four years later, the Democratic-Republicans managed to avoid this outcome by coordinating the electors to vote for their top two candidates. But when the vote ended in a tie, it was ultimately left to Congress to decide who would be the third president of the United States ().”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90435, exercise fs-id1171471020948. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90435/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The Two-Party System",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nIn which type of electoral system do voters select the party of their choice rather than an individual candidate?",
+      "options": [
+        "proportional representation",
+        "first-past-the-post",
+        "plurality voting",
+        "majoritarian voting"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: proportional representation.\n\nRelated textbook context from the same section:\n“A number of reasons have been suggested to explain why the structure of U.S. elections has resulted in a two-party system. Most of the blame has been placed on the process used to select its representatives. First, most elections at the state and national levels are winner-take-all: The candidate who receives the greatest overall number of votes wins. Winner-take-all elections with one representative elected for one geographic district allow voters to develop a personal relationship with “their” representative to the government. They know exactly whom to blame, or thank, for the actions of that government. But these elections also tend to limit the number of people who run for office. Otherwise-qualified candidates might not stand for election if they feel the incumbent or another candidate has an early advantage in the race. And since voters do not like to waste votes, third parties must convince voters they have a real chance of winning races before voters will take them seriously. This is a tall order given the vast resources and mobilization tools available to the existing parties, especially if an incumbent is one of the competitors. In turn, the likelihood that third-party challengers will lose an election bid makes it more difficult to raise funds to support later attempts.Robert Richie and Steven Hill, “The Case for Proportional Representation,” Boston Review, February–March 1998, https://bostonreview.net/archives/BR23.1/richie.html (March 15, 2016).”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90436, exercise fs-id1171474432483. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90436/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The Shape of Modern Political Parties",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nWhich level of party organization is most responsible for helping the party’s nominee win the presidency?",
+      "options": [
+        "precinct",
+        "county",
+        "state",
+        "national"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: national.\n\nRelated textbook context from the same section:\n“But most people are aware of the presence and activity of the national party organizations for several reasons. First, many Americans, especially young people, are more interested in the topics discussed at the national level than at the state or local level. According to John Green of the Ray C. Bliss Institute of Applied Politics, “Local elections tend to be about things like sewers, and roads and police protection—which are not as dramatic an issue as same-sex marriage or global warming or international affairs.”Elizabeth Lehman, “Trend Shows Generation Focuses Mostly on Social, National Issues,” http://www.thenewsoutlet.org/survey-local-millennials-more-interested-in-big-issues/ (March 15, 2016). Presidential elections and the behavior of the U.S. Congress are also far more likely to make the news broadcasts than the activities of county commissioners, and the national-level party organization is mostly responsible for coordinating the activities of participants at this level. The national party is a fundraising army for presidential candidates and also serves a key role in trying to coordinate and direct the efforts of the House and Senate. For this reason, its leadership is far more likely to become visible to media consumers, whether they intend to vote or not.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90437, exercise fs-id1171474142262. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90437/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Collective Action and Interest Group Formation",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nWhat type of incentives appeal to someone’s concern about a cause?",
+      "options": [
+        "solidary incentives",
+        "purposive incentives",
+        "material incentives",
+        "negative incentives"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: purposive incentives.\n\nRelated textbook context from the same section:\n“Similarly, purposive incentives focus on the issues or causes promoted by the group. Someone concerned about protecting individual rights might join a group like the American Civil Liberties Union (ACLU) because it supports the liberties guaranteed in the U.S. Constitution, even the free expression of unpopular views.https://www.aclu.org/ (March 1, 2016). Members of the ACLU sometimes find the messages of those they defend (including Nazis and the Ku Klux Klan) deplorable, but they argue that the principle of protecting civil liberties is critical to U.S. democracy. In many ways, the organization’s stance is analogous to James Madison’s defense of factions mentioned earlier in this chapter. A commitment to protecting rights and liberties can serve as an incentive in overcoming collective action problems, because members or potential members care enough about the issues to join or participate. Thus, interest groups and their leadership will use whatever incentives they have at their disposal to overcome collective action problems and mobilize their members.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90443, exercise fs-id1171474369273. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90443/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The Institutional Design of Congress",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nThe Great Compromise successfully resolved differences between ________.",
+      "options": [
+        "large and small states",
+        "slaveholding and non-slaveholding states",
+        "the Articles of Confederation and the Constitution",
+        "the House and the Senate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: large and small states.\n\nRelated textbook context from the same section:\n“The storm of debate over how to allocate power between large and small states was eventually calmed by a third proposal. The Connecticut Compromise, also called the Great Compromise, proposed a bicameral congress with members apportioned differently in each house. The upper house, the Senate, was to have two members from each state. This soothed the fears of the small states. In the lower house, the House of Representatives, membership would be proportional to the population in each state. This measure protected the interests of the large states.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90448, exercise fs-id1171471090824. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90448/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The Legislative Process",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nThe key means of advancing modern legislation is now ________.",
+      "options": [
+        "committees",
+        "the actions of the leadership",
+        "the budget process",
+        "the filibuster"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: the budget process.\n\nRelated textbook context from the same section:\n“The benefit of attaching the reforms to the budget resolution was that Congress could force an up or down (yea or nay) vote on the whole package. Such a packaged bill is called an omnibus bill.Glen S. Krutz. 2001. Hitching a Ride: Omnibus Legislating in the U.S. Congress. Columbus, OH: Ohio State University Press. Creating and voting for an omnibus bill allows Congress to quickly accomplish policy changes that would have taken many votes and the expending of great political capital over a long period of time. This and successive similar uses of the budget process convinced many in Congress of the utility of this strategy. During the contentious and ideologically divided 1990s, the budget process became the common problem-solving mechanism in the legislature, thus laying the groundwork for the way legislation works today.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90452, exercise fs-id1171472149155. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90452/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Guardians of the Constitution and Individual Rights",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nIn Federalist No. 78, Alexander Hamilton characterized the judiciary as the ________ branch of government.",
+      "options": [
+        "most unnecessary",
+        "strongest",
+        "least dangerous",
+        "most political"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: least dangerous.\n\nRelated textbook context from the same section:\n“To add further explanation to Article III, Alexander Hamilton wrote details about the federal judiciary in Federalist No. 78. In explaining the importance of an independent judiciary separated from the other branches of government, he said “interpretation” was a key role of the courts as they seek to protect people from unjust laws. But he also believed “the Judiciary Department” would “always be the least dangerous” because “with no influence over either the sword or the purse,” it had “neither force nor will, but merely judgment.” The courts would only make decisions, not take action. With no control over how those decisions would be implemented and no power to enforce their choices, they could exercise only judgment, and their power would begin and end there. Hamilton would no doubt be surprised by what the judiciary has become: a key component of the nation’s constitutional democracy, finding its place as the chief interpreter of the Constitution and the equal of the other two branches, though still checked and balanced by them.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90460, exercise fs-id1163757287791. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90460/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The Federal Court System",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nBesides the Supreme Court, there are lower courts in the national system called ________.",
+      "options": [
+        "state and federal courts",
+        "district and circuit courts",
+        "state and local courts",
+        "civil and common courts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: district and circuit courts.\n\nRelated textbook context from the same section:\n“While we often focus primarily on the district and circuit courts of the federal system, other federal trial courts exist that have more specialized jurisdictions, such as the Court of International Trade, Court of Federal Claims, and U.S. Tax Court. Specialized federal appeals courts include the Court of Appeals for the Armed Forces and the Court of Appeals for Veterans Claims. Cases from any of these courts may also be appealed to the Supreme Court, although that result is very rare.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90462, exercise fs-id1163758372924. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90462/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The Supreme Court",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nA case will be placed on the Court’s docket when ________ justices agree to do so.",
+      "options": [
+        "four",
+        "five",
+        "six",
+        "all"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: four.\n\nRelated textbook context from the same section:\n“Most often, the petitioner is asking the Supreme Court to grant a writ of certiorari, a request that the lower court send up its record of the case for review. Once a writ of certiorari (cert. for short) has been granted, the case is scheduled on the Court’s docket. The Supreme Court exercises discretion in the cases it chooses to hear, but four of the nine justices must vote to accept a case. This is called the Rule of Four.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90463, exercise fs-id1163757316272. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90463/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "The Supreme Court",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nThe lawyer who represents the federal government and argues cases before the Supreme Court is the ________.",
+      "options": [
+        "solicitor general",
+        "attorney general",
+        "U.S. attorney",
+        "chief justice"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: solicitor general.\n\nRelated textbook context from the same section:\n“The solicitor general is the lawyer who represents the federal government before the Supreme Court: He or she decides which cases (in which the United States is a party) should be appealed from the lower courts and personally approves each one presented (). Most of the cases the solicitor general brings to the Court will be given a place on the docket. About two-thirds of all Supreme Court cases involve the federal government.“About the Office.” Office of the Solicitor General. The United States Department of Justice. http://www.justice.gov/osg/about-office-1 (March 1, 2016).”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90463, exercise fs-id1163757194580. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90463/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "State Power and Delegation",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\n________ dictate the terms and conditions state governments would have to meet in order to qualify for financial assistance in a specific policy area.",
+      "options": [
+        "Categorical grants",
+        "Block grants",
+        "Unfunded mandates",
+        "Crossover sanctions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Categorical grants.\n\nRelated textbook context from the same section:\n“Growing financial resources gave the federal government increased power over subnational governments. This increased power was because it could use categorical grants to dictate the terms and conditions state governments had to meet to qualify for financial assistance in a specific policy area. Over time, the federal government even began to require state and local governments to comply with legislative and executive authorizations when funding was not attached. These requests from the federal government are referred to as unfunded mandates and are a source of dissatisfaction to political actors at the state and local level. To provide more transparency to state and local governments and reduce the federal government’s use of mandates, the Unfunded Mandates Reform Act was passed in 1995. This act requires the Congressional Budget Office to provide information about the cost of any proposed government mandate that exceeds a specified threshold before the bill can be considered in Congress.Philip Joyce, “Is the Era of Unfunded Federal Mandates Over?” Governing, 16 April 2014. http://www.governing.com/columns/smart-mgmt/col-is-era-unfunded-federal-mandates-over.html.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90466, exercise fs-id1163757214681. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90466/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "State Political Culture",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nIn a ________ political culture, the government is seen as a mechanism for maintaining the existing social order or status quo.",
+      "options": [
+        "moralistic",
+        "individualistic",
+        "traditionalistic",
+        "nativistic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: traditionalistic.\n\nRelated textbook context from the same section:\n“Given the prominence of slavery in its formation, a traditionalistic political culture, in Elazar’s argument, sees the government as necessary to maintaining the existing social order, the status quo. Only elites belong in the political enterprise, and as a result, new public policies will be advanced only if they reinforce the beliefs and interests of those in power.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90467, exercise fs-id1163758447917. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90467/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "State Political Culture",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\n________ was the first state to institute all mail-in voting and automatic voter registration.",
+      "options": [
+        "California",
+        "Oregon",
+        "Washington",
+        "New York"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: Oregon.\n\nRelated textbook context from the same section:\n“In 1998, Oregon became the first state to switch to mail-in voting when citizens passed a ballot measure for it to take effect. In March 2015, Governor Kate Brown took another step to expand the voting franchise. She signed a bill into law that makes voter registration automatic for all citizens in the state with a driver’s license.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90467, exercise fs-id1163758519668. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90467/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Governors and State Legislatures",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nIn a ________ legislature, members tend to have low salaries, shorter sessions, and few staff members to assist them with their legislative functions.",
+      "options": [
+        "professional",
+        "citizen",
+        "hybrid",
+        "unicameral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: citizen.\n\nRelated textbook context from the same section:\n“As a whole, state legislatures have become progressively more professional. Political scientist Peverill Squire, at several points throughout his career, has measured the degree of state legislative professionalism with a ranking across the fifty states.Peverill Squire. 2007. “Measuring State Legislative Professionalism: The Squire Index Revisited.” State Politics & Policy Quarterly 7, No. 2: 211–227. Legislative professionalism is assessed according to three key factors: state legislators’ salary, the length of time they are in session, and the number of staff at their disposal. Members of professional or full-time legislatures tend to consider legislative service their full-time occupation, and they are paid enough not to require a second occupation. They also have larger staffs to assist with their work, and they tend to be in session for much of the year. On the other end of the spectrum are citizen, or part-time, legislatures. Representatives and senators in these legislatures do not enjoy the same perks as their counterparts in professional legislatures. Generally, salary is much lower and so is staff assistance. Members typically need to seek outside employment to supplement their income from legislative work, and the legislature will meet for only a brief period of time during the year.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90468, exercise fs-id1163755042141. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90468/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "State Legislative Term Limits",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nThe most common term limit across the states that have imposed them is ________ years.",
+      "options": [
+        "four",
+        "six",
+        "eight",
+        "twelve"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: eight.\n\nRelated textbook context from the same section:\n“Under consecutive term limits, a member can serve for only a specified period of time in either the state house or the state senate, most commonly eight years. To try to regain a seat in the legislature once the limit has been met, the member will have to wait to run for office again. If the member succeeds, the clock will reset and the legislator may once again serve up to the limit set by the state. In states with a lifetime ban, such as Oklahoma, members can serve only one time for the number of years allotted, and they are not permitted to run for office again ().See note 65.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90469, exercise fs-id1163757470128. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90469/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Bureaucracy and the Evolution of Public Administration",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nDuring George Washington’s administration, there were ________ cabinet positions.",
+      "options": [
+        "four",
+        "five",
+        "six",
+        "seven"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: four.\n\nRelated textbook context from the same section:\n“In his first and unsuccessful presidential bid in 1976, Ronald Reagan, a skilled politician and governor of California, stoked working-class anxieties by directing voters’ discontent at the bureaucratic dragon he proposed to slay. When he ran again four years later, his criticism of bureaucratic waste in Washington carried him to a landslide victory. While it is debatable whether Reagan actually reduced the size of government, he continued to wield rhetoric about bureaucratic waste to great political advantage. Even as late as 1986, he continued to rail against the Washington bureaucracy (), once declaring famously that “the nine most terrifying words in the English language are: I’m from the government, and I’m here to help.””\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90472, exercise fs-id1171474500808. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90472/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Bureaucracy and the Evolution of Public Administration",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nTwo recent periods of large-scale bureaucratic expansion were ________.",
+      "options": [
+        "the 1930s and the 1960s",
+        "the 1920s and the 1980s",
+        "the 1910s and the 1990s",
+        "the 1930s and the 1950s"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: the 1930s and the 1960s.\n\nRelated textbook context from the same section:\n“The two periods of increased bureaucratic growth in the United States, the 1930s and the 1960s, accomplished far more than expanding the size of government. They transformed politics in ways that continue to shape political debate today. While the bureaucracies created in these two periods served important purposes, many at that time and even now argue that the expansion came with unacceptable costs, particularly economic costs. The common argument that bureaucratic regulation smothers capitalist innovation was especially powerful in the Cold War environment of the 1960s, 70s, and 80s. But as long as voters felt they were benefiting from the bureaucratic expansion, as they typically did, the political winds supported continued growth.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90472, exercise fs-id1171474463327. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90472/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Toward a Merit-Based Civil Service",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nThe Civil Service Commission was created by the ________.",
+      "options": [
+        "Pendleton Act of 1883",
+        "Lloyd–La Follette Act of 1912",
+        "Hatch Act of 1939",
+        "Political Activities Act of 1939"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Pendleton Act of 1883.\n\nRelated textbook context from the same section:\n“The Pendleton Act of 1883 was not merely an important piece of reform legislation; it also established the foundations for the merit-based system that emerged in the decades that followed. It accomplished this through a number of important changes, although three elements stand out as especially significant. First, the law attempted to reduce the impact of politics on the civil service sector by making it illegal to fire or otherwise punish government workers for strictly political reasons. Second, the law raised the qualifications for employment in civil service positions by requiring applicants to pass exams designed to test their competence in a number of important skill and knowledge areas. Third, it allowed for the creation of the United States Civil Service Commission (CSC), which was charged with enforcing the elements of the law.United States Civil Service Commission. 1974. Biography of an Ideal: a history of the federal civil service. Washington, D.C.: Office of Public Affairs, U.S. Civil Service Commission. 40–44.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90473, exercise fs-id1171473158233. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90473/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Understanding Bureaucracies and their Types",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nWhich of the following models of bureaucracy best accounts for the way bureaucracies tend to push Congress for more funding each year?",
+      "options": [
+        "the Weberian model",
+        "the acquisitive model",
+        "the monopolistic model",
+        "the ideal model"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: the acquisitive model.\n\nRelated textbook context from the same section:\n“For Weber, as his ideal type suggests, the bureaucracy was not only necessary but also a positive human development. Later sociologists have not always looked so favorably upon bureaucracies, and they have developed alternate models to explain how and why bureaucracies function. One such model is called the acquisitive model of bureaucracy. The acquisitive model proposes that bureaucracies are naturally competitive and power-hungry. This means bureaucrats, especially at the highest levels, recognize that limited resources are available to feed bureaucracies, so they will work to enhance the status of their own bureaucracy to the detriment of others.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90474, exercise fs-id1171473159377. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90474/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Categorizing Public Policy",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nWhich type of policy directly benefits the most citizens?",
+      "options": [
+        "regulatory policy",
+        "distributive policy",
+        "redistributive policy",
+        "self-regulatory policy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: regulatory policy.\n\nRelated textbook context from the same section:\n“While distributive policy, according to Lowi, has diffuse costs and concentrated benefits, regulatory policy features the opposite arrangement, with concentrated costs and diffuse benefits. A relatively small number of groups or individuals bear the costs of regulatory policy, but its benefits are expected to be distributed broadly across society. As you might imagine, regulatory policy is most effective for controlling or protecting public or common resources. Among the best-known examples are policies designed to protect public health and safety, and the environment. These regulatory policies prevent manufacturers or businesses from maximizing their profits by excessively polluting the air or water, selling products they know to be harmful, or compromising the health of their employees during production.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90478, exercise fs-id1171471111575. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90478/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Policy Arenas",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nSocial Security and Medicare are notable for their assistance to which group?",
+      "options": [
+        "the poor",
+        "young families starting out",
+        "those in urban areas",
+        "the elderly"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: the elderly.\n\nRelated textbook context from the same section:\n“A second Social Security benefit is a disability payout, which the government distributes to workers who become unable to work due to disability. To qualify, workers must demonstrate that the injury or incapacitation will last at least twelve months. A third and final benefit is Supplemental Security Income, which provides supplemental income to adults or children with considerable disability or to the elderly who fall below an income threshold.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90479, exercise fs-id1171474338967. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90479/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published American Government 3e practice",
+      "chapter": "American Government 3e",
+      "topic": "Policymakers",
+      "question": "Published American Government 3e practice — not a JU/GST/NU past paper.\n\nPolicy analysts seek ________.",
+      "options": [
+        "evidence",
+        "their chosen outputs",
+        "influence",
+        "money"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: evidence.\n\nRelated textbook context from the same section:\n“One way to think about policy advocates is to recognize that they hold a normative position on an issue, that is, they have a conviction about what should or ought to be done. The best public policy, in their view, is one that accomplishes a specific goal or outcome. For this reason, advocates often begin with an objective and then try to shape or create proposals that help them accomplish that goal. Facts, evidence, and analysis are important tools for convincing policymakers or the general public of the benefits of their proposals. Private citizens often find themselves in advocacy positions, particularly if they are required to take on leadership roles in their private lives or in their organizations. The most effective advocates are usually hired professionals who form lobbying groups or think tanks to promote their agenda.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, American Government 3e, m90480, exercise fs-id1171471009039. https://github.com/openstax/osbooks-american-government/blob/a2677245241954039c7ebc996e82a8f3b0b4376f/modules/m90480/index.cnxml | Access for free at https://openstax.org/books/american-government-3e/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    }
+  ]
+}

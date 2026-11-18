@@ -1,0 +1,3360 @@
+{
+  "provenance": {
+    "source": "OpenStax/Rice University and contributing authors, Introduction to Sociology 3e",
+    "license": "CC BY-NC-SA 4.0",
+    "release": {
+      "repository": "openstax/osbooks-introduction-sociology",
+      "commit": "ab8839c5c5340cb4dffbc310699da450549deb20",
+      "archive": "osbooks-introduction-sociology-xml.zip",
+      "sha256": "cc57d4b415fd5745b47114aa40151969244060b0ccbcd171db86d025718ddee6",
+      "collected": "2026-11-17"
+    },
+    "changes": "Published MCQ stems/options/keys retained; textbook context mechanically selected from the same section; preparation links added.",
+    "verification": "Published key retained; context selection NOT independently expert-verified; supplementary subject practice, not university past papers.",
+    "included": 166
+  },
+  "rows": [
+    {
+      "module": "m90142",
+      "exercise": "fs-id817674",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90142",
+      "exercise": "fs-id1947852",
+      "status": "included",
+      "answer": "imagination"
+    },
+    {
+      "module": "m90142",
+      "exercise": "fs-id1155804",
+      "status": "included",
+      "answer": "interact"
+    },
+    {
+      "module": "m90142",
+      "exercise": "fs-id1414719",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90142",
+      "exercise": "fs-id1842603",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90142",
+      "exercise": "fs-id1090838",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90143",
+      "exercise": "fs-id1169033060946",
+      "status": "included",
+      "answer": "Economics"
+    },
+    {
+      "module": "m90143",
+      "exercise": "fs-id1169033067407",
+      "status": "included",
+      "answer": "Karl Marx"
+    },
+    {
+      "module": "m90143",
+      "exercise": "fs-id1169033139889",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90143",
+      "exercise": "fs-id1169033101000",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90143",
+      "exercise": "fs-id1169033100582",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90144",
+      "exercise": "fs-id2039108",
+      "status": "included",
+      "answer": "Symbolic interactionism"
+    },
+    {
+      "module": "m90144",
+      "exercise": "eip-917",
+      "status": "included",
+      "answer": "Karl Marx"
+    },
+    {
+      "module": "m90144",
+      "exercise": "fs-id1574745",
+      "status": "included",
+      "answer": "Herbert Blumer"
+    },
+    {
+      "module": "m90144",
+      "exercise": "fs-id2195852",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90144",
+      "exercise": "fs-id1352194",
+      "status": "included",
+      "answer": "Participant observation"
+    },
+    {
+      "module": "m90144",
+      "exercise": "fs-id1961696",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90144",
+      "exercise": "fs-id1372254",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90145",
+      "exercise": "fs-id1798206",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90145",
+      "exercise": "fs-idm244701936",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90145",
+      "exercise": "fs-id1904314",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90145",
+      "exercise": "fs-id1823323",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90145",
+      "exercise": "fs-idm224210016",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90145",
+      "exercise": "fs-id1169033056427",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90145",
+      "exercise": "fs-id1169033056822",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90147",
+      "exercise": "fs-idm375802000",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90147",
+      "exercise": "fs-idm362608928",
+      "status": "included",
+      "answer": "valid"
+    },
+    {
+      "module": "m90147",
+      "exercise": "fs-idm390919552",
+      "status": "included",
+      "answer": "variable"
+    },
+    {
+      "module": "m90147",
+      "exercise": "fs-idm357174928",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90147",
+      "exercise": "fs-idm384857280",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90147",
+      "exercise": "fs-idm382202816",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90147",
+      "exercise": "fs-idm387019136",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm390406224",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm394891792",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm389303728",
+      "status": "included",
+      "answer": "Participant observation"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm388465536",
+      "status": "included",
+      "answer": "Questionnaire"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm390343168",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm388116400",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm395522912",
+      "status": "included",
+      "answer": "nonreactive"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm387402928",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm390889920",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90148",
+      "exercise": "fs-idm394735440",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90149",
+      "exercise": "fs-idm207740096",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90149",
+      "exercise": "fs-idm220994608",
+      "status": "included",
+      "answer": "Max Weber"
+    },
+    {
+      "module": "m90149",
+      "exercise": "fs-idm203266976",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90149",
+      "exercise": "fs-idm207704608",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90149",
+      "exercise": "fs-idm235454816",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90151",
+      "exercise": "fs-idm145714288",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90151",
+      "exercise": "fs-idm164262560",
+      "status": "included",
+      "answer": "Language"
+    },
+    {
+      "module": "m90151",
+      "exercise": "fs-idm147843024",
+      "status": "included",
+      "answer": "xenocentrism"
+    },
+    {
+      "module": "m90151",
+      "exercise": "fs-idm29183856",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90151",
+      "exercise": "fs-idm645252752",
+      "status": "included",
+      "answer": "culture shock"
+    },
+    {
+      "module": "m90151",
+      "exercise": "fs-idm391948944",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90151",
+      "exercise": "fs-idm170722912",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90151",
+      "exercise": "fs-idm117334240",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90152",
+      "exercise": "fs-id1165528304715",
+      "status": "included",
+      "answer": "A symbol"
+    },
+    {
+      "module": "m90152",
+      "exercise": "fs-id1165528356832",
+      "status": "included",
+      "answer": "social control"
+    },
+    {
+      "module": "m90152",
+      "exercise": "fs-id1165528386507",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90152",
+      "exercise": "fs-id1165528386486",
+      "status": "included",
+      "answer": "Sapir-Whorf hypothesis"
+    },
+    {
+      "module": "m90152",
+      "exercise": "fs-id1165528306935",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90152",
+      "exercise": "fs-id1165528302726",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90152",
+      "exercise": "fs-id1165528324170",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1798327",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1738528",
+      "status": "included",
+      "answer": "Counterculture"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1306864",
+      "status": "included",
+      "answer": "subculture"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1737922",
+      "status": "included",
+      "answer": "cultural lag"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1490680",
+      "status": "included",
+      "answer": "globalization"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1805964",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1555851",
+      "status": "included",
+      "answer": "diffusion"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1535471",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1799192",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90153",
+      "exercise": "fs-id1553434",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90154",
+      "exercise": "fs-id1740738",
+      "status": "included",
+      "answer": "Conflict theory"
+    },
+    {
+      "module": "m90154",
+      "exercise": "fs-id1798327",
+      "status": "included",
+      "answer": "Symbolic interactionism"
+    },
+    {
+      "module": "m90154",
+      "exercise": "fs-id1757928",
+      "status": "included",
+      "answer": "Functionalism"
+    },
+    {
+      "module": "m90154",
+      "exercise": "fs-id1314616",
+      "status": "included",
+      "answer": "Conflict theory"
+    },
+    {
+      "module": "m90154",
+      "exercise": "fs-id1738528",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90156",
+      "exercise": "sq0401_exercise01",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90156",
+      "exercise": "sq0401_exercise02",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90156",
+      "exercise": "sq0401_exercise03",
+      "status": "included",
+      "answer": "Horticultural"
+    },
+    {
+      "module": "m90156",
+      "exercise": "sh0401_exercise01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90156",
+      "exercise": "sh0401_exercise02",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90157",
+      "exercise": "sq_exercise01",
+      "status": "included",
+      "answer": "Industrial"
+    },
+    {
+      "module": "m90157",
+      "exercise": "sq_exercise02",
+      "status": "included",
+      "answer": "bourgeoisie"
+    },
+    {
+      "module": "m90157",
+      "exercise": "sq_exercise03",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90157",
+      "exercise": "sq_exercise04",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90157",
+      "exercise": "sq_exercise05",
+      "status": "included",
+      "answer": "Max Weber"
+    },
+    {
+      "module": "m90157",
+      "exercise": "sq_exercise06",
+      "status": "included",
+      "answer": "functionalist"
+    },
+    {
+      "module": "m90157",
+      "exercise": "sh_exercise01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90157",
+      "exercise": "sh_exercise02",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90158",
+      "exercise": "sq0403_ex01",
+      "status": "included",
+      "answer": "Role conflict"
+    },
+    {
+      "module": "m90158",
+      "exercise": "sq0403_ex02",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90158",
+      "exercise": "sq0403_ex03",
+      "status": "included",
+      "answer": "the looking-glass self"
+    },
+    {
+      "module": "m90158",
+      "exercise": "sh0403_ex01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90158",
+      "exercise": "sh0403_ex02",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90160",
+      "exercise": "fs-id1884634",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90160",
+      "exercise": "fs-id2184316",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90160",
+      "exercise": "fs-id1497823",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90160",
+      "exercise": "fs-id2756410",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90160",
+      "exercise": "fs-id1445857",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90160",
+      "exercise": "fs-id2880462",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90160",
+      "exercise": "fs-id1327441",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90161",
+      "exercise": "fs-id2764310",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90161",
+      "exercise": "fs-id1203146",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90161",
+      "exercise": "fs-id2738288",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90161",
+      "exercise": "fs-id1342463",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90161",
+      "exercise": "fs-id1773748",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90162",
+      "exercise": "fs-id2768730",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90162",
+      "exercise": "fs-id1552355",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90162",
+      "exercise": "fs-id2299587",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90162",
+      "exercise": "fs-id1310992",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90162",
+      "exercise": "fs-id2080335",
+      "status": "included",
+      "answer": "Family"
+    },
+    {
+      "module": "m90162",
+      "exercise": "fs-id900304",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90162",
+      "exercise": "fs-id1500780",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90163",
+      "exercise": "fs-id1872415",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90163",
+      "exercise": "fs-id1883855",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90163",
+      "exercise": "fs-id3653858",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90163",
+      "exercise": "fs-id2372016",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90165",
+      "exercise": "fs-id2669315",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90165",
+      "exercise": "fs-id2717916",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90165",
+      "exercise": "fs-id875536",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90165",
+      "exercise": "fs-id2229374",
+      "status": "included",
+      "answer": "reference groups"
+    },
+    {
+      "module": "m90165",
+      "exercise": "fs-id2862296",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90165",
+      "exercise": "fs-id972166",
+      "status": "included",
+      "answer": "Reference group"
+    },
+    {
+      "module": "m90165",
+      "exercise": "fs-id2304744",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90165",
+      "exercise": "eip-id1417918",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90165",
+      "exercise": "eip-id1389621",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90165",
+      "exercise": "eip-id1332502",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90166",
+      "exercise": "fs-id3021967",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90166",
+      "exercise": "fs-id1430848",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90166",
+      "exercise": "fs-id2804952",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90166",
+      "exercise": "fs-id2841617",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90166",
+      "exercise": "fs-id1882979",
+      "status": "included",
+      "answer": "Authoritarian"
+    },
+    {
+      "module": "m90166",
+      "exercise": "fs-id1598978",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90166",
+      "exercise": "fs-id2784912",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90166",
+      "exercise": "fs-id2847132",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90166",
+      "exercise": "fs-id3130599",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90168",
+      "exercise": "fs-id1370636",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90168",
+      "exercise": "fs-id1303155",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90168",
+      "exercise": "fs-id1385827",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90168",
+      "exercise": "fs-id3135713",
+      "status": "included",
+      "answer": "social order"
+    },
+    {
+      "module": "m90168",
+      "exercise": "fs-id2640604",
+      "status": "included",
+      "answer": "informal sanctions"
+    },
+    {
+      "module": "m90168",
+      "exercise": "fs-id1720876",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90168",
+      "exercise": "fs-id2195969",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90169",
+      "exercise": "fs-id2323069",
+      "status": "included",
+      "answer": "primary deviance"
+    },
+    {
+      "module": "m90169",
+      "exercise": "fs-id1366105",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90169",
+      "exercise": "fs-id909380",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90169",
+      "exercise": "fs-id1674578",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90169",
+      "exercise": "fs-id2916966",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90169",
+      "exercise": "fs-id2732159",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90169",
+      "exercise": "fs-id3592067",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90169",
+      "exercise": "fs-id2653179",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90170",
+      "exercise": "fs-id2885117",
+      "status": "included",
+      "answer": "Embezzlement"
+    },
+    {
+      "module": "m90170",
+      "exercise": "fs-id1003194",
+      "status": "included",
+      "answer": "violent crime"
+    },
+    {
+      "module": "m90170",
+      "exercise": "fs-id2071330",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90170",
+      "exercise": "fs-id2913595",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90170",
+      "exercise": "fs-id1653063",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90172",
+      "exercise": "fs-id2627631",
+      "status": "included",
+      "answer": "e-readiness"
+    },
+    {
+      "module": "m90172",
+      "exercise": "fs-id1202754",
+      "status": "included",
+      "answer": "knowledge gap"
+    },
+    {
+      "module": "m90172",
+      "exercise": "fs-id2378797",
+      "status": "included",
+      "answer": "planned obsolescence"
+    },
+    {
+      "module": "m90172",
+      "exercise": "fs-id1743152",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90172",
+      "exercise": "fs-id1669697",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90172",
+      "exercise": "fs-id3671884",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90172",
+      "exercise": "fs-id1497476",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90172",
+      "exercise": "fs-id1415518",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90173",
+      "exercise": "fs-id1352100",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90173",
+      "exercise": "fs-id1703872",
+      "status": "included",
+      "answer": "plant patent"
+    },
+    {
+      "module": "m90173",
+      "exercise": "fs-id1789391",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90173",
+      "exercise": "fs-id1532691",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90173",
+      "exercise": "fs-id1278766",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90173",
+      "exercise": "fs-id1490378",
+      "status": "included",
+      "answer": "media"
+    },
+    {
+      "module": "m90173",
+      "exercise": "fs-id1306475",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90173",
+      "exercise": "fs-id1577988",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90173",
+      "exercise": "fs-id1553248",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1324789",
+      "status": "included",
+      "answer": "panoptic surveillance"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1730576",
+      "status": "included",
+      "answer": "social construction of reality"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1770471",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1269309",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1752267",
+      "status": "included",
+      "answer": "gatekeeping"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1577940",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1464901",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1778732",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1728454",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90179",
+      "exercise": "fs-id1787060",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90180",
+      "exercise": "fs-id1688497",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90180",
+      "exercise": "fs-id3135439",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90180",
+      "exercise": "fs-id3216022",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90180",
+      "exercise": "fs-id2673528",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90180",
+      "exercise": "fs-id2759186",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90180",
+      "exercise": "eip-422",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90180",
+      "exercise": "eip-610",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90180",
+      "exercise": "fs-id1466916",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90180",
+      "exercise": "fs-id752027",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90180",
+      "exercise": "fs-id2457257",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90181",
+      "exercise": "fs-id1550025",
+      "status": "included",
+      "answer": "technological diffusion"
+    },
+    {
+      "module": "m90181",
+      "exercise": "fs-id1272568",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90181",
+      "exercise": "fs-id1484217",
+      "status": "included",
+      "answer": "media globalization"
+    },
+    {
+      "module": "m90181",
+      "exercise": "fs-id1432720",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90181",
+      "exercise": "fs-id1401795",
+      "status": "included",
+      "answer": "China"
+    },
+    {
+      "module": "m90181",
+      "exercise": "fs-id1806642",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90181",
+      "exercise": "fs-id1324789",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90181",
+      "exercise": "fs-id1561428",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90183",
+      "exercise": "fs-id1427950",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90183",
+      "exercise": "fs-id2667975",
+      "status": "included",
+      "answer": "Class"
+    },
+    {
+      "module": "m90183",
+      "exercise": "fs-id1653063",
+      "status": "included",
+      "answer": "First-generation college student"
+    },
+    {
+      "module": "m90183",
+      "exercise": "fs-id2638324",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90183",
+      "exercise": "fs-id1414894",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90183",
+      "exercise": "fs-id1961548",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90183",
+      "exercise": "fs-id2647957",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90183",
+      "exercise": "fs-id1296833",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90184",
+      "exercise": "fs-id1681158",
+      "status": "included",
+      "answer": "middle class"
+    },
+    {
+      "module": "m90184",
+      "exercise": "fs-id935393",
+      "status": "included",
+      "answer": "class traits"
+    },
+    {
+      "module": "m90184",
+      "exercise": "fs-id1299634",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90184",
+      "exercise": "fs-id1295165",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90184",
+      "exercise": "fs-id2616362",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90184",
+      "exercise": "fs-id1485345",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90184",
+      "exercise": "fs-id2739864",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90185",
+      "exercise": "fs-id2648812",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90185",
+      "exercise": "fs-id2105897",
+      "status": "included",
+      "answer": "The Industrial Revolution"
+    },
+    {
+      "module": "m90185",
+      "exercise": "fs-id1386692",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90185",
+      "exercise": "fs-id2661513",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90185",
+      "exercise": "fs-id1663597",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90186",
+      "exercise": "fs-id2039762",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90186",
+      "exercise": "fs-id2431592",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90186",
+      "exercise": "fs-id2729101",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90186",
+      "exercise": "fs-id2913465",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90186",
+      "exercise": "fs-id1950378",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90186",
+      "exercise": "fs-id2868965",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90186",
+      "exercise": "fs-id1373005",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90188",
+      "exercise": "fs-id2901267",
+      "status": "included",
+      "answer": "conflict theory"
+    },
+    {
+      "module": "m90188",
+      "exercise": "fs-id1310992",
+      "status": "included",
+      "answer": "functional"
+    },
+    {
+      "module": "m90188",
+      "exercise": "fs-id1772752",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90188",
+      "exercise": "fs-id3656886",
+      "status": "included",
+      "answer": "Core"
+    },
+    {
+      "module": "m90188",
+      "exercise": "fs-id2880933",
+      "status": "included",
+      "answer": "capital flight"
+    },
+    {
+      "module": "m90188",
+      "exercise": "fs-id2218331",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90188",
+      "exercise": "fs-id1509665",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90188",
+      "exercise": "fs-id1428798",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90188",
+      "exercise": "fs-id2669996",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90189",
+      "exercise": "fs-id1177568",
+      "status": "included",
+      "answer": "chattel slavery"
+    },
+    {
+      "module": "m90189",
+      "exercise": "fs-id2679366",
+      "status": "included",
+      "answer": "absolute"
+    },
+    {
+      "module": "m90189",
+      "exercise": "fs-id1937974",
+      "status": "included",
+      "answer": "relative poverty"
+    },
+    {
+      "module": "m90189",
+      "exercise": "fs-id1299634",
+      "status": "included",
+      "answer": "subjective poverty"
+    },
+    {
+      "module": "m90189",
+      "exercise": "fs-id1410564",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90189",
+      "exercise": "fs-id1663568",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90189",
+      "exercise": "fs-id1308669",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90189",
+      "exercise": "fs-id1394419",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90190",
+      "exercise": "fs-id2627114",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90190",
+      "exercise": "fs-id2218331",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90190",
+      "exercise": "fs-id1307970",
+      "status": "included",
+      "answer": "modernization theory"
+    },
+    {
+      "module": "m90190",
+      "exercise": "fs-id2353036",
+      "status": "included",
+      "answer": "dependency theorist"
+    },
+    {
+      "module": "m90190",
+      "exercise": "fs-id1844162",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90190",
+      "exercise": "fs-id1372206",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90190",
+      "exercise": "fs-id1001656",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90192",
+      "exercise": "fs-id2103582",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90192",
+      "exercise": "fs-id1491488",
+      "status": "included",
+      "answer": "Lack of power"
+    },
+    {
+      "module": "m90192",
+      "exercise": "fs-id1386692",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90192",
+      "exercise": "fs-id1588910",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90192",
+      "exercise": "fs-id1291763",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90192",
+      "exercise": "fs-id2109775",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90192",
+      "exercise": "fs-id1858615",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90193",
+      "exercise": "fs-id2274870",
+      "status": "included",
+      "answer": "White privilege"
+    },
+    {
+      "module": "m90193",
+      "exercise": "fs-id2368853",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90193",
+      "exercise": "fs-id2866546",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90193",
+      "exercise": "fs-id1388653",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90194",
+      "exercise": "fs-id1363101",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90194",
+      "exercise": "fs-id2839132",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90194",
+      "exercise": "fs-id1306686",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90194",
+      "exercise": "fs-id2081396",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90194",
+      "exercise": "fs-id1652351",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90195",
+      "exercise": "fs-id1169033060750",
+      "status": "included",
+      "answer": "Genocide"
+    },
+    {
+      "module": "m90195",
+      "exercise": "fs-id1169033068658",
+      "status": "included",
+      "answer": "Separate but equal"
+    },
+    {
+      "module": "m90195",
+      "exercise": "fs-id1169033058285",
+      "status": "included",
+      "answer": "Pluralism"
+    },
+    {
+      "module": "m90195",
+      "exercise": "fs-id1169033063966",
+      "status": "included",
+      "answer": "melting pot"
+    },
+    {
+      "module": "m90195",
+      "exercise": "fs-id1169033072418",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90195",
+      "exercise": "fs-id1169033102122",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90196",
+      "exercise": "fs-id2316262",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90196",
+      "exercise": "fs-id2401704",
+      "status": "included",
+      "answer": "Asian Americans"
+    },
+    {
+      "module": "m90196",
+      "exercise": "fs-id1364602",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90196",
+      "exercise": "fs-id2620520",
+      "status": "included",
+      "answer": "Islamophobia"
+    },
+    {
+      "module": "m90196",
+      "exercise": "fs-id1381364",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90196",
+      "exercise": "fs-id1586561",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90196",
+      "exercise": "fs-id2397959",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90198",
+      "exercise": "sq1201_ex1",
+      "status": "included",
+      "answer": "gender"
+    },
+    {
+      "module": "m90198",
+      "exercise": "sq1201_ex2",
+      "status": "included",
+      "answer": "gender role"
+    },
+    {
+      "module": "m90198",
+      "exercise": "sq1201_ex3",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90198",
+      "exercise": "sh1201_ex1",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90198",
+      "exercise": "sh1201_ex2",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90199",
+      "exercise": "sq1202_ex1",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90199",
+      "exercise": "sq1202_ex2",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90199",
+      "exercise": "sq1202_ex3",
+      "status": "included",
+      "answer": "Functionalism"
+    },
+    {
+      "module": "m90199",
+      "exercise": "eip-609",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m90199",
+      "exercise": "sq1202_ex5",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90199",
+      "exercise": "fs-idm66543456",
+      "status": "included",
+      "answer": "the hatred of, aversion to, or prejudice against women"
+    },
+    {
+      "module": "m90199",
+      "exercise": "fs-idm516582720",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90199",
+      "exercise": "fs-idm255697216",
+      "status": "included",
+      "answer": "Conflict Theory"
+    },
+    {
+      "module": "m90199",
+      "exercise": "fs-idm239241360",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m90199",
+      "exercise": "fs-idm534593216",
+      "status": "included",
+      "answer": "21.2%"
+    },
+    {
+      "module": "m90199",
+      "exercise": "sh1202_ex1",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90199",
+      "exercise": "sh1202_ex2",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90199",
+      "exercise": "fs-idm385728368",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90199",
+      "exercise": "fs-idm379824608",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90200",
+      "exercise": "sq1203_ex1",
+      "status": "included",
+      "answer": "Sweden"
+    },
+    {
+      "module": "m90200",
+      "exercise": "sq1203_ex2",
+      "status": "included",
+      "answer": "conservative"
+    },
+    {
+      "module": "m90200",
+      "exercise": "sq1203_ex3",
+      "status": "included",
+      "answer": "a person’s capacity for sexual feelings"
+    },
+    {
+      "module": "m90200",
+      "exercise": "sq1203_ex4",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90200",
+      "exercise": "sq1203_ex5",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90200",
+      "exercise": "sh1203_ex1",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90200",
+      "exercise": "sh1203_ex2",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90202",
+      "exercise": "sq1301_ex01",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90202",
+      "exercise": "sq1301_ex02",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90202",
+      "exercise": "sq1301_ex03",
+      "status": "included",
+      "answer": "sex ratio"
+    },
+    {
+      "module": "m90202",
+      "exercise": "sq1301_ex04",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90202",
+      "exercise": "sq1301_ex05",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90202",
+      "exercise": "sh1301_ex01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90202",
+      "exercise": "sh1302",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90202",
+      "exercise": "sh1303",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90203",
+      "exercise": "sq1302_ex01",
+      "status": "included",
+      "answer": "death and dying"
+    },
+    {
+      "module": "m90203",
+      "exercise": "sq1302_ex02",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90203",
+      "exercise": "sq1302_ex03",
+      "status": "included",
+      "answer": "Elisabeth Kübler-Ross"
+    },
+    {
+      "module": "m90203",
+      "exercise": "sq1302_ex04",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90203",
+      "exercise": "sq1302_ex05",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90203",
+      "exercise": "sh1302_01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90203",
+      "exercise": "sh1302_02",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90203",
+      "exercise": "sh1302_03",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90204",
+      "exercise": "sq1303_ex01",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90204",
+      "exercise": "sq1303_ex02",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90204",
+      "exercise": "sq1303_ex03",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90204",
+      "exercise": "sq1303_ex04",
+      "status": "included",
+      "answer": "caregivers"
+    },
+    {
+      "module": "m90204",
+      "exercise": "sq1303_ex05",
+      "status": "included",
+      "answer": "die by suicide"
+    },
+    {
+      "module": "m90204",
+      "exercise": "sh1303_01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90204",
+      "exercise": "sh1303_02",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90204",
+      "exercise": "sh1303_03",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90204",
+      "exercise": "sh1303_04",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90205",
+      "exercise": "sq1304_ex01",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90205",
+      "exercise": "sq1304_ex02",
+      "status": "included",
+      "answer": "activity"
+    },
+    {
+      "module": "m90205",
+      "exercise": "sq1304_ex03",
+      "status": "included",
+      "answer": "disengagement"
+    },
+    {
+      "module": "m90205",
+      "exercise": "sq1304_ex04",
+      "status": "included",
+      "answer": "Industrialization"
+    },
+    {
+      "module": "m90205",
+      "exercise": "sq1304_ex05",
+      "status": "included",
+      "answer": "Age stratification"
+    },
+    {
+      "module": "m90205",
+      "exercise": "sh1304_ex01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90205",
+      "exercise": "sh1304_ex02",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90207",
+      "exercise": "fs-id2746090",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90207",
+      "exercise": "fs-id2791962",
+      "status": "included",
+      "answer": "at least as close"
+    },
+    {
+      "module": "m90207",
+      "exercise": "fs-id3633493",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90207",
+      "exercise": "fs-id1373905",
+      "status": "included",
+      "answer": "patrilineal"
+    },
+    {
+      "module": "m90207",
+      "exercise": "fs-id3577740",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90207",
+      "exercise": "fs-id2779072",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90207",
+      "exercise": "fs-id1507026",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90208",
+      "exercise": "fs-id3072661",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90208",
+      "exercise": "fs-id2011822",
+      "status": "included",
+      "answer": "a single parent"
+    },
+    {
+      "module": "m90208",
+      "exercise": "fs-id2729111",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90208",
+      "exercise": "fs-id3647930",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90208",
+      "exercise": "fs-id1551347",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90208",
+      "exercise": "fs-id1666236",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90208",
+      "exercise": "fs-id2105897",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90209",
+      "exercise": "fs-id752454",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90209",
+      "exercise": "fs-id820582",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m90209",
+      "exercise": "fs-id3070266",
+      "status": "included",
+      "answer": "high-conflict"
+    },
+    {
+      "module": "m90209",
+      "exercise": "fs-id1635170",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90209",
+      "exercise": "fs-id2313877",
+      "status": "included",
+      "answer": "Neglect"
+    },
+    {
+      "module": "m90209",
+      "exercise": "fs-id1682619",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90209",
+      "exercise": "fs-id3025530",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id1417905",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id1378609",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id1384557",
+      "status": "included",
+      "answer": "Symbolic interactionism"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id1441476",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id1452284",
+      "status": "included",
+      "answer": "Conflict theory"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id1370186",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id1434199",
+      "status": "included",
+      "answer": "capitalism"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id1363101",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id1859293",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90211",
+      "exercise": "fs-id2667900",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id1566465",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id1798422",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id1842222",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id1551769",
+      "status": "included",
+      "answer": "Scientology and the Hare Krishna"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id1388813",
+      "status": "included",
+      "answer": "China"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id1832749",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id1376481",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id3623266",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id1648791",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90212",
+      "exercise": "fs-id2862890",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90213",
+      "exercise": "fs-id2314402",
+      "status": "included",
+      "answer": "liberation theology"
+    },
+    {
+      "module": "m90213",
+      "exercise": "fs-id2080167",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90213",
+      "exercise": "fs-id1438462",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90215",
+      "exercise": "fs-id1728418",
+      "status": "included",
+      "answer": "Resources and money"
+    },
+    {
+      "module": "m90215",
+      "exercise": "fs-id1559346",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90215",
+      "exercise": "fs-id1457038",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90215",
+      "exercise": "fs-id1327418",
+      "status": "included",
+      "answer": "cultural transmission"
+    },
+    {
+      "module": "m90215",
+      "exercise": "fs-id1518009",
+      "status": "included",
+      "answer": "access to education"
+    },
+    {
+      "module": "m90215",
+      "exercise": "fs-id1553961",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90215",
+      "exercise": "fs-id1729816",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1485404",
+      "status": "included",
+      "answer": "Courtship"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1706313",
+      "status": "included",
+      "answer": "social placement"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1734421",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1569582",
+      "status": "included",
+      "answer": "Symbolic interactionism"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1278308",
+      "status": "included",
+      "answer": "Tracking"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1741394",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1464211",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1825396",
+      "status": "included",
+      "answer": "Sorting"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1752329",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1555037",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1325306",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1410625",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90216",
+      "exercise": "fs-id1460205",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90217",
+      "exercise": "fs-id1499692",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90217",
+      "exercise": "fs-id1704473",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90217",
+      "exercise": "fs-id1743601",
+      "status": "included",
+      "answer": "socioeconomic status and family background"
+    },
+    {
+      "module": "m90217",
+      "exercise": "fs-id1551708",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90217",
+      "exercise": "fs-id1552814",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90219",
+      "exercise": "fs-id1366727",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90219",
+      "exercise": "fs-id1880610",
+      "status": "included",
+      "answer": "Legal-rational"
+    },
+    {
+      "module": "m90219",
+      "exercise": "fs-id1387844",
+      "status": "included",
+      "answer": "Traditional"
+    },
+    {
+      "module": "m90219",
+      "exercise": "fs-id3025239",
+      "status": "included",
+      "answer": "charismatic"
+    },
+    {
+      "module": "m90219",
+      "exercise": "fs-id1947604",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90219",
+      "exercise": "fs-id1306686",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90219",
+      "exercise": "fs-id1961461",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90219",
+      "exercise": "fs-id1820364",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90219",
+      "exercise": "fs-id2024424",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90220",
+      "exercise": "fs-id1384484",
+      "status": "included",
+      "answer": "absolute monarchies"
+    },
+    {
+      "module": "m90220",
+      "exercise": "fs-id3654460",
+      "status": "included",
+      "answer": "Oman"
+    },
+    {
+      "module": "m90220",
+      "exercise": "fs-id2109896",
+      "status": "included",
+      "answer": "Kim Jong-Un"
+    },
+    {
+      "module": "m90220",
+      "exercise": "fs-id2879285",
+      "status": "included",
+      "answer": "totalitarian dictatorship"
+    },
+    {
+      "module": "m90220",
+      "exercise": "fs-id1681559",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90220",
+      "exercise": "fs-id1175506",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90220",
+      "exercise": "fs-id2361925",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90220",
+      "exercise": "fs-id1677473",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90220",
+      "exercise": "fs-id1554768",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90221",
+      "exercise": "fs-id2842276",
+      "status": "included",
+      "answer": "literacy"
+    },
+    {
+      "module": "m90221",
+      "exercise": "fs-id2855254",
+      "status": "included",
+      "answer": "Lyndon Johnson"
+    },
+    {
+      "module": "m90221",
+      "exercise": "fs-id2907072",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90221",
+      "exercise": "fs-id1277494",
+      "status": "included",
+      "answer": "Reynolds v. Sims"
+    },
+    {
+      "module": "m90221",
+      "exercise": "fs-id1591493",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90221",
+      "exercise": "fs-id1884725",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90221",
+      "exercise": "fs-id1638104",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90221",
+      "exercise": "fs-id1938066",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90222",
+      "exercise": "fs-id2614429",
+      "status": "included",
+      "answer": "Interdependence"
+    },
+    {
+      "module": "m90222",
+      "exercise": "fs-id1386009",
+      "status": "included",
+      "answer": "George H. Mead"
+    },
+    {
+      "module": "m90222",
+      "exercise": "fs-id2110997",
+      "status": "included",
+      "answer": "conflict"
+    },
+    {
+      "module": "m90222",
+      "exercise": "fs-id1428708",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90222",
+      "exercise": "fs-id1472328",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90222",
+      "exercise": "fs-id2375309",
+      "status": "included",
+      "answer": "conflict theory"
+    },
+    {
+      "module": "m90222",
+      "exercise": "fs-id2638614",
+      "status": "included",
+      "answer": "Functionalism"
+    },
+    {
+      "module": "m90222",
+      "exercise": "fs-id2879285",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90222",
+      "exercise": "fs-id1711613",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id1887284",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id3033350",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id3630714",
+      "status": "included",
+      "answer": "Information"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id2912805",
+      "status": "included",
+      "answer": "Quaternary"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id1194699",
+      "status": "included",
+      "answer": "Mercantilism"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id2868939",
+      "status": "included",
+      "answer": "Karl Marx"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id2332682",
+      "status": "included",
+      "answer": "market"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id2794430",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id1354839",
+      "status": "included",
+      "answer": "Singapore"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id2906377",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id2422890",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id3662352",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90224",
+      "exercise": "fs-id2755879",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90225",
+      "exercise": "fs-id1165528379870",
+      "status": "included",
+      "answer": "xenophobia"
+    },
+    {
+      "module": "m90225",
+      "exercise": "fs-id1165528317410",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90225",
+      "exercise": "fs-id1165528296258",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90225",
+      "exercise": "fs-id1165528304241",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90225",
+      "exercise": "fs-id1165528318347",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90225",
+      "exercise": "fs-id1165528356863",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90225",
+      "exercise": "fs-id1165528356872",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90225",
+      "exercise": "fs-id1165528341832",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90226",
+      "exercise": "fs-id1973829",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90226",
+      "exercise": "fs-id1973858",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90226",
+      "exercise": "fs-id1977477",
+      "status": "included",
+      "answer": "polarization"
+    },
+    {
+      "module": "m90226",
+      "exercise": "fs-id1587209",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90226",
+      "exercise": "fs-id1905009",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90228",
+      "exercise": "sq1901_ex01",
+      "status": "included",
+      "answer": "Society"
+    },
+    {
+      "module": "m90228",
+      "exercise": "sq1901_ex02",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90228",
+      "exercise": "sq1901_ex03",
+      "status": "included",
+      "answer": "the social construction of health"
+    },
+    {
+      "module": "m90228",
+      "exercise": "sh1901_ex01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90228",
+      "exercise": "sh1901_ex02",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90229",
+      "exercise": "sq1902_ex01",
+      "status": "included",
+      "answer": "The study of the causes and distribution of diseases"
+    },
+    {
+      "module": "m90229",
+      "exercise": "sq1902_ex02",
+      "status": "included",
+      "answer": "high-income nations"
+    },
+    {
+      "module": "m90229",
+      "exercise": "sq1902_ex03",
+      "status": "included",
+      "answer": "obesity"
+    },
+    {
+      "module": "m90229",
+      "exercise": "sq1902_ex04",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90229",
+      "exercise": "sh1902_ex01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90229",
+      "exercise": "sh1902_ex02",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90230",
+      "exercise": "sq1901_01",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90230",
+      "exercise": "sq1901_02",
+      "status": "included",
+      "answer": "medicalization"
+    },
+    {
+      "module": "m90230",
+      "exercise": "sq1901_03",
+      "status": "included",
+      "answer": "Anxiety disorders"
+    },
+    {
+      "module": "m90230",
+      "exercise": "sq1901_04",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90230",
+      "exercise": "sq1901_05",
+      "status": "included",
+      "answer": "stigmatization"
+    },
+    {
+      "module": "m90230",
+      "exercise": "sh1903_01",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90230",
+      "exercise": "sh1903_02",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90231",
+      "exercise": "fs-id1844852",
+      "status": "included",
+      "answer": "Medicare"
+    },
+    {
+      "module": "m90231",
+      "exercise": "fs-id1703410",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90231",
+      "exercise": "fs-id1889359",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90231",
+      "exercise": "fs-id1892417",
+      "status": "included",
+      "answer": "socialized medicine"
+    },
+    {
+      "module": "m90231",
+      "exercise": "fs-id1248891",
+      "status": "included",
+      "answer": "The World Health Organization"
+    },
+    {
+      "module": "m90231",
+      "exercise": "fs-id1806480",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90231",
+      "exercise": "fs-id1785409",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90232",
+      "exercise": "fs-id1844852",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90232",
+      "exercise": "fs-id1703410",
+      "status": "included",
+      "answer": "conflict"
+    },
+    {
+      "module": "m90232",
+      "exercise": "fs-id1889359",
+      "status": "included",
+      "answer": "demedicalization"
+    },
+    {
+      "module": "m90232",
+      "exercise": "fs-id1806480",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90232",
+      "exercise": "fs-id1785409",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90234",
+      "exercise": "fs-id3634219",
+      "status": "included",
+      "answer": "6 billion"
+    },
+    {
+      "module": "m90234",
+      "exercise": "fs-id3021680",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90234",
+      "exercise": "fs-id3021644",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90234",
+      "exercise": "fs-id3062106",
+      "status": "included",
+      "answer": "War, famine, and disease"
+    },
+    {
+      "module": "m90234",
+      "exercise": "fs-id2351171",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90234",
+      "exercise": "fs-id1341552",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90234",
+      "exercise": "fs-id2442453",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90234",
+      "exercise": "fs-id1588905",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1336843",
+      "status": "included",
+      "answer": "Formerly wealthy homes split into cheap apartments"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1391063",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1584332",
+      "status": "included",
+      "answer": "Tokyo"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1344438",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1509811",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1704916",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1316964",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1487098",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1536447",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1370940",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90235",
+      "exercise": "fs-id1325076",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1886527",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1809279",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1485265",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1809432",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1986187",
+      "status": "included",
+      "answer": "Landfill and incineration"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1833753",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1418414",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1752329",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1984076",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1539274",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90236",
+      "exercise": "fs-id1545068",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id2080514",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id1806415",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id1958312",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id1739596",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id1744995",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id1536336",
+      "status": "included",
+      "answer": "precipitating factors"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id1931824",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id1805613",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id1433318",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90238",
+      "exercise": "fs-id1842372",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90239",
+      "exercise": "fs-id1343539",
+      "status": "included",
+      "answer": "resource mobilization"
+    },
+    {
+      "module": "m90239",
+      "exercise": "fs-id1703662",
+      "status": "included",
+      "answer": "social movement industry"
+    },
+    {
+      "module": "m90239",
+      "exercise": "fs-id1446314",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90239",
+      "exercise": "fs-id1302761",
+      "status": "included",
+      "answer": "transformation"
+    },
+    {
+      "module": "m90239",
+      "exercise": "fs-id1313604",
+      "status": "included",
+      "answer": "prognostic framing"
+    },
+    {
+      "module": "m90239",
+      "exercise": "fs-id1346940",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90239",
+      "exercise": "fs-id1490092",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90239",
+      "exercise": "fs-id1414296",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90240",
+      "exercise": "fs-id1786867",
+      "status": "included",
+      "answer": "the digital divide"
+    },
+    {
+      "module": "m90240",
+      "exercise": "fs-id1909276",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90240",
+      "exercise": "fs-id1912151",
+      "status": "included",
+      "answer": "modernization"
+    },
+    {
+      "module": "m90240",
+      "exercise": "fs-id1305474",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m90240",
+      "exercise": "fs-id1529653",
+      "status": "included",
+      "answer": "the environment"
+    },
+    {
+      "module": "m90240",
+      "exercise": "fs-id1900164",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90240",
+      "exercise": "fs-id1565363",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90240",
+      "exercise": "fs-id1900802",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m90240",
+      "exercise": "eip-id4266878",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    }
+  ]
+}

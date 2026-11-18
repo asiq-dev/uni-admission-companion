@@ -1,0 +1,867 @@
+{
+  "provenance": {
+    "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025)",
+    "license": "CC BY-NC-SA 4.0",
+    "release": {
+      "baseURL": "https://openstax.org/books/foundations-information-systems/pages/",
+      "collected": "2026-11-17",
+      "archive": "openstax-public-ict.zip",
+      "sha256": "c29918fcbe5a22e98074e7d158f2ca43ede216ccb0c57adb730129cce6a3ec52",
+      "pages": [
+        {
+          "slug": "chapter-1",
+          "sha256": "d78f39063a1533139e356da3e99985d9e947186a4de03591c118aeec19323535"
+        },
+        {
+          "slug": "chapter-2",
+          "sha256": "0541f75aea98fee08171c01d8cb57d4f5c0a76672fab843a96767ef120fb7bad"
+        },
+        {
+          "slug": "chapter-3",
+          "sha256": "b317624093a9f0ef397fb5db8e489557a1d2bcdeb49246b540bf3cdaf8b8e02d"
+        },
+        {
+          "slug": "chapter-4",
+          "sha256": "ffd02e5b412c6d0b3034af31007595519560bb8f084fa04b8d76efc7e2858b8a"
+        },
+        {
+          "slug": "chapter-5",
+          "sha256": "2b77b6ab467b89a972d4d23b3bc25dd437ef17540f788f670e939091671eebb7"
+        },
+        {
+          "slug": "chapter-6",
+          "sha256": "b4087f161f7808bb97b5cfc37ca6d91bc8a7421bf1ac35cbfaba677f704719a9"
+        },
+        {
+          "slug": "chapter-7",
+          "sha256": "a056f479cc2d3884d87142ee47adf2f59316f57cc4fdc8d3807257af0a5739f7"
+        },
+        {
+          "slug": "chapter-8",
+          "sha256": "b09f1633b044845dfec667e70abff8c2af7c80b52b8e0dd539ae35e109545169"
+        },
+        {
+          "slug": "chapter-9",
+          "sha256": "b7e896d245202a73d2737e7784f67c73a207df6cc05b0b060067dd932755ac90"
+        },
+        {
+          "slug": "chapter-10",
+          "sha256": "6fcf96a5059661c2dff486752eb7634364e3ce6ed0fd3581ffce9fdf9e92ef10"
+        },
+        {
+          "slug": "chapter-11",
+          "sha256": "8165182023dc764c1839bf2c89b33eff18f3f2e477bbb431a32ec66f03bd89b1"
+        },
+        {
+          "slug": "chapter-12",
+          "sha256": "93adcb7296921afd0ac6e9349f83e3e99cb7d414ba5c3ee766c3527ac87c5498"
+        },
+        {
+          "slug": "1-review-questions",
+          "sha256": "e212acb1035ab043d9ede21918c152ac8d26d87e53c51c928e4b3297185ac443"
+        },
+        {
+          "slug": "10-review-questions",
+          "sha256": "9a17efd89c294420749506e437763153c18d4d2f1f23256269e13e56bd63dec6"
+        },
+        {
+          "slug": "11-review-questions",
+          "sha256": "678a9cc1e8c8a543665cacdff6fccd152b2bdc048b2276cbabb026c8c8df5817"
+        },
+        {
+          "slug": "12-review-questions",
+          "sha256": "9452f430e9fbb0ca6edcb490d32330e213454d977dae0c91238336c7a108659c"
+        },
+        {
+          "slug": "2-review-questions",
+          "sha256": "6c17bda050e51dadc0529c1995d71054b73c2d0dd123201fa21156fca47956f2"
+        },
+        {
+          "slug": "3-review-questions",
+          "sha256": "fab8f50acb4b8b8011e216039bdba9ae11c97ee78525701bc5cd7f4324e1631e"
+        },
+        {
+          "slug": "4-review-questions",
+          "sha256": "2d069443ddec32e9dff6adcedd8fd89c1d1efeff50fe895dd05a5f98b30571ef"
+        },
+        {
+          "slug": "5-review-questions",
+          "sha256": "0b790feae425986a6ca922891f0f2359976289ed199a24ad17e7f5eecb47f6c3"
+        },
+        {
+          "slug": "6-review-questions",
+          "sha256": "215d7c8c54c6520859c8c47808238bc0d12498a9bc7aecb643d8317863658e9f"
+        },
+        {
+          "slug": "7-review-questions",
+          "sha256": "e842263a654534f53b41553c9c4467ab21953d3e4334290839a111c337b10dfd"
+        },
+        {
+          "slug": "8-review-questions",
+          "sha256": "c7cb1dc83701f374b57e0aae1ae05ef026164a17ac0058448dfec89fcae06931"
+        },
+        {
+          "slug": "9-review-questions",
+          "sha256": "93acedf62e4271a49c7c04bbaeda3241c8c5ae9d6ea5afb2e2f6fe7c42a26c1c"
+        }
+      ]
+    },
+    "xmlRelease": {
+      "repository": "openstax/osbooks-foundations-information-systems",
+      "commit": "057882c68a7867af80c42e86937d3a2454bfd86a",
+      "archive": "osbooks-foundations-information-systems-xml.zip",
+      "sha256": "5ef3df3a27cef57aa304f8469dbd070de8fedd706cdb1d2202b36207c58bee4c",
+      "collected": "2026-11-17"
+    },
+    "changes": "Original public review questions matched by question ID to public student keys; text-only self-contained items with matching section context retained.",
+    "verification": "Public publisher key matched by ID; NOT independently expert-verified; not university past papers.",
+    "included": 45
+  },
+  "rows": [
+    {
+      "keyPage": "chapter-1.html",
+      "reviewPage": "1-review-questions",
+      "questionId": "552170",
+      "status": "included",
+      "answer": "enterprise resource planning (ERP)",
+      "moduleUUID": "1753c2c5-1c46-44d8-810d-1af0f8c00170"
+    },
+    {
+      "keyPage": "chapter-1.html",
+      "reviewPage": "1-review-questions",
+      "questionId": "552181",
+      "status": "included",
+      "answer": "Jacquard loom",
+      "moduleUUID": "1753c2c5-1c46-44d8-810d-1af0f8c00170"
+    },
+    {
+      "keyPage": "chapter-1.html",
+      "reviewPage": "1-review-questions",
+      "questionId": "552184",
+      "status": "included",
+      "answer": "control",
+      "moduleUUID": "1753c2c5-1c46-44d8-810d-1af0f8c00170"
+    },
+    {
+      "keyPage": "chapter-1.html",
+      "reviewPage": "1-review-questions",
+      "questionId": "552214",
+      "status": "included",
+      "answer": "industry standards",
+      "moduleUUID": "5fe4995a-2cf3-4368-bfb5-c067c2d58d36"
+    },
+    {
+      "keyPage": "chapter-1.html",
+      "reviewPage": "1-review-questions",
+      "questionId": "552216",
+      "status": "included",
+      "answer": "FISMA",
+      "moduleUUID": "5fe4995a-2cf3-4368-bfb5-c067c2d58d36"
+    },
+    {
+      "keyPage": "chapter-1.html",
+      "reviewPage": "1-review-questions",
+      "questionId": "552231",
+      "status": "included",
+      "answer": "personal effectiveness",
+      "moduleUUID": "565cfc65-5c6d-4755-a95a-dd87cae15f23"
+    },
+    {
+      "keyPage": "chapter-1.html",
+      "reviewPage": "1-review-questions",
+      "questionId": "552233",
+      "status": "included",
+      "answer": "technological infrastructure",
+      "moduleUUID": "565cfc65-5c6d-4755-a95a-dd87cae15f23"
+    },
+    {
+      "keyPage": "chapter-1.html",
+      "reviewPage": "1-review-questions",
+      "questionId": "552235",
+      "status": "included",
+      "answer": "networks",
+      "moduleUUID": "565cfc65-5c6d-4755-a95a-dd87cae15f23"
+    },
+    {
+      "keyPage": "chapter-1.html",
+      "reviewPage": "1-review-questions",
+      "questionId": "552240",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-2.html",
+      "reviewPage": "2-review-questions",
+      "questionId": "552308",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-2.html",
+      "reviewPage": "2-review-questions",
+      "questionId": "552310",
+      "status": "included",
+      "answer": "management control",
+      "moduleUUID": "d1b14b17-1111-41ea-818e-77dd1c678f1b"
+    },
+    {
+      "keyPage": "chapter-2.html",
+      "reviewPage": "2-review-questions",
+      "questionId": "552300",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-2.html",
+      "reviewPage": "2-review-questions",
+      "questionId": "552290",
+      "status": "included",
+      "answer": "affiliate model",
+      "moduleUUID": "64cac151-2fa2-460f-9c00-0d0fdb6dfdcf"
+    },
+    {
+      "keyPage": "chapter-2.html",
+      "reviewPage": "2-review-questions",
+      "questionId": "552284",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-2.html",
+      "reviewPage": "2-review-questions",
+      "questionId": "552277",
+      "status": "included",
+      "answer": "exploit",
+      "moduleUUID": "12a03cde-ac7d-40a4-8c14-31d9e23252fb"
+    },
+    {
+      "keyPage": "chapter-3.html",
+      "reviewPage": "3-review-questions",
+      "questionId": "552531",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-3.html",
+      "reviewPage": "3-review-questions",
+      "questionId": "552869",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-3.html",
+      "reviewPage": "3-review-questions",
+      "questionId": "552535",
+      "status": "included",
+      "answer": "direct observations",
+      "moduleUUID": "9eb3e847-d424-4149-8bab-416f81332b50"
+    },
+    {
+      "keyPage": "chapter-3.html",
+      "reviewPage": "3-review-questions",
+      "questionId": "552544",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-3.html",
+      "reviewPage": "3-review-questions",
+      "questionId": "552766",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-4.html",
+      "reviewPage": "4-review-questions",
+      "questionId": "552717",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-4.html",
+      "reviewPage": "4-review-questions",
+      "questionId": "552719",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-4.html",
+      "reviewPage": "4-review-questions",
+      "questionId": "552727",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-4.html",
+      "reviewPage": "4-review-questions",
+      "questionId": "546348",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-4.html",
+      "reviewPage": "4-review-questions",
+      "questionId": "546352",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-4.html",
+      "reviewPage": "4-review-questions",
+      "questionId": "546331",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-4.html",
+      "reviewPage": "4-review-questions",
+      "questionId": "546335",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-4.html",
+      "reviewPage": "4-review-questions",
+      "questionId": "546309",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-4.html",
+      "reviewPage": "4-review-questions",
+      "questionId": "546313",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "552602",
+      "status": "included",
+      "answer": "information security",
+      "moduleUUID": "7aa5a7a5-7c3c-4793-a2f4-de35048522a1"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "552604",
+      "status": "included",
+      "answer": "identity theft",
+      "moduleUUID": "7aa5a7a5-7c3c-4793-a2f4-de35048522a1"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "550780",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "550782",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "550784",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "550789",
+      "status": "included",
+      "answer": "continuous monitoring",
+      "moduleUUID": "6d7af4bc-5208-495d-84e6-3d08937879fe"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "550801",
+      "status": "included",
+      "answer": "ISACA",
+      "moduleUUID": "6d7af4bc-5208-495d-84e6-3d08937879fe"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "550807",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "550837",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "550839",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-5.html",
+      "reviewPage": "5-review-questions",
+      "questionId": "550841",
+      "status": "included",
+      "answer": "financial institutions",
+      "moduleUUID": "f18162bf-ebd3-4158-8c0a-d4df63d15aac"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "552709",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "548677",
+      "status": "included",
+      "answer": "how to manage privacy information",
+      "moduleUUID": "2163157e-ce0e-465b-a63f-da15db4ecc66"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "548679",
+      "status": "included",
+      "answer": "privacy engineering",
+      "moduleUUID": "2163157e-ce0e-465b-a63f-da15db4ecc66"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "552840",
+      "status": "included",
+      "answer": "Mirai botnet attack",
+      "moduleUUID": "05348870-d0e0-459b-a67e-fb4b86035920"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "552844",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "552848",
+      "status": "included",
+      "answer": "IEEE",
+      "moduleUUID": "05348870-d0e0-459b-a67e-fb4b86035920"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "552852",
+      "status": "included",
+      "answer": "Fortune 500 companies",
+      "moduleUUID": "aceb148c-8784-4699-92e1-02eadf15423a"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "552856",
+      "status": "included",
+      "answer": "data minimization",
+      "moduleUUID": "6d5e6409-f6e2-4fb6-803a-c59a98e3a8df"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "552860",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-6.html",
+      "reviewPage": "6-review-questions",
+      "questionId": "552864",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552470",
+      "status": "included",
+      "answer": "on-premise",
+      "moduleUUID": "d6d2672c-247f-4c4d-872e-9e442afdbb35"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552472",
+      "status": "included",
+      "answer": "cloud provider",
+      "moduleUUID": "d6d2672c-247f-4c4d-872e-9e442afdbb35"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552474",
+      "status": "included",
+      "answer": "business continuity",
+      "moduleUUID": "d6d2672c-247f-4c4d-872e-9e442afdbb35"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552481",
+      "status": "included",
+      "answer": "Platform as a Service",
+      "moduleUUID": "820e1226-8909-43b6-83fc-923f71ba1117"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552483",
+      "status": "included",
+      "answer": "community cloud",
+      "moduleUUID": "820e1226-8909-43b6-83fc-923f71ba1117"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552490",
+      "status": "included",
+      "answer": "SDN",
+      "moduleUUID": "bb54063c-baa7-4595-a2d8-f414de892e5e"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552492",
+      "status": "included",
+      "answer": "migration tool",
+      "moduleUUID": "bb54063c-baa7-4595-a2d8-f414de892e5e"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552494",
+      "status": "included",
+      "answer": "NIST Cybersecurity Framework",
+      "moduleUUID": "bb54063c-baa7-4595-a2d8-f414de892e5e"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552721",
+      "status": "included",
+      "answer": "customer relationship management",
+      "moduleUUID": "755424db-a7e1-474f-a195-ef44499aadd0"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552504",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552512",
+      "status": "included",
+      "answer": "SDN",
+      "moduleUUID": "e22ba68a-5720-4d46-b528-dcda3ff90a1a"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552514",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-7.html",
+      "reviewPage": "7-review-questions",
+      "questionId": "552517",
+      "status": "included",
+      "answer": "sustainability",
+      "moduleUUID": "e22ba68a-5720-4d46-b528-dcda3ff90a1a"
+    },
+    {
+      "keyPage": "chapter-8.html",
+      "reviewPage": "8-review-questions",
+      "questionId": "552379",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-8.html",
+      "reviewPage": "8-review-questions",
+      "questionId": "552387",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-8.html",
+      "reviewPage": "8-review-questions",
+      "questionId": "552405",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-8.html",
+      "reviewPage": "8-review-questions",
+      "questionId": "552413",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-8.html",
+      "reviewPage": "8-review-questions",
+      "questionId": "552419",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-8.html",
+      "reviewPage": "8-review-questions",
+      "questionId": "552403",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-8.html",
+      "reviewPage": "8-review-questions",
+      "questionId": "552411",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-8.html",
+      "reviewPage": "8-review-questions",
+      "questionId": "552365",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-8.html",
+      "reviewPage": "8-review-questions",
+      "questionId": "552369",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-9.html",
+      "reviewPage": "9-review-questions",
+      "questionId": "552768",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-9.html",
+      "reviewPage": "9-review-questions",
+      "questionId": "552172",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-9.html",
+      "reviewPage": "9-review-questions",
+      "questionId": "552183",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-9.html",
+      "reviewPage": "9-review-questions",
+      "questionId": "552191",
+      "status": "included",
+      "answer": "coordinating resources, managing risks, resolving issues, and ensuring quality control",
+      "moduleUUID": "e30b0e68-4ecf-4eb7-b37f-7db9f124536d"
+    },
+    {
+      "keyPage": "chapter-9.html",
+      "reviewPage": "9-review-questions",
+      "questionId": "552200",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-10.html",
+      "reviewPage": "10-review-questions",
+      "questionId": "552329",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-10.html",
+      "reviewPage": "10-review-questions",
+      "questionId": "552336",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-10.html",
+      "reviewPage": "10-review-questions",
+      "questionId": "552344",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-10.html",
+      "reviewPage": "10-review-questions",
+      "questionId": "552780",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-10.html",
+      "reviewPage": "10-review-questions",
+      "questionId": "552348",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-10.html",
+      "reviewPage": "10-review-questions",
+      "questionId": "552350",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-11.html",
+      "reviewPage": "11-review-questions",
+      "questionId": "552673",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-11.html",
+      "reviewPage": "11-review-questions",
+      "questionId": "552665",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-11.html",
+      "reviewPage": "11-review-questions",
+      "questionId": "552669",
+      "status": "included",
+      "answer": "interoperability standard",
+      "moduleUUID": "8b7251aa-fa5b-4061-9a05-9a6c430da1b0"
+    },
+    {
+      "keyPage": "chapter-11.html",
+      "reviewPage": "11-review-questions",
+      "questionId": "552671",
+      "status": "included",
+      "answer": "spatial analysis",
+      "moduleUUID": "8b7251aa-fa5b-4061-9a05-9a6c430da1b0"
+    },
+    {
+      "keyPage": "chapter-11.html",
+      "reviewPage": "11-review-questions",
+      "questionId": "552444",
+      "status": "included",
+      "answer": "minimizing inventory levels",
+      "moduleUUID": "8fd671e9-5ec0-48c1-aa20-214b893d9d95"
+    },
+    {
+      "keyPage": "chapter-11.html",
+      "reviewPage": "11-review-questions",
+      "questionId": "552446",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-11.html",
+      "reviewPage": "11-review-questions",
+      "questionId": "635732",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-11.html",
+      "reviewPage": "11-review-questions",
+      "questionId": "552469",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-12.html",
+      "reviewPage": "12-review-questions",
+      "questionId": "551658",
+      "status": "included",
+      "answer": "deontology",
+      "moduleUUID": "1d748ce5-e96d-43e0-b337-7626fce57160"
+    },
+    {
+      "keyPage": "chapter-12.html",
+      "reviewPage": "12-review-questions",
+      "questionId": "551662",
+      "status": "included",
+      "answer": "whole",
+      "moduleUUID": "1d748ce5-e96d-43e0-b337-7626fce57160"
+    },
+    {
+      "keyPage": "chapter-12.html",
+      "reviewPage": "12-review-questions",
+      "questionId": "551672",
+      "status": "included",
+      "answer": "trademark",
+      "moduleUUID": "91f3690c-ce4a-4a24-ac27-c47f89c022cb"
+    },
+    {
+      "keyPage": "chapter-12.html",
+      "reviewPage": "12-review-questions",
+      "questionId": "551676",
+      "status": "included",
+      "answer": "trade secret",
+      "moduleUUID": "91f3690c-ce4a-4a24-ac27-c47f89c022cb"
+    },
+    {
+      "keyPage": "chapter-12.html",
+      "reviewPage": "12-review-questions",
+      "questionId": "552701",
+      "status": "included",
+      "answer": "bias testing",
+      "moduleUUID": "417746b1-25c9-4467-9d61-644990b98ff3"
+    },
+    {
+      "keyPage": "chapter-12.html",
+      "reviewPage": "12-review-questions",
+      "questionId": "551285",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "keyPage": "chapter-12.html",
+      "reviewPage": "12-review-questions",
+      "questionId": "551289",
+      "status": "included",
+      "answer": "human control",
+      "moduleUUID": "417746b1-25c9-4467-9d61-644990b98ff3"
+    },
+    {
+      "keyPage": "chapter-12.html",
+      "reviewPage": "12-review-questions",
+      "questionId": "552703",
+      "status": "included",
+      "answer": "de-identification",
+      "moduleUUID": "4ea986f2-eb16-4914-b5b1-5aadea296740"
+    },
+    {
+      "keyPage": "chapter-12.html",
+      "reviewPage": "12-review-questions",
+      "questionId": "552705",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+Bangla-MCQ Dataset v-0.0.1
+Creators: Shahriar-Hossain-Opu; Software-Machine-Intelligence-Lab.
+Published: 15 September 2024.
+Publisher record: https://zenodo.org/records/13764773
+DOI: https://doi.org/10.5281/zenodo.13764773
+Declared license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License: https://creativecommons.org/licenses/by/4.0/
+Archived repository: https://github.com/Software-Machine-Intelligence-Lab/Bangla-MCQ/tree/v-0.0.1
+Source archive checksum (publisher): md5:22f53678baa2a5957d55309b2d8ff5bf
+
+Admission Companion adaptations:
+Selected original Bangla records only; no translated duplicates counted.
+Filtered malformed/ambiguous rows and conflicting duplicates; attached full passages;
+added deterministic passage-evidence explanations and shared Humanities target links.
+Original question/option text and answer keys were not generated or corrected.
+Each adapted record links to the release and original worksheet row.
+The local audit records row-level outcomes and source hashes.
+
+Verification label:
+Source key plus passage-text match; not independently expert-verified.
+Supplementary reading practice, not JU/GST/NU past papers or current-affairs facts.
+Difficulty 'medium' is the app's default, not an upstream difficulty assessment.
+No endorsement by the dataset creators or any university is implied.
+
+The raw pinned archive and publisher metadata are retained for reproducibility.
+Application source code and unrelated assets do not inherit a dataset license from this notice.

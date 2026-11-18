@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "checkedAt": "2026-11-18",
+  "firstYear": 2017,
+  "lastYear": 2026,
+  "yearMeaning": "Examination calendar year, not academic session. Session is displayed separately where supplied by the source.",
+  "targets": [
+    {
+      "id": "ju",
+      "name": "Jahangirnagar University (JU)",
+      "scope": "Humanities preparation; keep C/B/other units distinct."
+    },
+    {
+      "id": "gst",
+      "name": "GST Integrated Admission",
+      "scope": "Humanities / B unit; earlier separate-university examinations are not GST papers."
+    },
+    {
+      "id": "nu",
+      "name": "National University (NU)",
+      "scope": "Regular affiliated-college honours Humanities admission; not honours course examinations or separate on-campus programmes."
+    }
+  ],
+  "gaps": [
+    {
+      "targetId": "gst",
+      "fromYear": 2017,
+      "toYear": 2020,
+      "status": "not-held",
+      "note": "GST did not yet exist as this combined admission test; its first examination was in 2021 for the 2020–21 session.",
+      "sourceURL": "https://www.dhakatribune.com/bangladesh/education/242655/uniform-admission-test-application-process-begins"
+    },
+    {
+      "targetId": "nu",
+      "fromYear": 2017,
+      "toYear": 2024,
+      "status": "not-held",
+      "note": "Regular affiliated-college honours admission used SSC/HSC results during this period; the test resumed in 2025 for 2024–25. This does not cover separate on-campus programmes.",
+      "sourceURL": "https://www.jagonews24.com/en/education/news/83693"
+    }
+  ],
+  "sources": [
+    {
+      "targetId": "ju",
+      "name": "JU Humanities — selected excerpts source listing",
+      "url": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions"
+    },
+    {
+      "targetId": "gst",
+      "name": "GST Humanities — selected excerpts source listing",
+      "url": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq"
+    },
+    {
+      "targetId": "nu",
+      "name": "NU Humanities — selected excerpts source listing",
+      "url": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq"
+    }
+  ],
+  "papers": [
+    {
+      "id": "ju-2024-selected",
+      "targetId": "ju",
+      "examYear": 2024,
+      "session": "2023–24",
+      "unit": "C",
+      "set": "L",
+      "title": "JU Humanities — selected excerpts",
+      "questionIds": [
+        "fa090badd6086cca88f38d12a0a378e589f7f2b843f2871c19f0ab08a2da922f",
+        "761b5eee008cd051fbb59bfc615f8dae746507f263c94002ed06aa35b678934d",
+        "31ca9f35f4d8d93f89beb7ee3e068d2915297dd05fdc9a432167a2da579a11a1"
+      ],
+      "bundle": "data/satt-humanities.json",
+      "sourceURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "sourceName": "Satt Academy",
+      "verification": "publisher-claim",
+      "coverage": "selected-excerpts",
+      "answerStatus": "Source keys + editorial explanations",
+      "note": "Only the listed excerpts are bundled. The original full paper, examination year/session, set and answer key have NOT been independently authenticated."
+    },
+    {
+      "id": "gst-2023-selected",
+      "targetId": "gst",
+      "examYear": 2023,
+      "session": "2022–23",
+      "unit": "B",
+      "set": "",
+      "title": "GST Humanities — selected excerpts",
+      "questionIds": [
+        "0cc7e4994d5efda72c8154f7967afd8c71198437e1472c1ce134d0dff4b995a4",
+        "506c4a7e6bd58411bd0ce746bd0a33298f8148578c7f7a78b6c68b6659b5ae65",
+        "e262b75568b661485302db265f556ed92f7ce6e6c946993f36fcd89071e2c940",
+        "f15d2eab302c0fa058a2cc1b0eeb507332bf2bf53ff4e6d44ae414d45780654d",
+        "2fdb0e1787f3fbb8bf18eba522ffbd39494b270b58e1aadcf7b74ac12375f37d",
+        "496db6bed37d17e066a1cdb5b954f6efed964555a05f63c897c44ff4df04eea4",
+        "8ba35df87e9e2b2b40691f89394945ce20c00a64449a134a83058cc2361271a3",
+        "4a8085e544bfe23e5b4f71bd351a1c9f9b7735d44c8676dd8431f25b12aa9907",
+        "674fe7ab69da66576dbb993a24f2c3b76a9b327341d5ba1e45fe90f3197c988e"
+      ],
+      "bundle": "data/satt-humanities.json",
+      "sourceURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "sourceName": "Satt Academy",
+      "verification": "publisher-claim",
+      "coverage": "selected-excerpts",
+      "answerStatus": "Source keys + editorial explanations",
+      "note": "Only the listed excerpts are bundled. The original full paper, examination year/session, set and answer key have NOT been independently authenticated."
+    },
+    {
+      "id": "nu-2025-selected",
+      "targetId": "nu",
+      "examYear": 2025,
+      "session": "2024–25",
+      "unit": "Humanities",
+      "set": "",
+      "title": "NU Humanities — selected excerpts",
+      "questionIds": [
+        "d7b9f93063940f39781e3773e0a5d461d96f23f69cf9adc1d6b5517c7ff6b46f",
+        "6d8142d95fdb812306959054ccf04b612990289f42ee746134111b9be66111ca",
+        "f049432ddb7ace38cf3a3a5f78fd41a2546913a4cc2a8157aefcffc4af3522f4"
+      ],
+      "bundle": "data/satt-humanities.json",
+      "sourceURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "sourceName": "Satt Academy",
+      "verification": "publisher-claim",
+      "coverage": "selected-excerpts",
+      "answerStatus": "Source keys + editorial explanations",
+      "note": "Only the listed excerpts are bundled. The original full paper, examination year/session, set and answer key have NOT been independently authenticated."
+    }
+  ]
+}

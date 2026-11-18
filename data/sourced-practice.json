@@ -1,0 +1,846 @@
+{
+  "description": "Selected third-party admission practice excerpts. Not all internet questions. University/year claims are NOT independently verified; previousYears is deliberately empty. Explanations are Admission Companion editorial; options reordered deterministically.",
+  "checkedAt": "2026-11-17",
+  "questions": [
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Passive imperatives",
+      "question": "Let the task ___ done as directed.",
+      "options": [
+        "was",
+        "be",
+        "is",
+        "to be"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nঅনুজ্ঞাসূচক বাক্যের passive গঠন হলো let + object + be + past participle। এখানে done past participle, তাই তার আগে be বসে। is/was দিলে let-এর পরের এই গঠনটি ঠিক থাকে না; to be-ও এখানে প্রয়োজন নেই।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/let-the-task-done-as-directed",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Question tags",
+      "question": "They haven't visited the garden, ___?",
+      "options": [
+        "haven't they",
+        "were they",
+        "have they",
+        "are they"
+      ],
+      "correctAnswer": 2,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nমূল বাক্যে have not আছে। সাধারণ question tag-এ নেতিবাচক বক্তব্যের পরে ইতিবাচক tag হয়, এবং মূল auxiliary have-ই ব্যবহৃত হয়। subject they অপরিবর্তিত থাকে; তাই have they সঠিক।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/they-havent-visited-the-garden",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Subject–verb agreement",
+      "question": "The girl as well as her parents ___ watching the movie.",
+      "options": [
+        "are",
+        "were",
+        "have been",
+        "is"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nas well as দ্বারা যুক্ত অংশটি মূল subject-এর সংখ্যা বদলায় না। এখানে মূল subject the girl একবচন; her parents অতিরিক্ত তথ্য। তাই present continuous-এ একবচন auxiliary is বসবে।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/the-girl-as-well-as-her-parents-watching-the-movie",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Articles",
+      "question": "He needs ___ book that you bought yesterday.",
+      "options": [
+        "an",
+        "those",
+        "a",
+        "the"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nপরে থাকা relative clause-টি কোন বইয়ের কথা বলা হচ্ছে তা নির্দিষ্ট করেছে: গতকাল কেনা সেই বই। এমন নির্দিষ্ট একবচন noun-এর আগে the ব্যবহৃত হয়। a/an অনির্দিষ্ট অর্থ দেয়; those-এর সঙ্গে একবচন book মেলে না।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/he-needs-book-that-you-bought-yesterday",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Relative clauses",
+      "question": "She looks at the photograph ___ you have taken right now.",
+      "options": [
+        "how",
+        "what",
+        "that",
+        "why"
+      ],
+      "correctAnswer": 2,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nphotograph-কে পরের clause-এর সঙ্গে যুক্ত করতে একটি relative pronoun দরকার। that এখানে have taken-এর object হিসেবে কাজ করে। why কারণ, how পদ্ধতি বোঝায়; what-এর আগে আলাদা antecedent photograph বসে না।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/she-looks-at-the-photograph-you-have-taken-right-now",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Prepositions",
+      "question": "Pay attention __ English grammar to use correct sentences.",
+      "options": [
+        "on",
+        "in",
+        "with",
+        "to"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nপ্রচলিত গঠন pay attention to something: কোনো বিষয়ে মনোযোগ দেওয়া। এখানে English grammar সেই বিষয়। এই নির্দিষ্ট verb–noun expression-এর সঙ্গে in, on বা with ব্যবহৃত হয় না।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/pay-attention-english-grammar-to-use-correct-sentences",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "topic": "Synonyms",
+      "question": "The synonym of the word 'elaborate' is___.",
+      "options": [
+        "expression",
+        "excuse",
+        "example",
+        "explain"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nএখানে elaborate-কে ক্রিয়া অর্থে নিতে হবে: কোনো বিষয় বিস্তারিত বলা বা ব্যাখ্যা করা। দেওয়া বিকল্পগুলোর মধ্যে explain সেই অর্থের সবচেয়ে কাছাকাছি। elaborate বিশেষণ হিসেবেও ব্যবহৃত হয়; সেই অর্থকে এই উত্তর দিয়ে গুলিয়ে ফেলা উচিত নয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/the-synonym-of-the-word-elaborate-is",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "topic": "Antonyms",
+      "question": "The antonym of the word 'delicate' is ___.",
+      "options": [
+        "fragile",
+        "strong",
+        "subtle",
+        "weak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\ndelicate শব্দটি এখানে সহজে ক্ষতিগ্রস্ত হয় এমন, অর্থাৎ ভঙ্গুর অর্থে ব্যবহৃত। সেই অর্থে strong বিপরীত। fragile ও weak একই অর্থক্ষেত্রের কাছাকাছি; subtle সূক্ষ্ম অর্থ দেয়, কাঙ্ক্ষিত বিপরীত নয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/the-antonym-of-the-word-delicate-is-62777",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Word forms",
+      "question": "The adjective of the word 'sustain' is ___.",
+      "options": [
+        "sustainably",
+        "sustainable",
+        "sustaining",
+        "sustainability"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nsustainable অর্থ দীর্ঘ সময় বজায় রাখা বা চালিয়ে যাওয়া সম্ভব এমন। sustainability বিশেষ্য এবং sustainably ক্রিয়াবিশেষণ। sustaining সাধারণত participle হিসেবে চলমান সহায়তা/ধরে রাখার কাজ বোঝায়; এই word-formation প্রশ্নে চাওয়া প্রচলিত সক্ষমতাসূচক বিশেষণ sustainable।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/the-adjective-of-the-word-sustain-is",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "topic": "Antonyms",
+      "question": "Choose the correct antonym of the word 'Lacuna' from the options below :",
+      "options": [
+        "Gap",
+        "Omission",
+        "Plentitude",
+        "Pause"
+      ],
+      "correctAnswer": 2,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nlacuna অর্থ কোনো কিছুর ফাঁক, ঘাটতি বা বাদ পড়ে যাওয়া অংশ। plentitude পূর্ণতা বা প্রাচুর্য বোঝায়, তাই বিপরীত অর্থ দেয়। gap ও omission বরং lacuna-র কাছাকাছি; pause সাময়িক বিরতি বোঝায়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/choose-the-correct-antonym-of-the-word-lacuna-from-the-options-below",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "topic": "Literary terminology",
+      "question": "An author's choice of words is called ______ .",
+      "options": [
+        "genre",
+        "plot",
+        "epic",
+        "diction"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nলেখক কী শব্দ বেছে নেন ও কীভাবে ব্যবহার করেন, সাহিত্যের আলোচনায় তাকে diction বলে। plot হলো ঘটনার বিন্যাস, genre রচনার ধরন এবং epic একটি সাহিত্যরূপ। এগুলোর কোনোটিই নির্দিষ্টভাবে শব্দচয়ন নয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/an-authors-choice-of-words-is-called",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Third conditional",
+      "question": "If I ______ some money, I would have bought the bike.",
+      "options": [
+        "had",
+        "had had",
+        "have had",
+        "had better"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nমূল clause-এ would have bought আছে, যা অতীতের অপূর্ণ শর্তের ইঙ্গিত দেয়। তার if-clause-এ past perfect লাগে: had + past participle। have-এর past participle had হওয়ায় এখানে had had বসে।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/if-i-some-money-i-would-have-bought-the-bike",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "topic": "Antonyms",
+      "question": "The antonym of 'pernicious' is ____ .",
+      "options": [
+        "Static",
+        "Rapid",
+        "beneficial",
+        "harmful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\npernicious অর্থ মারাত্মক ক্ষতিকর। beneficial উপকারী অর্থে ব্যবহৃত হয়, তাই বিপরীত। harmful সমার্থক; rapid গতি এবং static স্থির অবস্থা বোঝায়, বিপরীত অর্থ নয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/the-antonym-of-pernicious-is-78431",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Prepositions",
+      "question": "He is immune ______ criticism.",
+      "options": [
+        "with",
+        "to",
+        "from",
+        "of"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nকোনো কিছুর প্রভাব থেকে সুরক্ষিত বা অপ্রভাবিত বোঝাতে প্রচলিত গঠন immune to। এখানে criticism সেই প্রভাব বা বিষয়। তাই শূন্যস্থানে to বসে।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/he-is-immune-criticism",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Grammar",
+      "topic": "Verb forms",
+      "question": "I saw the boys _______ on the floor.",
+      "options": [
+        "lying",
+        "lie",
+        "lieing",
+        "laying"
+      ],
+      "correctAnswer": 0,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nকাউকে কোনো কাজ করতে দেখা বোঝাতে see + object + present participle ব্যবহৃত হয়। মেঝেতে শুয়ে থাকা অর্থের lie-এর present participle lying। laying-এর অর্থ কোনো কিছু রাখা এবং তার object প্রয়োজন; lieing ভুল বানান।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/i-saw-the-boys-on-the-floor",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "শব্দভাণ্ডার",
+      "topic": "শব্দার্থ",
+      "question": "'কমল বন' শব্দের অর্থ কী?",
+      "options": [
+        "কমলকৃষ্ণ",
+        "কমলার বন",
+        "কমলার শাড়ি",
+        "পদ্মবন"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nকমল শব্দের অর্থ পদ্ম। তাই কমল বন হলো পদ্মের বন বা পদ্মসমৃদ্ধ স্থান। কমলা ফলের নামের সঙ্গে কমল শব্দটির অর্থ গুলিয়ে ফেললে অন্য বিকল্প বেছে নেওয়ার ভুল হতে পারে।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%95%E0%A6%AE%E0%A6%B2-%E0%A6%AC%E0%A6%A8-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%95%E0%A7%80-44863",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "ব্যাকরণ",
+      "topic": "বাক্যের শ্রেণিবিভাগ",
+      "question": "\"লোভ পরিত্যাগ কর, তুমি সুখে থাকবে\" বাক্যটি –",
+      "options": [
+        "জটিল বাক্য",
+        "কোনটিই নয়",
+        "সরল বাক্য",
+        "যৌগিক বাক্য"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nপ্রদত্ত বাক্যে দুটি সমাপিকা ক্রিয়াযুক্ত অংশ আছে: লোভ পরিত্যাগ কর এবং তুমি সুখে থাকবে। স্বাধীন অংশ দুটির মধ্যে অর্থগত সংযোগ রয়েছে, সংযোজকটি উহ্য। উৎসের উত্তর অনুসারে এটি যৌগিক বাক্য; একটিমাত্র সমাপিকা ক্রিয়াযুক্ত সরল বাক্য নয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%B2%E0%A7%8B%E0%A6%AD-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97-%E0%A6%95%E0%A6%B0-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%BF-99022",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "ব্যাকরণ",
+      "topic": "বানান",
+      "question": "কোন শব্দটি ভুল বানানে লেখা হয়েছে?",
+      "options": [
+        "ঐতিহ্য",
+        "উজ্জ্বল",
+        "আকাঙ্ক্ষা",
+        "আকাংখা"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nএই প্রশ্নে ভুল বানানটি বেছে নিতে বলা হয়েছে। সঠিক রূপ আকাঙ্ক্ষা; আকাংখা সেই মান্য বানানের বিকৃতি। অন্যদিকে উজ্জ্বল ও ঐতিহ্য মান্য বানান। প্রশ্নে শুদ্ধ না ভুল চাওয়া হয়েছে তা আগে খেয়াল করতে হবে।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A6%9F%E0%A6%BF-%E0%A6%AD%E0%A7%81%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-24559",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "শব্দভাণ্ডার",
+      "topic": "পরিভাষা",
+      "question": "Book Post এর বাংলা পারিভাষিক শব্দ-",
+      "options": [
+        "গ্রন্থ পাঠানো",
+        "খোলা ডাক",
+        "বই সম্প্রচার",
+        "বই ফেরি"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nBook Post-এর প্রচলিত বাংলা পরিভাষা খোলা ডাক। এটি ডাকব্যবস্থায় বই বা মুদ্রিত বিষয়বস্তু পাঠানোর শ্রেণি বোঝাতে ব্যবহৃত পরিভাষা; শুধু শব্দ ধরে গ্রন্থ পাঠানো অনুবাদটি এই প্রশ্নের স্বীকৃত পরিভাষার বিকল্প নয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/book-post-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6-87992",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "ব্যাকরণ",
+      "topic": "ষত্ব বিধান",
+      "question": "'ষত্ব বিধি' অনুসারে কোন বানানটি শুদ্ধ?",
+      "options": [
+        "আকর্ছন",
+        "আকর্ষণ",
+        "আকর্শন",
+        "আকর্যন"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nপ্রদত্ত বিকল্পগুলোর মধ্যে মান্য বানান আকর্ষণ। এতে র-এর পরে ষ এবং শেষে ণ রয়েছে। আকর্শন, আকর্যন ও আকর্ছন রূপগুলো সেই শব্দের মান্য বানান নয়; উচ্চারণের কাছাকাছি মনে হলেও লেখা এক নয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%B7%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-62398",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "ব্যাকরণ",
+      "topic": "বাক্য শুদ্ধি",
+      "question": "কোনটি শুদ্ধ বাক্য-",
+      "options": [
+        "ছেলেটি মারাত্মক মেধাবী",
+        "ছেলেটি সাংঘাতিক মেধাবী",
+        "ছেলেটি ভয়ানক মেধাবী",
+        "ছেলেটি অত্যন্ত মেধাবী"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nমেধাবী গুণটির মাত্রা বোঝাতে অত্যন্ত যথাযথ শব্দ। দেওয়া অন্য বিকল্পগুলোর ভয়ানক, সাংঘাতিক ও মারাত্মক শব্দগুলো এখানে প্রশংসাসূচক গুণের সঙ্গে অর্থগত অসংগতি সৃষ্টি করে। প্রমিত পরীক্ষাভিত্তিক ব্যবহারে অত্যন্ত মেধাবী গ্রহণযোগ্য।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%AF-72114",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "শব্দভাণ্ডার",
+      "topic": "বাগধারা",
+      "question": "'রাজা-উজির মারা' অর্থ কী?",
+      "options": [
+        "ঝামেলা পোহানো",
+        "বড়ো বড়ো কথা বলা",
+        "সুযোগের সদ্ব্যবহার করা",
+        "কাজের কাজ করা"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nরাজা-উজির মারা বাগধারাটি বাস্তবে কাজ না করে বড় বড় পরিকল্পনা বা বাহাদুরির কথা বলা বোঝায়। এটিকে শব্দের আক্ষরিক অর্থে নিতে হয় না। কাজের কাজ করা কিংবা সুযোগ কাজে লাগানো তার বিপরীত ধরনের আচরণ বোঝায়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%95%E0%A7%80-18002",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "ব্যাকরণ",
+      "topic": "ধ্বনি ও বর্ণ",
+      "question": "ধ্বনির প্রতীককে বলা হয়-",
+      "options": [
+        "বর্ণ",
+        "বাক্য",
+        "শব্দ",
+        "ভাষা"
+      ],
+      "correctAnswer": 0,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nধ্বনি হলো উচ্চারিত শব্দধ্বনির একক, আর সেই ধ্বনি লিখে প্রকাশ করার চিহ্ন বর্ণ। শব্দ, বাক্য ও ভাষা বড়তর ভাষাগত একক; সেগুলো একটি ধ্বনির নির্দিষ্ট লিখিত প্রতীকের নাম নয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%9F-27123",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "ব্যাকরণ",
+      "topic": "বানান",
+      "question": "নিচের কোন বানানগুচ্ছের সবগুলোই শুদ্ধ?",
+      "options": [
+        "ইতঃস্তত, ভাঙ্গা, রঙ্গিন",
+        "কার্ত্তিক, নিঃস্তদ্ধ, বস্তুতঃ",
+        "অর্জন, খঞ্জনি, কিংবদন্তী",
+        "অহংকার, আকাঙ্ক্ষা, অঙ্ক"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nপ্রশ্নে এমন একটি গুচ্ছ চাওয়া হয়েছে যার প্রতিটি শব্দ শুদ্ধ। অহংকার, আকাঙ্ক্ষা ও অঙ্ক—এই তিনটি মান্য বানান। অন্য গুচ্ছগুলোতে অন্তত একটি অমান্য রূপ রয়েছে; যেমন কিংবদন্তী-এর আধুনিক মান্য রূপ কিংবদন্তি এবং রঙ্গিন-এর মান্য রূপ রঙিন।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%97%E0%A7%81%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B%E0%A6%87-%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-95430",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "ব্যাকরণ",
+      "topic": "উপসর্গ",
+      "question": "কোনটি শব্দের শেষে যুক্ত হয় না?",
+      "options": [
+        "প্রত্যয়",
+        "উপসর্গ",
+        "বিভক্তি",
+        "অনুসর্গ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nউপসর্গ শব্দ বা ধাতুর আগে বসে নতুন অর্থ তৈরি করে। তাই শব্দের শেষে যুক্ত হওয়া তার বৈশিষ্ট্য নয়। প্রত্যয় বা বিভক্তি পরবর্তী অংশে বসতে পারে; অনুসর্গও সংশ্লিষ্ট পদের পরে ব্যবহৃত হয়।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A7%9F-%E0%A6%A8%E0%A6%BE-55069",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "বাংলা",
+      "chapter": "ব্যাকরণ",
+      "topic": "শব্দের গঠন",
+      "question": "মৌলিক শব্দ কোনটি?",
+      "options": [
+        "ওলকপি",
+        "পরিচালক",
+        "সামাজিক",
+        "বই"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nবই শব্দটিকে এই ব্যাকরণিক বিশ্লেষণে অর্থবোধক মূল ও প্রত্যয়ে ভাঙা হয় না, তাই মৌলিক শব্দ। সামাজিক ও পরিচালক গঠিত শব্দ; ওলকপি-তেও একাধিক অংশের সমন্বয় রয়েছে।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-96112",
+      "language": "bn",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "topic": "Literary terminology",
+      "question": "What is a pun?",
+      "options": [
+        "Play with words",
+        "Play with irony",
+        "Play with farce",
+        "Play with rhymes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\npun হলো শব্দের একাধিক অর্থ অথবা একই রকম ধ্বনির ভিন্ন শব্দকে কাজে লাগিয়ে রসিকতা করা। তাই এটি wordplay। ছন্দ, বিদ্রূপ বা প্রহসন নিজে pun-এর সংজ্ঞা নয়, যদিও একই রচনায় একসঙ্গে থাকতে পারে।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/what-is-a-pun",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    },
+    {
+      "subject": "English",
+      "chapter": "Vocabulary",
+      "topic": "Collocations",
+      "question": "Several soldiers of the squad were taken ____ by the enemy forces.",
+      "options": [
+        "kidnap",
+        "torture",
+        "capture",
+        "hostage"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা (উৎসের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়):\nবন্দি করে জিম্মি রাখা বোঝাতে প্রচলিত phrase taken hostage ব্যবহৃত হয়। capture, kidnap ও torture-কে এই স্থানে অপরিবর্তিত রূপে বসালে স্বাভাবিক ইংরেজি গঠন হয় না। তাই hostage সঠিক।",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "difficulty": "medium",
+      "source": "Satt Academy third-party listing; exam/year not independently verified; explanation is Admission Companion editorial. https://sattacademy.com/mcq/several-soldiers-of-the-squad-were-taken-by-the-enemy-forces-81149",
+      "language": "mixed",
+      "isSample": false,
+      "common": false,
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ],
+      "previousYears": []
+    }
+  ]
+}

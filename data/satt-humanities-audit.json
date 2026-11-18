@@ -1,0 +1,317 @@
+{
+  "provenance": {
+    "checkedAt": "2026-11-17",
+    "collection": "Limited attributed Satt Academy selection",
+    "selection": "At most 30 selected individual public pages; each included question plus four options <=22 whitespace-delimited words. No source explanations copied.",
+    "verification": "Source keys retained with locked editorial reviews; original university-paper/year claims NOT independently verified. Difficulty is uncalibrated.",
+    "reuse": "Limited attributed excerpts for personal study; not a complete bank, an open-licence grant or blanket permission to redistribute Satt content.",
+    "included": 15,
+    "targetCounts": {
+      "ju": 3,
+      "gst": 9,
+      "nu": 3
+    }
+  },
+  "rows": [
+    {
+      "key": "ju-local-1",
+      "url": "https://sattacademy.com/mcq/নিচের-কোন-কবিতাংশটি-শুদ্ধ-20094",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "excluded",
+      "reason": "ValueError: Excerpt exceeds the selected short-item limit (26 words)."
+    },
+    {
+      "key": "ju-local-2",
+      "url": "https://sattacademy.com/mcq/আখতারুজ্জামান-ইলিয়াসের-গল্পগ্রন্থ-নয়-কোনটি",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "excluded",
+      "reason": "source_option_spelling_needs_review"
+    },
+    {
+      "key": "ju-local-3",
+      "url": "https://sattacademy.com/mcq/চতুর্দিকে-মানবিক-বাগান-কমলবন-হচ্ছে-তছনছ-এখানে-মানবিক-বাগান-বলতে-করি-কী-বুঝিয়েছেন",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "excluded",
+      "reason": "ValueError: Excerpt exceeds the selected short-item limit (33 words)."
+    },
+    {
+      "key": "ju-local-4",
+      "url": "https://sattacademy.com/mcq/আমি-কোনো-দিনই-কারুর-বাণীকে-বেদবাক্য-বলে-মেনে-নেব-না-যদি-তার-প্রাণে-তার-সাড়া-না-দ",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "excluded",
+      "reason": "ValueError: Excerpt exceeds the selected short-item limit (25 words)."
+    },
+    {
+      "key": "ju-local-5",
+      "url": "https://sattacademy.com/mcq/মানবকল্যাণ-অলৌকিক-কিছু-নয়-এ-এক-জাগতিক-মানবধর্ম-উক্তিটি-কে-করেছেন",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "included",
+      "questionId": "fa090badd6086cca88f38d12a0a378e589f7f2b843f2871c19f0ab08a2da922f",
+      "excerptWords": 22,
+      "sourceContentSHA256": "411c18835cc27ad95cd39ef9f4503ad0833c489ad42f2dfdff0ad3b7bfe0d98e",
+      "answer": "আবুল ফজল",
+      "listingTitle": "\n                                                JU C Unit  2024 MCQ Question Bank, Solution & PDF\n                                            "
+    },
+    {
+      "key": "ju-local-6",
+      "url": "https://sattacademy.com/mcq/প্রতিদান-কবিতার-সারকথা-কী",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "excluded",
+      "reason": "ValueError: Excerpt exceeds the selected short-item limit (27 words)."
+    },
+    {
+      "key": "ju-local-7",
+      "url": "https://sattacademy.com/mcq/পোলা-মাইনষের-মাথায়-একটা-বদ-খেয়াল-ঢুকছেতা-নিয়ে-আর-কী-কমু-মজিদের-মতে-এই-বদ-খেয়াল-হ",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "excluded",
+      "reason": "ValueError: Excerpt exceeds the selected short-item limit (37 words)."
+    },
+    {
+      "key": "ju-local-8",
+      "url": "https://sattacademy.com/mcq/পদ্মাকর-শব্দের-উচ্চারণ",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "excluded",
+      "reason": "ValueError: Not exactly four distinct text options."
+    },
+    {
+      "key": "ju-local-9",
+      "url": "https://sattacademy.com/mcq/নিচের-কোন-বানানগুচ্ছ-শুদ্ধ-50990",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "included",
+      "questionId": "761b5eee008cd051fbb59bfc615f8dae746507f263c94002ed06aa35b678934d",
+      "excerptWords": 16,
+      "sourceContentSHA256": "8e5abcb9a591a7055d4c5b5b150bff6c87c9843a593c39d74a178f67c67a7f50",
+      "answer": "মন্ত্রিত্ব, লুণ্ঠন, কণ্টক",
+      "listingTitle": "\n                                                JU C Unit  2024 MCQ Question Bank, Solution & PDF\n                                            "
+    },
+    {
+      "key": "ju-local-10",
+      "url": "https://sattacademy.com/mcq/chequeএর-পারিভাষিক-শব্দ-কোনটি",
+      "targetId": "ju",
+      "listingURL": "https://sattacademy.com/জাহাঙ্গীরনগর-বিশ্ববিদ্যালয়-c-ইউনিট-মানবিক-শিক্ষাবর্ষ-২০২৩-২৪-সেট-l/all/mcq-questions",
+      "status": "included",
+      "questionId": "31ca9f35f4d8d93f89beb7ee3e068d2915297dd05fdc9a432167a2da579a11a1",
+      "excerptWords": 9,
+      "sourceContentSHA256": "8d08cf41d840fc60e909dbadf5567231a33cdab05788bf93a66811b4385c84b1",
+      "answer": "টাকা-উত্তোলনপত্র",
+      "listingTitle": "\n                                                JU C Unit  2024 MCQ Question Bank, Solution & PDF\n                                            "
+    },
+    {
+      "key": "gst-local-1",
+      "url": "https://sattacademy.com/mcq/প্রমিত-বাংলা-বানানরীতি-অনুযায়ী-শুদ্ধ-রূপ-কোনটি",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "included",
+      "questionId": "0cc7e4994d5efda72c8154f7967afd8c71198437e1472c1ce134d0dff4b995a4",
+      "excerptWords": 11,
+      "sourceContentSHA256": "8c6ed0c0806917c4866802a143737bc39ea9bb042af9aad5bad6f80cbb28dad6",
+      "answer": "স্বত্বাধিকারী",
+      "listingTitle": "\n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "gst-local-2",
+      "url": "https://sattacademy.com/mcq/আলিনগরের-সন্ধি-কত-সালে-করা-হয়",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "included",
+      "questionId": "506c4a7e6bd58411bd0ce746bd0a33298f8148578c7f7a78b6c68b6659b5ae65",
+      "excerptWords": 10,
+      "sourceContentSHA256": "ade89da79321aa2a2f62315c18c4b7fcbf8a5fe357aa232c7f0c4114890d6156",
+      "answer": "১৭৫৭",
+      "listingTitle": "\n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "gst-local-3",
+      "url": "https://sattacademy.com/mcq/মফলা-যুক্ত-কোন-ব্যঞ্জনবর্ণগুলোর-দ্বিত্ব-উচ্চারণ-হয়-না",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "excluded",
+      "reason": "needs_further_answer_review"
+    },
+    {
+      "key": "gst-local-4",
+      "url": "https://sattacademy.com/mcq/বিষয়গত-দিক-থেকে-সিরাজউদ্দৌলা-কোন-ধরনের-নাটক",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "included",
+      "questionId": "e262b75568b661485302db265f556ed92f7ce6e6c946993f36fcd89071e2c940",
+      "excerptWords": 11,
+      "sourceContentSHA256": "785b50bcf7791e99e19a522c6b78ae8765c1751d1de410c08f5f12b7ed0f189b",
+      "answer": "ঐতিহাসিক",
+      "listingTitle": "\n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "gst-local-5",
+      "url": "https://sattacademy.com/mcq/রেইনকোট-গল্পে-নুরুল-হুদা-কোন-বিষয়ের-লেকচারার",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "included",
+      "questionId": "f15d2eab302c0fa058a2cc1b0eeb507332bf2bf53ff4e6d44ae414d45780654d",
+      "excerptWords": 11,
+      "sourceContentSHA256": "3c1b43fbf501dfe51a5dd53e13442ac7c0a064aef7ea1d5434d5650a884829bf",
+      "answer": "কেমিস্ট্রি",
+      "listingTitle": "\n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "gst-local-6",
+      "url": "https://sattacademy.com/mcq/বায়ান্নোর-দিনগুলোতে-লেখকের-সঙ্গে-সহ-অনশনকারীর-নাম-কী",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "included",
+      "questionId": "2fdb0e1787f3fbb8bf18eba522ffbd39494b270b58e1aadcf7b74ac12375f37d",
+      "excerptWords": 18,
+      "sourceContentSHA256": "ba6f6201cf8ae54c9f6ec52f303ba4e14487e31c040e2ac69c598cbc5eb094e9",
+      "answer": "মহিউদ্দিন আহমদ",
+      "listingTitle": "\n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "gst-local-7",
+      "url": "https://sattacademy.com/mcq/কবি-আবু-জাফর-ওবায়দুল্লাহর-ভাষায়-যে-কবিতা-শুনতে-জানে-না-সে-আজীবন-কী-থেকে-যাবে",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "included",
+      "questionId": "496db6bed37d17e066a1cdb5b954f6efed964555a05f63c897c44ff4df04eea4",
+      "excerptWords": 19,
+      "sourceContentSHA256": "84eaf8f22103cd0bc35b504cd6ce8ca250d95eed39e726c006a66367b9d56821",
+      "answer": "ক্রীতদাস",
+      "listingTitle": "\n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "gst-local-8",
+      "url": "https://sattacademy.com/mcq/ফেব্রুয়ারি-১৯৬৯-কবিতায়-একুশের-কৃষ্ণচূড়া-আমাদের",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "included",
+      "questionId": "8ba35df87e9e2b2b40691f89394945ce20c00a64449a134a83058cc2361271a3",
+      "excerptWords": 17,
+      "sourceContentSHA256": "930be60d55250aaf42c0214b155c804df73acc05137255f831eea525c892d796",
+      "answer": "চেতনারই রং",
+      "listingTitle": "\n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "gst-local-9",
+      "url": "https://sattacademy.com/mcq/মাসিপিসির-পেশা-কী-ছিল",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "included",
+      "questionId": "4a8085e544bfe23e5b4f71bd351a1c9f9b7735d44c8676dd8431f25b12aa9907",
+      "excerptWords": 20,
+      "sourceContentSHA256": "a7dad1f36f5662fb5ff6f6c31ef28340feb5c567a25cd0685b288c5c256c2777",
+      "answer": "শহরে শাকসবজি বিক্রি করা",
+      "listingTitle": "\n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "gst-local-10",
+      "url": "https://sattacademy.com/mcq/ভুজ্যি-উচ্ছুগা-শব্দদ্বয়-কোন-গল্পে-ব্যবহৃত-হয়েছে",
+      "targetId": "gst",
+      "listingURL": "https://sattacademy.com/b-unit-মানবিক-২০২২-২০২৩-20-05-2023/mcq",
+      "status": "included",
+      "questionId": "674fe7ab69da66576dbb993a24f2c3b76a9b327341d5ba1e45fe90f3197c988e",
+      "excerptWords": 12,
+      "sourceContentSHA256": "49bbe50f341af8399b0f99037efd56acecf96d7836f4c3fbfe6252966ec1a2fb",
+      "answer": "বিলাসী",
+      "listingTitle": "\n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "nu-local-1",
+      "url": "https://sattacademy.com/mcq/কমল-বন-শব্দের-অর্থ-কী-44863",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "excluded",
+      "reason": "already_in_existing_pack"
+    },
+    {
+      "key": "nu-local-2",
+      "url": "https://sattacademy.com/mcq/কার-জবানীতে-রেইনকোট-গল্পের-অধিকাংশ-ঘটনা-বিবৃত-হয়েছে-87868",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "excluded",
+      "reason": "needs_further_answer_review"
+    },
+    {
+      "key": "nu-local-3",
+      "url": "https://sattacademy.com/mcq/লোভ-পরিত্যাগ-কর-তুমি-সুখে-থাকবে-বাক্যটি-99022",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "excluded",
+      "reason": "already_in_existing_pack"
+    },
+    {
+      "key": "nu-local-4",
+      "url": "https://sattacademy.com/mcq/সোনার-তরী-কবিতায়-প্রতি-স্তবকে-কয়টি-করে-লাইন-আছে-29998",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "included",
+      "questionId": "d7b9f93063940f39781e3773e0a5d461d96f23f69cf9adc1d6b5517c7ff6b46f",
+      "excerptWords": 13,
+      "sourceContentSHA256": "6548e56cf13524a690f02dbc015cdd0a8a78078f6842c8baf6c3ea712c3524f0",
+      "answer": "৭",
+      "listingTitle": "\n                                        National University Humanities Unit MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "nu-local-5",
+      "url": "https://sattacademy.com/mcq/কোন-শব্দটি-ভুল-বানানে-লেখা-হয়েছে-24559",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "excluded",
+      "reason": "already_in_existing_pack"
+    },
+    {
+      "key": "nu-local-6",
+      "url": "https://sattacademy.com/mcq/আঠারো-বছর-বয়স-কী-জানে-48599",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "included",
+      "questionId": "6d8142d95fdb812306959054ccf04b612990289f42ee746134111b9be66111ca",
+      "excerptWords": 11,
+      "sourceContentSHA256": "9617a6b75fc5e1c5eb7c26c5dd0f8e3a7e9c18efbec3163edcaf07079af084ab",
+      "answer": "রক্তদানের পুণ্য",
+      "listingTitle": "\n                                        National University Humanities Unit MCQ Question Bank, Solution & PDF\n                                    "
+    },
+    {
+      "key": "nu-local-7",
+      "url": "https://sattacademy.com/mcq/book-post-এর-বাংলা-পারিভাষিক-শব্দ-87992",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "excluded",
+      "reason": "already_in_existing_pack"
+    },
+    {
+      "key": "nu-local-8",
+      "url": "https://sattacademy.com/mcq/আমার-এ-ঘর-ভাঙিয়াছে-যেবা-আমি-বাঁধি-তার-ঘরএ-পঙক্তিতে-কী-বোঝানো-হয়েছে",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "excluded",
+      "reason": "needs_further_answer_review"
+    },
+    {
+      "key": "nu-local-9",
+      "url": "https://sattacademy.com/mcq/ষত্ব-বিধি-অনুসারে-কোন-বানানটি-শুদ্ধ-62398",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "excluded",
+      "reason": "already_in_existing_pack"
+    },
+    {
+      "key": "nu-local-10",
+      "url": "https://sattacademy.com/mcq/মজিদের-মহব্বতনগর-গ্রামে-প্রবেশটা-কেমন-ছিল-43655",
+      "targetId": "nu",
+      "listingURL": "https://sattacademy.com/জাতীয়-বিশ্ববিদ্যালয়-মানবিক-ইউনিট-শিক্ষাবর্ষ-২০২৪-২০২৫-31-05-2025/mcq",
+      "status": "included",
+      "questionId": "f049432ddb7ace38cf3a3a5f78fd41a2546913a4cc2a8157aefcffc4af3522f4",
+      "excerptWords": 10,
+      "sourceContentSHA256": "f8849398c227ad23173723ce446708a4deff6d60d0df3540a0c203ce13a57cdd",
+      "answer": "নাটকীয়",
+      "listingTitle": "\n                                        National University Humanities Unit MCQ Question Bank, Solution & PDF\n                                    "
+    }
+  ]
+}

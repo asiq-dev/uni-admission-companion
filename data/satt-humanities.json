@@ -1,0 +1,482 @@
+{
+  "provenance": {
+    "checkedAt": "2026-11-17",
+    "collection": "Limited attributed Satt Academy selection",
+    "selection": "At most 30 selected individual public pages; each included question plus four options <=22 whitespace-delimited words. No source explanations copied.",
+    "verification": "Source keys retained with locked editorial reviews; original university-paper/year claims NOT independently verified. Difficulty is uncalibrated.",
+    "reuse": "Limited attributed excerpts for personal study; not a complete bank, an open-licence grant or blanket permission to redistribute Satt content.",
+    "included": 15,
+    "targetCounts": {
+      "ju": 3,
+      "gst": 9,
+      "nu": 3
+    }
+  },
+  "questions": [
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "মানব-কল্যাণ",
+      "question": "'মানব-কল্যাণ অলৌকিক কিছু নয়- এ এক জাগতিক মানবধর্ম।' উক্তিটি কে করেছেন?",
+      "options": [
+        "মোতাহের হোসেন চৌধুরী",
+        "আবুল ফজল",
+        "শেখ মুজিবুর রহমান",
+        "কাজী নজরুল ইসলাম"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nমানব-কল্যাণ প্রবন্ধের লেখক আবুল ফজল। তিনি মানুষের কল্যাণকে বাস্তব জীবনের দায়িত্ব ও মানবিকতার সঙ্গে যুক্ত করেছেন। প্রশ্নের বক্তব্যেও অলৌকিকতার পরিবর্তে মানুষের জাগতিক দায়িত্বের ওপর জোর দেওয়া হয়েছে। তাই প্রদত্ত লেখকদের মধ্যে এই প্রবন্ধের লেখকই সঠিক নির্বাচন।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/মানবকল্যাণ-অলৌকিক-কিছু-নয়-এ-এক-জাগতিক-মানবধর্ম-উক্তিটি-কে-করেছেন | Publisher listing: \n                                                JU C Unit  2024 MCQ Question Bank, Solution & PDF\n                                            . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "C",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "ব্যাকরণ",
+      "topic": "বানান শুদ্ধিকরণ",
+      "question": "নিচের কোন বানানগুচ্ছ শুদ্ধ?",
+      "options": [
+        "ডান্ডা, সঙ, বংগ",
+        "মন্ত্রিত্ব, লুণ্ঠন, কণ্টক",
+        "পুজো, নিঃস্পৃহ, উষা",
+        "খান্ডব, উচ্ছসিত, কাঙ্খিত"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nমন্ত্রিত্ব বানানে হ্রস্ব ই-কার এবং লুণ্ঠন ও কণ্টক শব্দে মূর্ধন্য ণ ব্যবহৃত হয়। একটি বানানগুচ্ছ সঠিক হতে হলে তার প্রতিটি শব্দ সঠিক হতে হবে। অন্য গুচ্ছে কাঙ্ক্ষিত ও উচ্ছ্বসিতের মতো শব্দের ভুল রূপ রয়েছে। তাই একটিমাত্র পরিচিত শব্দ দেখে পুরো গুচ্ছ নির্বাচন করা উচিত নয়।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/নিচের-কোন-বানানগুচ্ছ-শুদ্ধ-50990 | Publisher listing: \n                                                JU C Unit  2024 MCQ Question Bank, Solution & PDF\n                                            . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "C",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "ব্যাকরণ",
+      "topic": "পারিভাষিক শব্দ",
+      "question": "Cheque-এর পারিভাষিক শব্দ কোনটি?",
+      "options": [
+        "হুন্ডি",
+        "টাকা-উত্তোলনপত্র",
+        "মুখ্য বই",
+        "বহনব্যয়"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nব্যাংকের চেক হলো হিসাব থেকে নির্দিষ্ট অর্থ প্রদানের লিখিত নির্দেশ। প্রদত্ত বিকল্পে সেই কাজটির সঙ্গে টাকা-উত্তোলনপত্র মেলে। হুন্ডি আলাদা ধরনের আর্থিক দলিল বা ব্যবস্থাকে বোঝায়; মুখ্য বই হিসাবের বই এবং বহনব্যয় পরিবহনের খরচ। এখানে প্রদত্ত বিকল্পের মধ্যে উপযুক্ত পরিভাষাটি বেছে নিতে হবে।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/chequeএর-পারিভাষিক-শব্দ-কোনটি | Publisher listing: \n                                                JU C Unit  2024 MCQ Question Bank, Solution & PDF\n                                            . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "mixed",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "C",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "ব্যাকরণ",
+      "topic": "বানান শুদ্ধিকরণ",
+      "question": "প্রমিত বাংলা বানানরীতি অনুযায়ী শুদ্ধ রূপ কোনটি?",
+      "options": [
+        "স্বত্বাধিকারী",
+        "সত্বাধিকারী",
+        "সত্ত্বাধিকারী",
+        "সত্তাধিকারী"
+      ],
+      "correctAnswer": 0,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nস্বত্ব অর্থ মালিকানার অধিকার। এর সঙ্গে অধিকারী যুক্ত হয়ে শব্দটি গঠিত হয়েছে; তাই স্ব এবং ত্ব—দুটি অংশই বানানে থাকা প্রয়োজন। অন্য বিকল্পগুলোতে মূল স্বত্ব অংশের অক্ষর বদলে গেছে বা বাদ পড়েছে। অর্থ ও শব্দের গঠন মিলিয়ে দেখলে সঠিক বানানটি চেনা সহজ হয়।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/প্রমিত-বাংলা-বানানরীতি-অনুযায়ী-শুদ্ধ-রূপ-কোনটি | Publisher listing: \n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "B",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "বাংলার ইতিহাস",
+      "topic": "আলিনগরের সন্ধি",
+      "question": "আলিনগরের সন্ধি কত সালে করা হয়?",
+      "options": [
+        "১৭৫৯",
+        "১৭৬০",
+        "১৭৫৫",
+        "১৭৫৭"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nনবাব সিরাজউদ্দৌলা ও ইংরেজ ইস্ট ইন্ডিয়া কোম্পানির মধ্যে আলিনগরের সন্ধি হয় ১৭৫৭ সালে। এই সন্ধি এবং একই বছরের পলাশীর যুদ্ধ আলাদা ঘটনা। ঘটনাক্রম মনে রাখার সময় সন্ধির পরবর্তী সংঘাতের সঙ্গে দুটি ঘটনাকে গুলিয়ে ফেলা যাবে না। প্রদত্ত অন্য সালগুলো এই সন্ধির সাল নয়।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/আলিনগরের-সন্ধি-কত-সালে-করা-হয় | Publisher listing: \n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "B",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "সিরাজউদ্দৌলা",
+      "question": "বিষয়গত দিক থেকে 'সিরাজউদ্দৌলা' কোন ধরনের নাটক?",
+      "options": [
+        "সামাজিক",
+        "ঐতিহাসিক",
+        "ট্রাজেডি",
+        "পৌরাণিক"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nসিকান্দার আবু জাফরের সিরাজউদ্দৌলা নাটক বাংলার শেষ স্বাধীন নবাব ও পলাশীর যুদ্ধ-সংশ্লিষ্ট ইতিহাসকে ভিত্তি করে লেখা। প্রশ্নটি বিষয়গত শ্রেণি জানতে চেয়েছে, তাই ঐতিহাসিক সঠিক। নাটকের পরিণতি বিচার করে ট্র্যাজেডি বলা এবং বিষয়বস্তু বিচার করে শ্রেণিবিন্যাস করা এক বিষয় নয়।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/বিষয়গত-দিক-থেকে-সিরাজউদ্দৌলা-কোন-ধরনের-নাটক | Publisher listing: \n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "B",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "রেইনকোট",
+      "question": "'রেইনকোট' গল্পে নুরুল হুদা কোন বিষয়ের লেকচারার?",
+      "options": [
+        "বোটানি",
+        "হিস্ট্রি",
+        "জিওগ্রাফি",
+        "কেমিস্ট্রি"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nআখতারুজ্জামান ইলিয়াসের রেইনকোট গল্পের চরিত্র নুরুল হুদা রসায়নের শিক্ষক। বিকল্পে বিষয়টি কেমিস্ট্রি নামে দেওয়া আছে। এখানে গল্পের লেখক, চরিত্র ও চরিত্রের পেশাকে আলাদা করে মনে রাখতে হবে; বোটানি, জিওগ্রাফি ও হিস্ট্রি তাঁর পড়ানোর বিষয় হিসেবে এই প্রশ্নের উত্তর নয়।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/রেইনকোট-গল্পে-নুরুল-হুদা-কোন-বিষয়ের-লেকচারার | Publisher listing: \n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "B",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "বায়ান্নর দিনগুলো",
+      "question": "বায়ান্নোর দিনগুলোতে লেখকের সঙ্গে সহ অনশনকারীর নাম কী?",
+      "options": [
+        "খয়রাড হোসেন",
+        "মহিউদ্দিন আহমদ",
+        "খান সাহেব ওসমান আলী",
+        "আবদুর রশীদ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nবায়ান্নর দিনগুলো অংশে শেখ মুজিবুর রহমানের সঙ্গে মহিউদ্দিন আহমদের অনশনের প্রসঙ্গ রয়েছে। প্রশ্নে ভাষা আন্দোলনের যেকোনো কর্মীর নাম নয়, লেখকের নির্দিষ্ট সহ-অনশনকারীর নাম চাওয়া হয়েছে। তাই পাঠ্যাংশের এই সম্পর্কটি শনাক্ত করেই উত্তর নির্বাচন করতে হবে।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/বায়ান্নোর-দিনগুলোতে-লেখকের-সঙ্গে-সহ-অনশনকারীর-নাম-কী | Publisher listing: \n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "B",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "আমি কিংবদন্তির কথা বলছি",
+      "question": "কবি আবু জাফর ওবায়দুল্লাহর ভাষায় যে কবিতা শুনতে জানে না সে আজীবন কী থেকে যাবে?",
+      "options": [
+        "ভীতু",
+        "প্রাচীন",
+        "অজ্ঞ",
+        "ক্রীতদাস"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nআবু জাফর ওবায়দুল্লাহর কবিতায় কবিতা শোনার ক্ষমতা মানুষের চেতনা ও মুক্তির সঙ্গে যুক্ত। প্রশ্নে নির্দেশিত অবস্থাটি ক্রীতদাস হয়ে থেকে যাওয়ার কথা বোঝায়। এখানে শব্দটি কেবল পেশাগত দাসত্বের সরল বিবরণ নয়; চেতনার পরাধীনতার ভাবও প্রকাশ করে। তাই অন্য বিশেষণগুলোর পরিবর্তে এই নির্দিষ্ট শব্দটি নির্বাচন করতে হবে।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/কবি-আবু-জাফর-ওবায়দুল্লাহর-ভাষায়-যে-কবিতা-শুনতে-জানে-না-সে-আজীবন-কী-থেকে-যাবে | Publisher listing: \n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "B",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "ফেব্রুয়ারি ১৯৬৯",
+      "question": "“ফেব্রুয়ারি ১৯৬৯” কবিতায় একুশের কৃষ্ণচূড়া আমাদের-",
+      "options": [
+        "শক্তি ও প্রেরণা",
+        "চেতনারই রং",
+        "স্মৃতিগন্ধে ভরপুর",
+        "শহিদের কললিত রক্তের বুদ্বুদ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nশামসুর রাহমানের ফেব্রুয়ারি ১৯৬৯ কবিতায় কৃষ্ণচূড়ার সঙ্গে একুশের স্মৃতি ও ভাষা আন্দোলনের চেতনা যুক্ত হয়েছে। প্রশ্নে সেই প্রতীকী সম্পর্কের নির্দিষ্ট প্রকাশ চাওয়া হয়েছে। লাল ফুলের দৃশ্যমান রং দেখে শুধু রক্তের বর্ণনা বেছে নিলে কবিতায় চেতনার যে যোগ রয়েছে তা বাদ পড়ে যায়।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/ফেব্রুয়ারি-১৯৬৯-কবিতায়-একুশের-কৃষ্ণচূড়া-আমাদের | Publisher listing: \n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "B",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "মাসি-পিসি",
+      "question": "মাসি-পিসির পেশা কী ছিল?",
+      "options": [
+        "শহরে শাকসবজি বিক্রি করা",
+        "শহরে চা-কিছুট বিক্রি করা",
+        "শহরে কাগজ বিক্রি করা",
+        "অন্যের বাড়িতে শ্রম দেওয়া"
+      ],
+      "correctAnswer": 0,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nমানিক বন্দ্যোপাধ্যায়ের মাসি-পিসি গল্পে দুই নারীর জীবিকার সঙ্গে শহরে শাকসবজি বিক্রি করার কাজটি যুক্ত। প্রশ্নটি তাদের জীবিকার নির্দিষ্ট উপায় জানতে চেয়েছে। অর্থকষ্টের প্রসঙ্গ থাকলেই অন্যের বাড়িতে শ্রম দেওয়া ধরে নেওয়া যাবে না; পাঠ্যে উল্লেখিত কাজটিই নির্বাচন করতে হবে।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/মাসিপিসির-পেশা-কী-ছিল | Publisher listing: \n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "B",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "বিলাসী",
+      "question": "‘ভুজ্যি উচ্ছুগা’ শব্দদ্বয় কোন গল্পে ব্যবহৃত হয়েছে?",
+      "options": [
+        "মাসি পিসি",
+        "অপরিচিতা",
+        "মহুয়া",
+        "বিলাসী"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nপ্রশ্নের আঞ্চলিক শব্দদুটি শরৎচন্দ্র চট্টোপাধ্যায়ের বিলাসী গল্পে ব্যবহৃত হয়েছে। এ ধরনের প্রশ্নে শব্দের সাধারণ অর্থের পাশাপাশি কোন পাঠ্যে তার ব্যবহার আছে তা মনে রাখা দরকার। বিকল্পগুলোর মধ্যে একাধিক গ্রামীণ পরিবেশের রচনা থাকলেও শুধু পরিবেশের মিল দিয়ে উত্তর নির্ধারণ করা যায় না।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/ভুজ্যি-উচ্ছুগা-শব্দদ্বয়-কোন-গল্পে-ব্যবহৃত-হয়েছে | Publisher listing: \n                                        GST Cluster University Admission B Unit (Humanities) MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "gst",
+          "unit": "B",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "সোনার তরী",
+      "question": "'সোনার তরী' কবিতায় প্রতি স্তবকে কয়টি করে লাইন আছে?",
+      "options": [
+        "৪",
+        "৭",
+        "৫",
+        "২"
+      ],
+      "correctAnswer": 1,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nরবীন্দ্রনাথ ঠাকুরের সোনার তরী কবিতার প্রচলিত পাঠে প্রতি স্তবকে সাতটি পঙক্তি রয়েছে। এখানে কবিতার নিজস্ব পঙক্তিবিন্যাস গণনা করতে হবে। ফোনের ছোট পর্দা বা কোনো ওয়েবপেজে একটি পঙক্তি ভেঙে দুই লাইনে দেখা গেলেও সেটিকে দুটি কাব্যপঙক্তি ধরে গণনা করা ঠিক নয়।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/সোনার-তরী-কবিতায়-প্রতি-স্তবকে-কয়টি-করে-লাইন-আছে-29998 | Publisher listing: \n                                        National University Humanities Unit MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "আঠারো বছর বয়স",
+      "question": "'আঠারো বছর বয়স' কী জানে?",
+      "options": [
+        "কাঁদতে",
+        "ঈর্ষা",
+        "মন্ত্রণা দিতে",
+        "রক্তদানের পুণ্য"
+      ],
+      "correctAnswer": 3,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nসুকান্ত ভট্টাচার্যের আঠারো বছর বয়স কবিতায় তারুণ্যের সাহস ও আত্মত্যাগের ক্ষমতা তুলে ধরা হয়েছে। প্রশ্নে সেই আত্মত্যাগের মূল্যবোধের প্রকাশটি জানতে চাওয়া হয়েছে। তাই কান্না, ঈর্ষা বা পরামর্শ দেওয়ার পরিবর্তে রক্তদানের পুণ্যের ধারণাটি কবিতার নির্দেশিত ভাবের সঙ্গে মেলে।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/আঠারো-বছর-বয়স-কী-জানে-48599 | Publisher listing: \n                                        National University Humanities Unit MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "বাংলা",
+      "collection": "Satt Academy — selected Humanities excerpts",
+      "chapter": "সাহিত্য",
+      "topic": "লালসালু",
+      "question": "মজিদের মহব্বতনগর গ্রামে প্রবেশটা কেমন ছিল?",
+      "options": [
+        "ইতস্তত",
+        "অবধারিত",
+        "নাটকীয়",
+        "স্বাভাবিক"
+      ],
+      "correctAnswer": 2,
+      "explanation": "সম্পাদকীয় ব্যাখ্যা — বিশ্ববিদ্যালয়ের আনুষ্ঠানিক উত্তরব্যাখ্যা নয়:\nসৈয়দ ওয়ালীউল্লাহর লালসালু উপন্যাসে মজিদের মহব্বতনগরে আগমন ও নিজের প্রভাব প্রতিষ্ঠার সূচনা নাটকীয়ভাবে উপস্থাপিত হয়েছে। প্রশ্নটি তার আগমনের উপস্থাপনার ধরন জানতে চায়। ইতস্তত, স্বাভাবিক বা অবধারিতের বদলে নাটকীয় নির্বাচন করলে সেই লক্ষণটি ধরা পড়ে।",
+      "source": "Satt Academy, selected short personal-study excerpt. https://sattacademy.com/mcq/মজিদের-মহব্বতনগর-গ্রামে-প্রবেশটা-কেমন-ছিল-43655 | Publisher listing: \n                                        National University Humanities Unit MCQ Question Bank, Solution & PDF\n                                    . Source answer checked; original paper/year claim NOT independently verified. Explanation is Admission Companion editorial, not an official/source explanation. Limited excerpts only; no blanket reuse licence or university endorsement claimed.",
+      "language": "bn",
+      "difficulty": "medium",
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "isSample": false,
+      "common": false,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    }
+  ]
+}

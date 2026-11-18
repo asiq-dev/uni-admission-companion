@@ -1,0 +1,2109 @@
+{
+  "provenance": {
+    "source": "OpenStax/Rice University and contributing authors, U.S. History",
+    "license": "CC BY-NC-SA 4.0",
+    "release": {
+      "repository": "openstax/osbooks-us-history",
+      "commit": "c05b860a035ff59a2ca1fd44339ef86694e09b57",
+      "archive": "osbooks-us-history-xml.zip",
+      "sha256": "ab58664a6c3bdc956ce772d794d453b49c254a556b3a317710f58053c69850bb",
+      "collected": "2026-11-17"
+    },
+    "changes": "Published MCQ stems/options/keys retained; textbook context mechanically selected from the same section; preparation links added.",
+    "verification": "Published key retained; context selection NOT independently expert-verified; supplementary subject practice, not university past papers.",
+    "included": 51
+  },
+  "questions": [
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Europe on the Brink of Change",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe series of attempts by Christian armies to retake the Holy Lands from Muslims was known as ________.",
+      "options": [
+        "the Crusades",
+        "the Reconquista",
+        "the Black Death",
+        "the Silk Road"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: the Crusades.\n\nRelated textbook context from the same section:\n“The Islamic conquest of Europe continued until 732. Then, at the Battle of Tours (in modern France), Charles Martel, nicknamed the Hammer, led a Christian force in defeating the army of Abdul Rahman al-Ghafiqi. Muslims, however, retained control of much of Spain, where Córdoba, known for leather and wool production, became a major center of learning and trade. By the eleventh century, a major Christian holy war called the Reconquista, or reconquest, had begun to slowly push Muslims from Spain. With the start of the Crusades, the wars between Christians and Muslims for domination of the Holy Land (the Biblical region of Palestine), Christians in Spain and around Europe began to see the Reconquista as part of a larger religious struggle with Islam.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m49968, exercise fs-idm23107536. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m49968/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Europe on the Brink of Change",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\n________ became wealthy trading with the East.",
+      "options": [
+        "Carcassonne",
+        "Jerusalem",
+        "Rome",
+        "Venice"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: Venice.\n\nRelated textbook context from the same section:\n“One effect of the Crusades was that a larger portion of western Europe became familiar with the goods of the East. A lively trade subsequently developed along a variety of routes known collectively as the Silk Road to supply the demand for these products. Brigands and greedy middlemen made the trip along this route expensive and dangerous. By 1492, Europe—recovered from the Black Death and in search of new products and new wealth—was anxious to improve trade and communications with the rest of the world. Venice and Genoa led the way in trading with the East. The lure of profit pushed explorers to seek new trade routes to the Spice Islands and eliminate Muslim middlemen.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m49968, exercise fs-idm52957872. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m49968/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Europe on the Brink of Change",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nIn 1492, the Spanish forced these two religious groups to either convert or leave.",
+      "options": [
+        "Jews and Muslims",
+        "Christians and Jews",
+        "Protestants and Muslims",
+        "Catholics and Jews"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Jews and Muslims.\n\nRelated textbook context from the same section:\n“Just to the east of Portugal, King Ferdinand of Aragon married Queen Isabella of Castile in 1469, uniting two of the most powerful independent kingdoms on the Iberian peninsula and laying the foundation for the modern nation of Spain. Isabella, motivated by strong religious zeal, was instrumental in beginning the Inquisition in 1480, a brutal campaign to root out Jews and Muslims who had seemingly converted to Christianity but secretly continued to practice their faith, as well as other heretics. This powerful couple ruled for the next twenty-five years, centralizing authority and funding exploration and trade with the East. One of their daughters, Catherine of Aragon, became the first wife of King Henry VIII of England.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m49968, exercise fs-idm49976592. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m49968/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "West Africa and the Role of Slavery",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe city of ________ became a leading center for Muslim scholarship and trade.",
+      "options": [
+        "Cairo",
+        "Timbuktu",
+        "Morocco",
+        "Mali"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: Timbuktu.\n\nRelated textbook context from the same section:\n“By 1200 CE, under the leadership of Sundiata Keita, Mali had replaced Ghana as the leading state in West Africa. After Sundiata’s rule, the court converted to Islam, and Muslim scribes played a large part in administration and government. Miners then discovered huge new deposits of gold east of the Niger River. By the fourteenth century, the empire was so wealthy that while on a hajj, or pilgrimage to the holy city of Mecca, Mali’s ruler Mansu Musa gave away enough gold to create serious price inflation in the cities along his route. Timbuktu, the capital city, became a leading Islamic center for education, commerce and the slave trade. Meanwhile, in the east, the city of Gao became increasingly strong under the leadership of Sonni Ali and soon eclipsed Mali’s power. Timbuktu sought Ali’s assistance in repelling the Tuaregs from the north. By 1500, however, the Tuareg empire of Songhay had eclipsed Mali, where weak and ineffective leadership prevailed.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m49981, exercise fs-idm26945568. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m49981/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Americas",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich of the following Native peoples built homes in cliff dwellings that still exist?",
+      "options": [
+        "Anasazi",
+        "Cherokee",
+        "Aztec",
+        "Inca"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Anasazi.\n\nRelated textbook context from the same section:\n“The Mogollon thrived in the Mimbres Valley (New Mexico) from about 150 BCE to 1450 CE. They developed a distinctive artistic style for painting bowls with finely drawn geometric figures and wildlife, especially birds, in black on a white background. Beginning about 600 CE, the Hohokam built an extensive irrigation system of canals to irrigate the desert and grow fields of corn, beans, and squash. By 1300, their crop yields were supporting the most highly populated settlements in the southwest. The Hohokam decorated pottery with a red-on-buff design and made jewelry of turquoise. In the high desert of New Mexico, the Anasazi, whose name means “ancient enemy” or “ancient ones,” carved homes from steep cliffs accessed by ladders or ropes that could be pulled in at night or in case of enemy attack ().”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m49986, exercise fs-idp46070112. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m49986/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Americas",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich culture developed the first writing system in the Western Hemisphere?",
+      "options": [
+        "Inca",
+        "Maya",
+        "Olmec",
+        "Pueblo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: Olmec.\n\nRelated textbook context from the same section:\n“Mesoamerica is the geographic area stretching from north of Panama up to the desert of central Mexico. Although marked by great topographic, linguistic, and cultural diversity, this region cradled a number of civilizations with similar characteristics. Mesoamericans were polytheistic; their gods possessed both male and female traits and demanded blood sacrifices of enemies taken in battle or ritual bloodletting. Corn, or maize, domesticated by 5000 BCE, formed the basis of their diet. They developed a mathematical system, built huge edifices, and devised a calendar that accurately predicted eclipses and solstices and that priest-astronomers used to direct the planting and harvesting of crops. Most important for our knowledge of these peoples, they created the only known written language in the Western Hemisphere; researchers have made much progress in interpreting the inscriptions on their temples and pyramids. Though the area had no overarching political structure, trade over long distances helped diffuse culture. Weapons made of obsidian, jewelry crafted from jade, feathers woven into clothing and ornaments, and cacao beans that were whipped into a chocolate drink formed the basis of commerce. The mother of Mesoamerican cultures was the Olmec civilization.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m49986, exercise fs-idm14330752. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m49986/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Americas",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich culture developed a road system rivaling that of the Romans?",
+      "options": [
+        "Cherokee",
+        "Inca",
+        "Olmec",
+        "Anasazi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: Inca.\n\nRelated textbook context from the same section:\n“In South America, the most highly developed and complex society was that of the Inca, whose name means “lord” or “ruler” in the Andean language called Quechua. At its height in the fifteenth and sixteenth centuries, the Inca Empire, located on the Pacific coast and straddling the Andes Mountains, extended some twenty-five hundred miles. It stretched from modern-day Colombia in the north to Chile in the south and included cities built at an altitude of 14,000 feet above sea level. Its road system, kept free of debris and repaired by workers stationed at varying intervals, rivaled that of the Romans and efficiently connected the sprawling empire. The Inca, like all other pre-Columbian societies, did not use axle-mounted wheels for transportation. They built stepped roads to ascend and descend the steep slopes of the Andes; these would have been impractical for wheeled vehicles but worked well for pedestrians. These roads enabled the rapid movement of the highly trained Incan army. Also like the Romans, the Inca were effective administrators. Runners called chasquis traversed the roads in a continuous relay system, ensuring quick communication over long distances. The Inca had no system of writing, however. They communicated and kept records using a system of colored strings and knots called the quipu ().”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m49986, exercise fs-idm43223200. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m49986/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Disaffection: The First Continental Congress and American Identity",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich colony provided the basis for the Declarations and Resolves?",
+      "options": [
+        "Massachusetts",
+        "Philadelphia",
+        "Rhode Island",
+        "New York"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Massachusetts.\n\nRelated textbook context from the same section:\n“In the end, Paul Revere rode from Massachusetts to Philadelphia with the Suffolk Resolves, which became the basis of the Declaration and Resolves of the First Continental Congress. In the Declaration and Resolves, adopted on October 14, the colonists demanded the repeal of all repressive acts passed since 1773 and agreed to a non-importation, non-exportation, and non-consumption pact against all British goods until the acts were repealed. In the “Petition of Congress to the King” on October 24, the delegates adopted a further recommendation of the Suffolk Resolves and proposed that the colonies raise and regulate their own militias.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50020, exercise fs-idm2821152. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50020/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Partisan Politics",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhat was the primary issue of Adams’s presidency?",
+      "options": [
+        "war with Spain",
+        "relations with the native population",
+        "infighting within the Federalist Party",
+        "relations with France"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: relations with France.\n\nRelated textbook context from the same section:\n“The war between Great Britain and France in the 1790s shaped U.S. foreign policy. As a new and, in comparison to the European powers, extremely weak nation, the American republic had no control over European events, and no real leverage to obtain its goals of trading freely in the Atlantic. To Federalist president John Adams, relations with France posed the biggest problem. After the Terror, the French Directory ruled France from 1795 to 1799. During this time, Napoleon rose to power.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50041, exercise fs-idp2375984. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50041/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Partisan Politics",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich of the following events is not an example of partisan acrimony?",
+      "options": [
+        "the jailing of Matthew Lyon",
+        "the XYZ affair",
+        "the Marbury v. Madison case",
+        "the Hamilton-Burr duel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: the XYZ affair.\n\nRelated textbook context from the same section:\n“In 1797, Adams sought a diplomatic solution to the conflict with France and dispatched envoys to negotiate terms. The French foreign minister, Charles-Maurice de Talleyrand, sent emissaries who told the American envoys that the United States must repay all outstanding debts owed to France, lend France 32 million guilders (Dutch currency), and pay a £50,000 bribe before any negotiations could take place. News of the attempt to extract a bribe, known as the XYZ affair because the French emissaries were referred to as X, Y, and Z in letters that President Adams released to Congress, outraged the American public and turned public opinion decidedly against France (). In the court of public opinion, Federalists appeared to have been correct in their interpretation of France, while the pro-French Democratic-Republicans had been misled.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50041, exercise fs-idm48332208. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50041/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "African Americans in the Antebellum United States",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nUnder the law in the antebellum South, enslaved people were ________.",
+      "options": [
+        "servants",
+        "animals",
+        "property",
+        "indentures"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: property.\n\nRelated textbook context from the same section:\n“Slave labor in the antebellum South generated great wealth for plantation owners. Enslaved people, in contrast, endured daily traumas as human property. Enslaved people resisted their condition in a variety of ways, and many found some solace in Christianity and the communities they created in the slave quarters. While some free Black people achieved economic prosperity and even became slaveholders themselves, the vast majority found themselves restricted by the same White-supremacist assumptions upon which the institution of slavery was based.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50065, exercise fs-idm105747888. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50065/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Wealth and Culture in the South",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nJohn C. Calhoun argued for greater rights for southerners with which idea?",
+      "options": [
+        "polygenism",
+        "nullification",
+        "concurrent majority",
+        "paternalism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: concurrent majority.\n\nRelated textbook context from the same section:\n“As the nation expanded in the 1830s and 1840s, the writings of abolitionists—a small but vocal group of northerners committed to ending slavery—reached a larger national audience. White southerners responded by putting forth arguments in defense of slavery, their way of life, and their honor. Calhoun became a leading political theorist defending slavery and the rights of the South, which he saw as containing an increasingly embattled minority. He advanced the idea of a concurrent majority, a majority of a separate region (that would otherwise be in the minority of the nation) with the power to veto or disallow legislation put forward by a hostile majority.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50066, exercise fs-idp257500480. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50066/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Filibuster and the Quest for New Slave States",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhy did southern expansionists conduct filibuster expeditions?",
+      "options": [
+        "to gain political advantage",
+        "to annex new slave states",
+        "to prove they could raise an army",
+        "to map unknown territories"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: to annex new slave states.\n\nRelated textbook context from the same section:\n“The decade of the 1850s witnessed various schemes to expand the American empire of slavery. The Ostend Manifesto articulated the right of the United States to forcefully seize Cuba if Spain would not sell it, while filibuster expeditions attempted to annex new slave states without the benefit of governmental approval. Those who pursued the goal of expanding American slavery believed they embodied the true spirit of White racial superiority.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50068, exercise fs-idp53796144. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50068/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Filibuster and the Quest for New Slave States",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe controversy at the heart of the Ostend Manifesto centered on the fate of:",
+      "options": [
+        "Ostend, Belgium",
+        "Nicaragua",
+        "Cuba",
+        "Louisiana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: Cuba.\n\nRelated textbook context from the same section:\n“Controversy around the Ostend Manifesto caused President Pierce to step back from the plan to take Cuba. After his election, President Buchanan, despite his earlier expansionist efforts, denounced filibustering as the action of pirates. Filibustering caused an even wider gulf between the North and the South ().”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50068, exercise fs-idm217777168. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50068/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "An Awakening of Religion and Individualism",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nTranscendentalists were most concerned with ________.",
+      "options": [
+        "the afterlife",
+        "predestination",
+        "the individual",
+        "democracy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: the individual.\n\nRelated textbook context from the same section:\n“Evangelical Protestantism pervaded American culture in the antebellum era and fueled a belief in the possibility of changing society for the better. Leaders of the Second Great Awakening like Charles G. Finney urged listeners to take charge of their own salvation. This religious message dovetailed with the new economic possibilities created by the market and Industrial Revolution, making the Protestantism of the Second Great Awakening, with its emphasis on individual spiritual success, a reflection of the individualistic, capitalist spirit of the age. Transcendentalists took a different approach, but like their religiously oriented brethren, they too looked to create a better existence. These authors, most notably Emerson, identified a major tension in American life between the effort to be part of the democratic majority and the need to remain true to oneself as an individual.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50071, exercise eip-idp206914896. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50071/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Antebellum Communal Experiments",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich religious community focused on the power of patriarchy?",
+      "options": [
+        "Shakers",
+        "Mormons",
+        "Owenites",
+        "Rappites"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: Mormons.\n\nRelated textbook context from the same section:\n“The most successful religious utopian community to arise in the antebellum years was begun by Joseph Smith. Smith came from a large Vermont family that had not prospered in the new market economy and moved to the town of Palmyra, in the “burned over district” of western New York. In 1823, Smith indicated that he had been visited by the angel Moroni, who told him the location of a trove of golden plates or tablets. During the late 1820s, Smith translated the writing on the golden plates, and in 1830, he published his finding as The Book of Mormon. That same year, he organized the Church of Christ, the progenitor of the Church of Jesus Christ of Latter-day Saints then popularly known as Mormons. He presented himself as a prophet and aimed to recapture what he viewed as the purity of the primitive Christian church, purity that had been lost over the centuries.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50072, exercise fs-idm200336. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50072/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Antebellum Communal Experiments",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich community or movement is associated with transcendentalism?",
+      "options": [
+        "the Oneida Community",
+        "the Ephrata Cloister",
+        "Brook Farm",
+        "Fourierism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: Brook Farm.\n\nRelated textbook context from the same section:\n“Not all utopian communities were prompted by the religious fervor of the Second Great Awakening; some were outgrowths of the intellectual ideas of the time, such as romanticism with its emphasis on the importance of individualism over conformity. One of these, Brook Farm, took shape in West Roxbury, Massachusetts, in the 1840s. It was founded by George Ripley, a transcendentalist from Massachusetts. In the summer of 1841, this utopian community gained support from Boston-area thinkers and writers, an intellectual group that included many important transcendentalists. Brook Farm is best characterized as a community of intensely individualistic personalities who combined manual labor, such as the growing and harvesting food, with intellectual pursuits. They opened a school that specialized in the liberal arts rather than rote memorization and published a weekly journal called The Harbinger, which was “Devoted to Social and Political Progress” (). Members of Brook Farm never totaled more than one hundred, but it won renown largely because of the luminaries, such as Emerson and Thoreau, whose names were attached to it. Nathaniel Hawthorne, a Massachusetts writer who took issue with some of the transcendentalists’ claims, was a founding member of Brook Farm, and he fictionalized some of his experiences in his novel The Blithedale Romance. In 1846, a fire destroyed the main building of Brook Farm, and already hampered by financial problems, the Brook Farm experiment came to an end in 1847.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50072, exercise fs-idp2081328. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50072/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Radical Reconstruction, 1867–1872",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe House of Representatives impeached Andrew Johnson over ________.",
+      "options": [
+        "the Civil Rights Act",
+        "the Fourteenth Amendment",
+        "the Military Reconstruction Act",
+        "the Tenure of Office Act"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: the Tenure of Office Act.\n\nRelated textbook context from the same section:\n“The Republican majority in Congress by now despised the president, and they wanted to prevent him from interfering in congressional Reconstruction. To that end, Radical Republicans passed two laws of dubious constitutionality. The Command of the Army Act prohibited the president from issuing military orders except through the commanding general of the army, who could not be relieved or reassigned without the consent of the Senate. The Tenure of Office Act, which Congress passed in 1867, required the president to gain the approval of the Senate whenever he appointed or removed officials. Congress had passed this act to ensure that Republicans who favored Radical Reconstruction would not be barred or stripped of their jobs. In August 1867, President Johnson removed Secretary of War Edwin M. Stanton, who had aligned himself with the Radical Republicans, without gaining Senate approval. He replaced Stanton with Ulysses S. Grant, but Grant resigned and sided with the Republicans against the president. Many Radical Republicans welcomed this blunder by the president as it allowed them to take action to remove Johnson from office, arguing that Johnson had openly violated the Tenure of Office Act. The House of Representatives quickly drafted a resolution to impeach him, a first in American history.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50094, exercise fs-idm190186880. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50094/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Collapse of Reconstruction",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich of the following was the term southerners used for a White southerner who tried to overturn the changes of Reconstruction?",
+      "options": [
+        "scalawag",
+        "carpetbagger",
+        "redeemer",
+        "white knight"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: redeemer.\n\nRelated textbook context from the same section:\n“While the president and Congress may have seen the Klan and other clandestine White supremacist, terrorist organizations as a threat to stability and progress in the South, many southern White people saw them as an instrument of order in a world turned upside down. Many White southerners felt humiliated by the process of Radical Reconstruction and the way Republicans had upended southern society, placing Black people in positions of authority while taxing large landowners to pay for the education of formerly enslaved people. Those committed to rolling back the tide of Radical Reconstruction in the South called themselves redeemers, a label that expressed their desire to redeem their states from northern control and to restore the antebellum social order whereby Black people were kept safely under the boot heel of White people. They represented the Democratic Party in the South and worked tirelessly to end what they saw as an era of “negro misrule.” By 1877, they had succeeded in bringing about the “redemption” of the South, effectively destroying the dream of Radical Reconstruction.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50095, exercise fs-idm206366752. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50095/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Key Political Issues: Patronage, Tariffs, and Gold",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich president made significant steps towards civil service reform?",
+      "options": [
+        "Chester A. Arthur",
+        "Benjamin Harrison",
+        "Grover Cleveland",
+        "Roscoe Conkling"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Chester A. Arthur.\n\nRelated textbook context from the same section:\n“Hayes’ first target in his meager reform effort was to remove Chester A. Arthur, a strong Conkling man, from his post as head of the New York City Customs House. Arthur had been notorious for using his post as customs collector to gain political favors for Conkling. When Hayes forcibly removed him from the position, even Half-Breeds questioned the wisdom of the move and began to distance themselves from Hayes. The loss of his meager public support due to the Compromise of 1877 and the declining Congressional faction together sealed Hayes fate and made his reelection impossible.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50122, exercise fs-idm82581616. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50122/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Farmers Revolt in the Populist Era",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich of the following contributed directly to the plight of farmers?",
+      "options": [
+        "machine politics",
+        "labor unions",
+        "overproduction",
+        "inadequate supply"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: overproduction.\n\nRelated textbook context from the same section:\n“The challenges that many American farmers faced in the last quarter of the nineteenth century were significant. They contended with economic hardships born out of rapidly declining farm prices, prohibitively high tariffs on items they needed to purchase, and foreign competition. One of the largest challenges they faced was overproduction, where the glut of their products in the marketplace drove the price lower and lower.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50123, exercise fs-idp44627168. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50123/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Progressivism at the Grassroots Level",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich of the following is not an example of social justice Progressivism?",
+      "options": [
+        "anti-liquor campaigns",
+        "referendums",
+        "workplace safety initiatives",
+        "improvements in education"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: referendums.\n\nRelated textbook context from the same section:\n“Another cause that garnered support from a key group of Progressives was the prohibition of liquor. This crusade, which gained followers through the Woman’s Christian Temperance Union (WCTU) and the Anti-Saloon League, directly linked Progressivism with morality and Christian reform initiatives, and saw in alcohol both a moral vice and a practical concern, as workingmen spent their wages on liquor and saloons, often turning violent towards each other or their families at home. The WCTU and Anti-Saloon League moved the efforts to eliminate the sale of alcohol from a bar-to-bar public opinion campaign to one of city-to-city and state-by-state votes (). Through local option votes and subsequent statewide initiatives and referendums, the Anti-Saloon League succeeded in urging 40 percent of the nation’s counties to “go dry” by 1906, and a full dozen states to do the same by 1909. Their political pressure culminated in the passage of the Eighteenth Amendment to the U.S. Constitution, ratified in 1919, which prohibited the manufacture, sale, and transportation of alcoholic beverages nationwide.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50127, exercise fs-idp1462368. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50127/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Progressivism in the White House",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich of the following was a key Progressive item passed by Taft?",
+      "options": [
+        "the Pure Food and Drug Act",
+        "the U.S. Forestry Service",
+        "the Mann-Elkins Act",
+        "the Payne-Aldrich Act"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: the Payne-Aldrich Act.\n\nRelated textbook context from the same section:\n“Political infighting within his own party exposed the limitations of Taft’s presidential authority, especially on the issue of protective tariffs. When House Republicans passed a measure to significantly reduce tariffs on several imported goods, Taft endorsed the Senate version, later known as the Payne-Aldrich Act of 1909, which raised tariff rates on over eight hundred products in the original bill. Taft also angered Progressives in his own party when he created the U.S. Chamber of Commerce in 1912, viewed by many as an attempt to offset the growing influence of the labor union movement at the time. The rift between Taft and his party’s Progressives widened when the president supported conservative party candidates for the 1910 House and Senate elections.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50129, exercise fs-idm81830848. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50129/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "American Isolationism and the European Origins of War",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nIn order to pursue his goal of using American influence overseas only when it was a moral imperative, Wilson put which man in the position of Secretary of State?",
+      "options": [
+        "Charles Hughes",
+        "Theodore Roosevelt",
+        "William Jennings Bryan",
+        "John Pershing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: William Jennings Bryan.\n\nRelated textbook context from the same section:\n“Wilson appointed former presidential candidate William Jennings Bryan, a noted anti-imperialist and proponent of world peace, as his Secretary of State. Bryan undertook his new assignment with great vigor, encouraging nations around the world to sign “cooling off treaties,” under which they agreed to resolve international disputes through talks, not war, and to submit any grievances to an international commission. Bryan also negotiated friendly relations with Colombia, including a $25 million apology for Roosevelt’s actions during the Panamanian Revolution, and worked to establish effective self-government in the Philippines in preparation for the eventual American withdrawal. Even with Bryan’s support, however, Wilson found that it was much harder than he anticipated to keep the United States out of world affairs (). In reality, the United States was interventionist in areas where its interests—direct or indirect—were threatened.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50142, exercise eip-idp15018256. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50142/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The United States Prepares for War",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich of the following was not enacted in order to secure men and materials for the war effort?",
+      "options": [
+        "the Food Administration",
+        "the Selective Service Act",
+        "the War Industries Board",
+        "the Sedition Act"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: the Sedition Act.\n\nRelated textbook context from the same section:\n“In addition to its propaganda campaign, the U.S. government also tried to secure broad support for the war effort with repressive legislation. The Trading with the Enemy Act of 1917 prohibited individual trade with an enemy nation and banned the use of the postal service for disseminating any literature deemed treasonous by the postmaster general. That same year, the Espionage Act prohibited giving aid to the enemy by spying, or espionage, as well as any public comments that opposed the American war effort. Under this act, the government could impose fines and imprisonment of up to twenty years. The Sedition Act, passed in 1918, prohibited any criticism or disloyal language against the federal government and its policies, the U.S. Constitution, the military uniform, or the American flag. More than two thousand persons were charged with violating these laws, and many received prison sentences of up to twenty years. Immigrants faced deportation as punishment for their dissent. Not since the Alien and Sedition Acts of 1798 had the federal government so infringed on the freedom of speech of loyal American citizens.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50143, exercise eip-idp232131680. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50143/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The United States Prepares for War",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhat of the following was not used to control American dissent against the war effort?",
+      "options": [
+        "propaganda campaigns",
+        "repressive legislation",
+        "National Civil Liberties Bureau",
+        "loyalty leagues"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: National Civil Liberties Bureau.\n\nRelated textbook context from the same section:\n“Understandably, opposition to such repression began mounting. In 1917, Roger Baldwin formed the National Civil Liberties Bureau—a forerunner to the American Civil Liberties Union, which was founded in 1920—to challenge the government’s policies against wartime dissent and conscientious objection. In 1919, the case of Schenck v. United States went to the U.S. Supreme Court to challenge the constitutionality of the Espionage and Sedition Acts. The case concerned Charles Schenck, a leader in the Socialist Party of Philadelphia, who had distributed fifteen thousand leaflets, encouraging young men to avoid conscription. The court ruled that during a time of war, the federal government was justified in passing such laws to quiet dissenters. The decision was unanimous, and in the court’s opinion, Justice Oliver Wendell Holmes wrote that such dissent presented a “clear and present danger” to the safety of the United States and the military, and was therefore justified. He further explained how the First Amendment right of free speech did not protect such dissent, in the same manner that a citizen could not be freely permitted to yell “fire!” in a crowded theater, due to the danger it presented. Congress ultimately repealed most of the Espionage and Sedition Acts in 1921, and several who were imprisoned for violation of those acts were then quickly released. But the Supreme Court’s deference to the federal government’s restrictions on civil liberties remained a volatile topic in future wars.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50143, exercise eip-idm52994880. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50143/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Prosperity and the Production of Popular Entertainment",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich of the following films released in 1927 was the first successful talking motion picture?",
+      "options": [
+        "The Clansman",
+        "The Great Gatsby",
+        "The Jazz Singer",
+        "The Birth of a Nation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: The Jazz Singer.\n\nRelated textbook context from the same section:\n“In 1927, the world of the silent movie began to wane with the New York release of the first “talkie”: The Jazz Singer. The plot of this film, which starred Al Jolson, told a distinctively American story of the 1920s. It follows the life of a Jewish man from his boyhood days of being groomed to be the cantor at the local synagogue to his life as a famous and “Americanized” jazz singer. Both the story and the new sound technology used to present it were popular with audiences around the country. It quickly became a huge hit for Warner Brothers, one of the “big five” motion picture studios in Hollywood along with Twentieth Century Fox, RKO Pictures, Paramount Pictures, and Metro-Goldwyn-Mayer.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50149, exercise fs-idm65978752. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50149/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Prosperity and the Production of Popular Entertainment",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe popularization of ________ expanded the communications and sports industries.",
+      "options": [
+        "radios",
+        "talkies",
+        "the Model T",
+        "airplanes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: radios.\n\nRelated textbook context from the same section:\n“Technological innovation influenced more than just transportation. As access to electricity became more common and the electric motor was made more efficient, inventors began to churn out new and more complex household appliances. Newly developed innovations like radios, phonographs, vacuum cleaners, washing machines, and refrigerators emerged on the market during this period. While expensive, new consumer-purchasing innovations like store credit and installment plans made them available to a larger segment of the population. Many of these devices promised to give women—who continued to have primary responsibility for housework—more opportunities to step out of the home and expand their horizons. Ironically, however, these labor-saving devices tended to increase the workload for women by raising the standards of domestic work. With the aid of these tools, women ended up cleaning more frequently, washing more often, and cooking more elaborate meals rather than gaining spare time.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50149, exercise fs-idm185646032. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50149/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Prosperity and the Production of Popular Entertainment",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWho was the first person to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Orville Wright",
+        "Jim Thorpe",
+        "Charlie Chaplin",
+        "Charles Lindbergh"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: Charles Lindbergh.\n\nRelated textbook context from the same section:\n“The 1920s not only witnessed a transformation in ground transportation but also major changes in air travel. By the mid-1920s, men—as well as some pioneering women like the African American stunt pilot Bessie Coleman ()—had been flying for two decades. But there remained doubts about the suitability of airplanes for long-distance travel. Orville Wright, one of the pioneers of airplane technology in the United States, once famously declared, “No flying machine will ever fly from New York to Paris [because] no known motor can run at the requisite speed for four days without stopping.” However, in 1927, this skepticism was finally put to rest when Charles Lindbergh became the first person to fly solo across the Atlantic Ocean, flying from New York to Paris in thirty-three hours ().”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50149, exercise fs-idm242162400. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50149/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Transformation and Backlash",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich man was both a professional baseball player and an influential evangelist during the 1920s?",
+      "options": [
+        "Babe Ruth",
+        "H. L. Mencken",
+        "Jim Thorpe",
+        "Billy Sunday"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: Billy Sunday.\n\nRelated textbook context from the same section:\n“Indicative of the revival of Protestant fundamentalism and the rejection of evolution among rural and White Americans was the rise of Billy Sunday. As a young man, Sunday had gained fame as a baseball player with exceptional skill and speed. Later, he found even more celebrity as the nation’s most revered evangelist, drawing huge crowds at camp meetings around the country. He was one of the most influential evangelists of the time and had access to some of the wealthiest and most powerful families in the country (). Sunday rallied many Americans around “old-time” fundamentalist religion and garnered support for prohibition. Recognizing Sunday’s popular appeal, Bryan attempted to bring him to Dayton for the Scopes trial, although Sunday politely refused.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50151, exercise fs-idp433152. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50151/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "A New Generation",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe popularization of which psychologist’s ideas encouraged the new morality of the 1920s?",
+      "options": [
+        "Sigmund Freud",
+        "Alice Paul",
+        "W. E. B. Du Bois",
+        "Margaret Sanger"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Sigmund Freud.\n\nRelated textbook context from the same section:\n“As men and women pushed social and cultural boundaries in the Jazz Age, sexual mores changed and social customs grew more permissive. “Petting parties” or “necking parties” became the rage on college campuses. Psychologist Sigmund Freud and British “sexologist” Havelock Ellis emphasized that sex was a natural and pleasurable part of the human experience. Margaret Sanger, the founder of Planned Parenthood, launched an information campaign on birth control to give women a choice in the realm in which suffrage had changed little—the family. The popularization of contraception and the private space that the automobile offered to teenagers and unwed couples also contributed to changes in sexual behavior.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50152, exercise fs-idm16581968. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50152/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "A New Generation",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich amendment did Alice Paul promote to end gender discrimination?",
+      "options": [
+        "Prohibition Amendment",
+        "Equal Rights Amendment",
+        "Sheppard-Towner Amendment",
+        "Free Exercise Amendment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: Equal Rights Amendment.\n\nRelated textbook context from the same section:\n“Nor did the struggle for women’s rights through the promotion and passage of legislation cease in the 1920s. In 1921, Congress passed the Promotion of the Welfare and Hygiene of Maternity and Infancy Act, also known as the Sheppard-Towner Act, which earmarked $1.25 million for well-baby clinics and educational programs, as well as nursing. This funding dramatically reduced the rate of infant mortality. Two years later, in 1923, Alice Paul drafted and promoted an Equal Rights Amendment (ERA) that promised to end all sex discrimination by guaranteeing that “Men and women shall have equal rights throughout the United States and every place subject to its jurisdiction.””\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50152, exercise fs-idm11693216. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50152/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "A New Generation",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhich novel of the era satirized the conformity of the American middle class?",
+      "options": [
+        "This Side of Paradise",
+        "The Sun Also Rises",
+        "A Farewell to Arms",
+        "Babbitt"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: Babbitt.\n\nRelated textbook context from the same section:\n“Not all Lost Generation writers were like Fitzgerald or Hemingway. The writing of Sinclair Lewis, rather than expressing a defined disillusionment, was more influenced by the Progressivism of the previous generation. In Babbitt (1922), he examined the “sheep following the herd” mentality that conformity promoted. He satirized American middle-class life as pleasure seeking and mindless. Similarly, writer Edith Wharton celebrated life in old New York, a vanished society, in The Age of Innocence, in 1920. Wharton came from a very wealthy, socialite family in New York, where she was educated by tutors and never attended college. She lived for many years in Europe; during the Great War, she worked in Paris helping women establish businesses.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50152, exercise fs-idm172976. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50152/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Republican Ascendancy: Politics in the 1920s",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWho was the Republican presidential nominee for the 1920 election?",
+      "options": [
+        "Calvin Coolidge",
+        "Woodrow Wilson",
+        "Warren Harding",
+        "James Cox"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: Warren Harding.\n\nRelated textbook context from the same section:\n“After World War I, Americans were ready for “a return to normalcy,” and Republican Warren Harding offered them just that. Under the guidance of his big-business backers, Harding’s policies supported businesses at home and isolation from foreign affairs. His administration was wracked by scandals, and after he died in 1923, Calvin Coolidge continued his policy legacy in much the same vein. Herbert Hoover, elected as Coolidge’s heir apparent, planned for more of the same until the stock market crash ended a decade of Republican ascendancy.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50153, exercise fs-idm2921312. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50153/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Republican Ascendancy: Politics in the 1920s",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nIn 1929, Albert Fall was convicted of bribery while holding the position of ________.",
+      "options": [
+        "Secretary of the Interior",
+        "head of the Veterans’ Bureau",
+        "Secretary of the Treasury",
+        "Secretary of Commerce"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Secretary of the Interior.\n\nRelated textbook context from the same section:\n“The scandals mounted quickly. From 1920 to 1923, Secretary of the Interior Albert B. Fall was involved in a scam that became known as the Teapot Dome scandal. Fall had leased navy reserves in Teapot Dome, Wyoming, and two other sites in California to private oil companies without opening the bidding to other companies. In exchange, the companies gave him $300,000 in cash and bonds, as well as a herd of cattle for his ranch. Fall was convicted of accepting bribes from the oil companies; he was fined $100,000 and sentenced to a year in prison. It was the first time that a cabinet official had received such a sentence.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50153, exercise fs-idm4560656. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50153/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Republican Ascendancy: Politics in the 1920s",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nCoolidge’s presidency was characterized by ________.",
+      "options": [
+        "scandal and dishonesty",
+        "silence and inactivity",
+        "flamboyancy and extravagance",
+        "ambition and greed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: silence and inactivity.\n\nRelated textbook context from the same section:\n“Thus, silence and inactivity became the dominant characteristics of the Coolidge presidency. Coolidge’s legendary reserve was famous in Washington society. Contemporaries told a possibly apocryphal story of how, at a dinner party at the White House, a woman bet her friends that she could get Coolidge to say more than three words. He looked at her and said, “you lose.””\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50153, exercise fs-idm3856768. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50153/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Kennedy Promise",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe term Kennedy chose to describe his sealing off of Cuba to prevent Soviet shipments of weapons or supplies was ________.",
+      "options": [
+        "interdiction",
+        "quarantine",
+        "isolation",
+        "blockade"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: quarantine.\n\nRelated textbook context from the same section:\n“On October 22, Kennedy demanded that Soviet premier Nikita Khrushchev remove the missiles. He also ordered a naval quarantine placed around Cuba to prevent Soviet ships from approaching. Despite his use of the word “quarantine” instead of “blockade,” for a blockade was considered an act of war, a potential war with the Soviet Union was nevertheless on the president’s mind. As U.S. ships headed for Cuba, the army was told to prepare for war, and Kennedy appeared on national television to declare his intention to defend the Western Hemisphere from Soviet aggression.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50179, exercise fs-idm95471712. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50179/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Challenging the Status Quo",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhat was one of the major student organizations engaged in organizing protests and demonstrations against the Vietnam War?",
+      "options": [
+        "Committee for American Democracy",
+        "Freedom Now Party",
+        "Students for a Democratic Society",
+        "Young Americans for Peace"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: Students for a Democratic Society.\n\nRelated textbook context from the same section:\n“One of the most prominent New Left groups was Students for a Democratic Society (SDS). Organized in 1960, SDS held its first meeting at the University of Michigan, Ann Arbor. Its philosophy was expressed in its manifesto, the Port Huron Statement, written by Tom Hayden and adopted in 1962, affirming the group’s dedication to fighting economic inequality and discrimination. It called for greater participation in the democratic process by ordinary people, advocated civil disobedience, and rejected the anti-Communist position held by most other groups committed to social reform in the United States.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50180, exercise fs-idp148855264. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50180/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Lyndon Johnson and the Great Society",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\n________ was Johnson’s program to provide federal funding for healthcare for the poor.",
+      "options": [
+        "Medicare",
+        "Social Security",
+        "Medicaid",
+        "AFDC"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: Medicaid.\n\nRelated textbook context from the same section:\n“The Johnson administration, realizing the nation’s elderly were among its poorest and most disadvantaged citizens, passed the Social Security Act of 1965. The most profound change made by this act was the creation of Medicare, a program to pay the medical expenses of those over sixty-five. Although opposed by the American Medical Association, which feared the creation of a national healthcare system, the new program was supported by most citizens because it would benefit all social classes, not just the poor. The act and subsequent amendments to it also provided coverage for self-employed people in certain occupations and expanded the number of disabled who qualified for benefits. The following year, the Medicaid program allotted federal funds to pay for medical care for the poor.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50181, exercise fs-idp182773472. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50181/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Lyndon Johnson and the Great Society",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nMany Americans began to doubt that the war in Vietnam could be won following ________.",
+      "options": [
+        "Khe Sanh",
+        "Dien Bien Phu",
+        "the Tonkin Gulf incident",
+        "the Tet Offensive"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: the Tet Offensive.\n\nRelated textbook context from the same section:\n“Although North Vietnamese forces suffered far more casualties than the roughly forty-one hundred U.S. soldiers killed, public opinion in the United States, fueled by graphic images provided in unprecedented media coverage, turned against the war. Disastrous surprise attacks like the Tet Offensive persuaded many that the war would not be over soon and raised doubts about whether Johnson’s administration was telling the truth about the real state of affairs. In May 1968, with over 400,000 U.S. soldiers in Vietnam, Johnson began peace talks with the North.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50181, exercise fs-idm48526064. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50181/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Civil Rights Movement Marches On",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe new protest tactic against segregation used by students in Greensboro, North Carolina, in 1960 was the ________.",
+      "options": [
+        "boycott",
+        "guerilla theater",
+        "teach-in",
+        "sit-in"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: sit-in.\n\nRelated textbook context from the same section:\n“On February 1, 1960, four sophomores at the North Carolina Agricultural & Technical College in Greensboro—Ezell Blair, Jr., Joseph McNeil, David Richmond, and Franklin McCain—entered the local Woolworth’s and sat at the lunch counter. The lunch counter was segregated, and they were refused service as they knew they would be. They had specifically chosen Woolworth’s, because it was a national chain and was thus believed to be especially vulnerable to negative publicity. Over the next few days, more protesters joined the four sophomores. Hostile White people responded with threats and taunted the students by pouring sugar and ketchup on their heads. The successful six-month-long Greensboro sit-in initiated the student phase of the African American civil rights movement and, within two months, the sit-in movement had spread to fifty-four cities in nine states ().”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50182, exercise fs-idm83595152. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50182/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Civil Rights Movement Marches On",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe African American group that advocated the use of violence and espoused a Marxist ideology was called ________.",
+      "options": [
+        "the Black Panthers",
+        "the Nation of Islam",
+        "SNCC",
+        "CORE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: the Black Panthers.\n\nRelated textbook context from the same section:\n“Unlike Stokely Carmichael and the Nation of Islam, most Black Power advocates did not believe African Americans needed to separate themselves from White society. The Black Panther Party, founded in 1966 in Oakland, California, by Bobby Seale and Huey Newton, believed African Americans were as much the victims of capitalism as of White racism. Accordingly, the group espoused Marxist teachings, and called for jobs, housing, and education, as well as protection from police brutality and exemption from military service in their Ten Point Program. The Black Panthers also patrolled the streets of African American neighborhoods to protect residents from police brutality, yet sometimes beat and murdered those who did not agree with their cause and tactics. Their militant attitude and advocacy of armed self-defense attracted many young men but also led to many encounters with the police, which sometimes included arrests and even shootouts, such as those that took place in Los Angeles, Chicago and Carbondale, Illinois.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50182, exercise fs-idp181059280. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50182/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Identity Politics in a Fractured Society",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nOne of the original founders of AIM was ________.",
+      "options": [
+        "Patsy Mink",
+        "Dennis Banks",
+        "Jerry Rubin",
+        "Glenn Weiser"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: Dennis Banks.\n\nRelated textbook context from the same section:\n“As the young, primarily White men and women who became hippies strove to create new identities for themselves, they borrowed liberally from other cultures, including that of Native Americans. At the same time, many Native Americans were themselves seeking to maintain their culture or retrieve elements that had been lost. In 1968, a group of American Indian activists, including Dennis Banks, George Mitchell, and Clyde Bellecourt, convened a gathering of two hundred people in Minneapolis, Minnesota, and formed the American Indian Movement (AIM) (). The organizers were urban dwellers frustrated by decades of poverty and discrimination. In 1970, the average life expectancy of Native Americans was forty-six years compared to the national average of sixty-nine. The suicide rate was twice that of the general population, and the infant mortality rate was the highest in the country. Half of all Native Americans lived on reservations, where unemployment reached 50 percent. Among those in cities, 20 percent lived below the poverty line.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50192, exercise fs-idm1932864. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50192/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Watergate: Nixon’s Domestic Nightmare",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe agreement Gerald Ford signed with the leader of the Soviet Union that ended the territorial issues remaining from World War II was ________.",
+      "options": [
+        "the Moscow Communiqué",
+        "the Beijing Treaty",
+        "the Iceland Protocol",
+        "the Helsinki Accords"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: the Helsinki Accords.\n\nRelated textbook context from the same section:\n“Ford’s economic policies ultimately proved unsuccessful. Because of opposition from a Democratic Congress, his foreign policy accomplishments were also limited. When he requested money to assist the South Vietnamese government in its effort to repel North Vietnamese forces, Congress refused. Ford was more successful in other parts of the world. He continued Nixon’s policy of détente with the Soviet Union, and he and Secretary of State Kissinger achieved further progress in the second round of SALT talks. In August 1975, Ford went to Finland and signed the Helsinki Accords with Soviet premier Leonid Brezhnev. This agreement essentially accepted the territorial boundaries that had been established at the end of World War II in 1945. It also exacted a pledge from the signatory nations that they would protect human rights within their countries. Many immigrants to the United States protested Ford’s actions, because it seemed as though he had accepted the status quo and left their homelands under Soviet domination. Others considered it a belated American acceptance of the world as it really was.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50196, exercise fs-idp226319616. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50196/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Watergate: Nixon’s Domestic Nightmare",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nOf these figures, who was not indicted following the Watergate break-in and cover-up?",
+      "options": [
+        "John Mitchell",
+        "Bob Woodward",
+        "John Ehrlichman",
+        "H.R. Haldeman"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The published textbook key gives B: Bob Woodward.\n\nRelated textbook context from the same section:\n“In the weeks following the Watergate break-in, Bob Woodward and Carl Bernstein, reporters for The Washington Post, received information from several anonymous sources, including one known to them only as “Deep Throat,” that led them to realize the White House was deeply implicated in the break-in. As the press focused on other events, Woodward and Bernstein continued to dig and publish their findings, keeping the public’s attention on the unfolding scandal. Years later, Deep Throat was revealed to be Mark Felt, then the FBI’s associate director.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50196, exercise fs-idp141042992. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50196/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Jimmy Carter in the Aftermath of the Storm",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nDuring the 1976 election campaign, Jimmy Carter famously promised ________.",
+      "options": [
+        "that he would never start a war",
+        "that he would never be unfaithful to his wife",
+        "that he had never smoked marijuana",
+        "that he would never lie"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The published textbook key gives D: that he would never lie.\n\nRelated textbook context from the same section:\n“President Ford won the Republican nomination for the presidency in 1976, narrowly defeating former California governor Ronald Reagan, but he lost the election to his Democratic opponent Jimmy Carter. Carter ran on an “anti-Washington” ticket, making a virtue of his lack of experience in what was increasingly seen as the corrupt politics of the nation’s capital. Accepting his party’s nomination, the former governor of Georgia pledged to combat racism and sexism as well as overhaul the tax structure. He openly proclaimed his faith as a born-again Christian and promised to change the welfare system and provide comprehensive healthcare coverage for neglected citizens who deserved compassion. Most importantly, Jimmy Carter promised that he would “never lie.””\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50198, exercise fs-idp93151904. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50198/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The War on Terror",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe prison operated by the U.S. military for the detention and interrogation of terrorist suspects and “enemy combatants” is located at ________.",
+      "options": [
+        "Kuwait City, Kuwait",
+        "Riker’s Island, New York",
+        "Guantanamo Bay, Cuba",
+        "Lahore, Pakistan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: Guantanamo Bay, Cuba.\n\nRelated textbook context from the same section:\n“The use of unconstitutional wire taps to prosecute the war on terrorism was only one way the new threat challenged authorities in the United States. Another problem was deciding what to do with foreign terrorists captured on the battlefields in Afghanistan and Iraq. In traditional conflicts, where both sides are uniformed combatants, the rules of engagement and the treatment of prisoners of war are clear. But in the new war on terror, extracting intelligence about upcoming attacks became a top priority that superseded human rights and constitutional concerns. For that purpose, the United States began transporting men suspected of being members of al-Qaeda to the U.S. naval base at Guantanamo Bay, Cuba, for questioning. The Bush administration labeled the detainees “unlawful combatants,” in an effort to avoid affording them the rights guaranteed to prisoners of war, such as protection from torture, by international treaties such as the Geneva Conventions. Furthermore, the Justice Department argued that the prisoners were unable to sue for their rights in U.S. courts on the grounds that the constitution did not apply to U.S. territories. It was only in 2006 that the Supreme Court ruled in Hamdan v. Rumsfeld that the military tribunals that tried Guantanamo prisoners violated both U.S. federal law and the Geneva Conventions.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50209, exercise fs-idp61449520. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50209/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "The Domestic Mission",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nWhat investment banking firm went bankrupt in 2008, signaling the beginning of a major economic crisis?",
+      "options": [
+        "CitiBank",
+        "Wells Fargo",
+        "Lehman Brothers",
+        "Price Waterhouse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: Lehman Brothers.\n\nRelated textbook context from the same section:\n“Realizing that the failure of major financial institutions could result in the collapse of the entire U.S. economy, the chairman of the Federal Reserve, Ben Bernanke, authorized a bailout of the Wall Street firm Bear Stearns, although months later, the financial services firm Lehman Brothers was allowed to file for the largest bankruptcy in the nation’s history. Members of Congress met with Bernanke and Secretary of the Treasury Henry Paulson in September 2008, to find a way to head off the crisis. They agreed to use $700 billion in federal funds to bail out the troubled institutions, and Congress subsequently passed the Emergency Economic Stabilization Act, creating the Troubled Asset Relief Program (TARP). One important element of this program was aid to the auto industry: The Bush administration responded to their appeal with an emergency loan of $17.4 billion—to be executed by his successor after the November election—to stave off the industry’s collapse.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50210, exercise fs-idm383557360. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50210/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "New Century, Old Disputes",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nA popular Mexican American studies program was banned by the state of ________, which accused it of causing resentment of White people.",
+      "options": [
+        "New Mexico",
+        "California",
+        "Arizona",
+        "Texas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: Arizona.\n\nRelated textbook context from the same section:\n“In 2010, Arizona passed a law barring the teaching of any class that promoted “resentment” of students of other races or encouraged “ethnic solidarity.” The ban, to take effect on December 31 of that year, included a popular Mexican American studies program taught at elementary, middle, and high schools in the city of Tucson. The program, which focused on teaching students about Mexican American history and literature, was begun in 1998, to convert high absentee rates and low academic performance among Latino students, and proved highly successful. Public school superintendent Tom Horne objected to the course, however, claiming it encouraged resentment of White people and of the U.S. government, and improperly encouraged students to think of themselves as members of a race instead of as individuals.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50212, exercise fs-idm228198608. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50212/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "New Century, Old Disputes",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe first state to allow same-sex marriage was ________.",
+      "options": [
+        "Massachusetts",
+        "New York",
+        "California",
+        "Pennsylvania"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The published textbook key gives A: Massachusetts.\n\nRelated textbook context from the same section:\n“Following Vermont’s lead, several other states legalized same-sex marriages or civil unions among gay and lesbian couples. In 2004, the Massachusetts Supreme Judicial Court ruled that barring gay and lesbian people from marrying violated the state constitution. The court held that offering same-sex couples the right to form civil unions but not marriage was an act of discrimination, and Massachusetts became the first state to allow same-sex couples to marry. Not all states followed suit, however, and there was a backlash in several states. Between 1998 and 2012, thirty states banned same-sex marriage either by statute or by amending their constitutions. Other states attempted, unsuccessfully, to do the same. In 2007, the Massachusetts State Legislature rejected a proposed amendment to the state’s constitution that would have prohibited such marriages.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50212, exercise fs-idm107004160. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50212/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "আন্তর্জাতিক বিষয়াবলি",
+      "collection": "OpenStax — published U.S. History practice",
+      "chapter": "U.S. History",
+      "topic": "Hope and Change",
+      "question": "Published U.S. History practice — not a JU/GST/NU past paper.\n\nThe U.S. Supreme Court ruled the Defense of Marriage Act unconstitutional in ________.",
+      "options": [
+        "2007",
+        "2009",
+        "2013",
+        "2014"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The published textbook key gives C: 2013.\n\nRelated textbook context from the same section:\n“During Barack Obama’s second term in office, courts began to counter efforts by conservatives to outlaw same-sex marriage. A series of decisions declared nine states' prohibitions against same-sex marriage to be unconstitutional, and the Supreme Court rejected an attempt to overturn a federal court ruling to that effect in California in June 2013. Shortly thereafter, the Supreme Court also ruled that the Defense of Marriage Act of 1996 was unconstitutional, because it violated the Equal Protection Clause of the Fourteenth Amendment. These decisions seem to allow legal challenges in all the states that persist in trying to block same-sex unions.”\n\nThe key is supplied by the source; this context was selected mechanically because it mentions the keyed answer. It is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University and contributing authors, U.S. History, m50213, exercise fs-idp283014320. https://github.com/openstax/osbooks-us-history/blob/c05b860a035ff59a2ca1fd44339ef86694e09b57/modules/m50213/index.cnxml | Access for free at https://openstax.org/books/us-history/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Adapted formatting and contextual explanation; published source answer, NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    }
+  ]
+}

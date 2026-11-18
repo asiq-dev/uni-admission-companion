@@ -1,0 +1,7204 @@
+{
+  "provenance": {
+    "source": "BLUCK, Kabir et al.",
+    "license": "CC BY-SA 4.0",
+    "release": {
+      "repository": "minhaj1403/bluck",
+      "commit": "35f702db14eda56905049e214fc4dfa47d00e245",
+      "sha256": "4ebd310c9fea5c15afa9c8bce1aa0c08e1e0f26c27a08d4af2f9ac174cdc9f10",
+      "collected": "2026-11-17",
+      "license": "CC BY-SA 4.0",
+      "licenseDeclaration": "https://arxiv.org/html/2505.21092v2#Sx1",
+      "authors": "Daeen Kabir, Minhajur Rahman Chowdhury Mahim, Sheikh Shafayat, Adnan Sadik, Arian Ahmed, Eunsu Kim, Alice Oh",
+      "note": "Dataset license explicitly declared by authors in the paper Ethical Considerations; README contains placeholder citation. No original exam years/paper links or rationales supplied."
+    },
+    "explanationStatus": "SOURCE KEY ONLY — no detailed source rationale; no invented rationale.",
+    "verification": "Published compiled MCQ source; original exam provenance and answer keys NOT independently authenticated.",
+    "changes": "Invalid records, duplicate stems and conflicting keys excluded; original stem/options/key retained; preparation links and explicit missing-rationale notice added.",
+    "included": 785
+  },
+  "rows": [
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 7,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "invalid_source_record"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 2,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চাঁপাইনবাবগঞ্জ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 3,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সিলেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 8,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "duplicate_source_record"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 4,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রংপুর"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 5,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কৃষির"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 6,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সারি গান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 7,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খুলনা"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 8,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সিলেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 9,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লোকশিল্প"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 10,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঢাকা"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 11,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ভাওয়াইয়া"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 12,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ময়মনসিংহ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 13,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শিল্পী কামরুল হাসান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 14,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জয়নুল আবেদিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 15,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জলোচ্ছ্বাস"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 16,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জয়নুল আবেদিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 17,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জয়নুল আবেদিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 18,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জয়নুল আবেদিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 19,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কামরুল হাসান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 20,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শিল্পী কামরুল হাসান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 21,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কামরুল হাসান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 22,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কামরুল হাসান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 23,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কামরুল হাসান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 24,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কামরুল হাসান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 25,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এস. এম. সুলতান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 26,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এস এম সুলতান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 27,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শিল্পী এস. এম. সুলতান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 28,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রথম বৃক্ষরোপণ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 29,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এস এম সুলতান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 30,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তারেক মাসুদ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 31,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাংলাদেশের স্বাধীনতা যুদ্ধের একটি বাস্তব খণ্ডচিত্র"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 32,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নাসির উদ্দীন ইউসুফ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 33,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তারেক মাসুদ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 34,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ধ্রুব"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 35,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শিল্পী এস এম সুলতানের জীবন কাহিনী অবলম্বনে"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 36,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সত্যজিৎ রায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 37,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খান আতাউর রহমান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 38,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তানভীর মোকাম্মেল"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 39,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তারেক মাসুদ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 40,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আগুনের পরশমণি"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 41,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "conflicting_source_keys"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 88,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "conflicting_source_keys"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 42,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মাটির ময়না"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 43,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুহম্মদ শহীদুল্লাহ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 44,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাপ্তাহিক বিজলী"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 45,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দৌলত কাজী"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 46,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "উপন্যাস"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 47,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বঙ্গভাষা ও সাহিত্য"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 48,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্যারীচাঁদ মিত্র"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 49,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মাইকেল মধুসূদন দত্ত"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 50,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সেলিম আল দীন"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 51,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মানিক বন্দ্যোপাধ্যায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 52,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শরৎচন্দ্র চট্টোপাধ্যায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 53,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মীমাংচীনা"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 54,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মৃচ্ছকটিক"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 55,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সৈয়দ আলী আহসান"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 56,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মানিক বন্দ্যোপাধ্যায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 57,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিয়ে পাগল বুড়ো"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 58,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তরঙ্গভঙ্গ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 59,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 60,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কাহ্নপা"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 61,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পদ্মাবতী"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 62,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গাজী মিয়া"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 63,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঈশ্বরচন্দ্র বিদ্যাসাগর"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 64,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পদ্মরাগ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 65,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কাজী নজরুল ইসলাম"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 66,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মহাকবি কালিদাস"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 67,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফরিদপুর"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 68,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ব্রহ্মবান্ধব উপাধ্যায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 69,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ভানুসিংহ"
+    },
+    {
+      "file": "bn_dataset/Culture/Art, Heritage, & Media.csv",
+      "row": 70,
+      "category": "Culture",
+      "topic": "Art, Heritage, & Media",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শহীদুল্লা কায়সার"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 2,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অ্যাটর্নি জেনারেল"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 3,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২৫"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 4,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩৫ বছর"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 5,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৫ বছর"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 6,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৫ তম"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 8,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দ্বিতীয় ভাগ"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 9,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এ্যাটর্নি জেনারেল"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 10,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাষ্ট্রপতি"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 11,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চেয়ারম্যান, মানবাধিকার কমিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 12,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২ টি"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 13,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রধানমন্ত্রী"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 14,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৬ ডিসেম্বর ১৯৭২"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 15,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৫০"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 16,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শাপলা"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 17,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২ টি"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 18,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৯৭২ সালের ১০ এপ্রিল"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 19,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাষ্ট্রপতি"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 20,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যুদ্ধ ঘোষণা"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 21,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতা"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 22,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শাহ আব্দুল হামিদ"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 23,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাষ্ট্রপতি"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 24,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্পিকার"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 25,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২১"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 26,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুপ্রিম কোর্ট"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 27,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিশ্ববিদ্যালয় মঞ্জুরি কমিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 28,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চার"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 29,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাষ্ট্রপতি"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 30,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাষ্ট্রপতি"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 31,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জাতীয় সংসদের স্পীকার"
+    },
+    {
+      "file": "bn_dataset/Culture/Constitution.csv",
+      "row": 32,
+      "category": "Culture",
+      "topic": "Constitution",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সংবিধান প্রণয়ন"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 2,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাঙ্গামাটি"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 3,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কুমিল্লা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 4,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মিয়ানমার"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 5,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সেন্টমার্টিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 6,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মধুপুর"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 7,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৮৮°০১' থেকে ৯২°৪১' পূর্ব দ্রাঘিমাংশে"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 8,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লালপুর, নাটোর"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 9,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রাক-মৌসুমি বায়ু ঋতুতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 10,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ডাউকি"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 11,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কক্সবাজার"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 12,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩ টি"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 13,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বান্দরবান"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 14,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কক্সবাজার"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 15,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পঞ্চগড়"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 16,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লালমনিরহাট"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 17,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাংলাবান্ধা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 18,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "টারশিয়ারি যুগের"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 19,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পঞ্চগড়"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 20,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চট্টগ্রাম"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 21,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লালমনিরহাট"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 22,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সিলেটের লালখানে"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 23,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দক্ষিণ এশিয়া"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 24,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "থানচি"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 25,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বরিশাল বিভাগ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 26,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেঘালয়"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 27,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কুড়িগ্রাম"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 28,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নারায়ণগঞ্জ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 29,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুনামগঞ্জ-কিশোরগঞ্জ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 30,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্লাইস্টোসিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 31,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চট্টগ্রাম"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 32,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "উত্তর-পূর্বে"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 33,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "টারশিয়ারি পাহাড়"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 34,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শিবগঞ্জ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 35,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হালদা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 36,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তিস্তা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 37,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নাফ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 38,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আজমিরিগঞ্জ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 39,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বগুড়া"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 40,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মিজোরাম"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 41,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ব্রহ্মপুত্র"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 42,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুরমা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 43,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গোয়ালন্দ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 44,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ব্রহ্মপুত্র"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 45,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পদ্মা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 46,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কৈলাস শৃঙ্গ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 47,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হালদা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 48,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাঙ্গু"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 49,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেঘনা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 50,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হালদা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 51,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শিবসা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 52,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হালদা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 53,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঝালকাঠি"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 54,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আত্রাই"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 55,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাংপো"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 56,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জোনাই"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 57,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুরমা-কুশিয়ারা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 58,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাঙ্গু"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 59,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৪"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 60,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হালদা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 61,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যমুনা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 62,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চাঁদপুর"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 63,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সিলেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 64,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মিজোরামের লুসাই পাহাড়ের লংলেহ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 65,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মানস সরোবর"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 66,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যশোর"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 67,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চলন বিল"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 68,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুন্সিগঞ্জে"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 69,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাজশাহী"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 70,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফেনী"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 71,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুন্দরবনের দক্ষিণ উপকূলে"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 72,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাকালুকি"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 73,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুনামগঞ্জ"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 74,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খাগড়াছড়ি জেলায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 75,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বান্দরবান"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 76,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সিলেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 77,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মারমা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 78,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কুমিল্লা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 79,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাঙামাটি"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 80,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কুয়াকাটা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 81,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পটুয়াখালী"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 82,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কক্সবাজার"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 83,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দক্ষিণ তালপট্টি"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 84,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাড়িয়াভাঙ্গা"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 85,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মহেশখালী"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 86,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সেন্টমার্টিনস"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 87,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চট্টগ্রাম"
+    },
+    {
+      "file": "bn_dataset/Culture/Geography.csv",
+      "row": 88,
+      "category": "Culture",
+      "topic": "Geography",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ভোলা"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 2,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গারো"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 3,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাংগ্রাই"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 4,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গারো"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 5,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ময়মনসিংহ"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 6,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পাঙন"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 7,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পুঞ্জি"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 9,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খাসিয়া"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 10,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পার্বত্য চট্টগ্রাম"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 11,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বৌদ্ধ"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 12,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গারো"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 13,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মারমা"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 14,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিজু"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 15,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গারো ও খাসিয়া"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 16,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পহেলা বৈশাখ"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 17,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মনতং"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 18,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাখাইন"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 19,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ওয়ানগালা"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 20,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাঁওতাল নৃগোষ্ঠী"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 21,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গারোদের"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 22,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চৈত্র সংক্রান্তি"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 23,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চাকমা পরিবারগুচ্ছ"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 24,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ওঁরাও"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 25,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মাইতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 26,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সালংজ"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 27,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বোমাং রাজা"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 28,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুন্দরবনের গোলপাতা সংগ্রহকারী"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 29,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাঁওতাল"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 30,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিজু"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 31,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পালি"
+    },
+    {
+      "file": "bn_dataset/Culture/Indigenous People.csv",
+      "row": 32,
+      "category": "Culture",
+      "topic": "Indigenous People",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মারমা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 2,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৭"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 3,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 4,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অ্যাটর্নি-জেনারেল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 241,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "duplicate_source_record"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 5,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাষ্ট্র"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 6,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রিভিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 7,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ডিক্রি প্রদানের পূর্বে যে কোনো সময়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 8,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কেবল সাক্ষ্য অপর্যাপ্ত হলে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 9,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১০"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 10,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফেরত দিবেন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 11,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্বামী-স্ত্রী"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 12,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোন বয়সসীমা নেই"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 274,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "duplicate_source_record"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 13,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মূল দলিল সাক্ষ্য প্রদানকারীর দখলে থাকলে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 14,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আইন পেশার পাশাপাশি আরেকটি ব্যবসা করা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 15,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অংশীদারী চুক্তি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 16,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যে পরিস্থিতিতে অপরাধ সংঘটিত হয়েছে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 17,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অপরাধীর সম্পত্তির থেকে অর্থদণ্ড আদায় করা যাবে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 18,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাষ্ট্র"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 19,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপিল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 20,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যে আদালতের রায়ের বিরুদ্ধে আপীল করা হয়েছে সে আদালত করবে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 21,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 22,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নির্বাহী ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 23,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 24,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জেলা কালেক্টরকে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 25,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফৌজদারী মামলায় কারাদণ্ডপ্রাপ্ত হলে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 26,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৪ জন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 27,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "উক্ত দুই স্থানের যে কোন এক স্থানের আদালতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 28,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খুন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 29,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩০৩ ধারা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 30,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৬ বছরের মধ্যে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 31,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাংলাদেশে বিচার করা যাবে এবং খুনের দণ্ডে দণ্ডিত করা যাবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 32,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৫ দিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 33,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মামলা খারিজ করবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 34,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২ জন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 35,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জামিনযোগ্য"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 36,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১ বছদরের বিনাশ্রম কারদণ্ড"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 37,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 38,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রিভিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 39,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অতিরিক্ত দায়রা জজ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 40,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেট্রোপলিটন ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 41,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জামিনে মুক্ত হতে পারে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 42,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রিভিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 43,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাইকোর্ট বিভাগে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 44,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সরকারের"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 45,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নিযুক্তিয় এডভোকেটদের মধ্যে যিনি সিনিয়র।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 46,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেট্রোপলিটন ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 47,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেট্রোপলিটন ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 48,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজ আদালতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 49,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজ আদালতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 50,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "conflicting_source_keys"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 218,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "conflicting_source_keys"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 51,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩ টি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 52,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাইকোর্ট বিভাগের"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 53,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "conflicting_source_keys"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 140,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "conflicting_source_keys"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 54,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোর্টের"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 55,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আসামী খালাস"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 56,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৫ জন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 57,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আরজি নাকচ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 58,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আরজী ফেরৎ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 59,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দেওয়ানী কারাগারে ৬ মাসের আটক আদেশ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 60,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ম্যজিস্ট্রেটের উপস্থিতিতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 61,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২১ বছর"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 62,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাধ্যতামূলক ও চিরস্থায়ী নিষেধাজ্ঞা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 63,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চুক্তি উদ্ভূত আইনগত আধিকার"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 64,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ভিক্ষুককে অর্থ দান"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 65,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খ' চুক্তি বাতিল করতে পারেন।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 66,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "উইল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 67,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দুর্নীতি দমন কমিশনের"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 68,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পিতা ৩/৪, ৪ স্ত্রী একত্রে ১/৪"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 69,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ক্ষতিপূরণের চুক্তি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 70,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১ বছর"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 71,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপিল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 72,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ক' কে হত্যার জন্য 'খ' এর পুনঃবিচার হবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 73,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জাতীয় সংসদ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 74,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দ্বিগুণ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 75,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 76,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১১"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 77,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রধান বিচারপতি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 78,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অ্যাটর্নি-জেনারেল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 79,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মৃত্যুকালীন ঘোষণা যে কোন ব্যক্তির সামনে দেওয়া যাবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 80,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ক' কে হত্যার জন্য 'খ' এর পুনঃবিচার হবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 81,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপীল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 82,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপীল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 83,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রায় প্রচারের পূর্ব তারিখ পর্যন্ত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 84,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাইকোর্ট বিভাগে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 85,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২০ বছর"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 86,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মৃত্যুদণ্ড।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 87,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোন নির্দিষ্ট সংখ্যক নয়।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 88,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোন অধঃস্তন দেওয়ানী আদালতের কার্যক্রম।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 89,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যখন কোন স্থাবর সম্পত্তি বিক্রির চুক্তি করা হয়।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 90,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাভার সাব-রেজিস্ট্রার অফিসে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 91,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৯০ দিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 92,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৫ দিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 93,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নির্বাচন কমিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 94,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দু'টি মামলার বিচার একত্রে চলবে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 95,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্বত্ব ঘোষণার ডিক্রি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 258,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "duplicate_source_record"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 96,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অনুমতি সাপেক্ষে রিভিশন দায়ের করতে পারে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 97,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আরজি প্রত্যাখ্যান আদেশ।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 98,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোন ডিক্রি রিভিউ এর আদেশের বিরুদ্ধে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 99,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মহানগর দায়রা জজ আদালত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 100,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপীলটি অ্যাবেইট হবে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 101,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পুলিশ কমিশনার।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 102,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অপরাধীকে যে কোন একটি আইনের অধীন অভিযুক্ত ও শান্তি প্রদান করা যাবে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 103,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রধানমন্ত্রী"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 104,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অর্থ বিল।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 105,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্পেশাল ট্রাইব্যুনাল।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 106,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়ারা আদালত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 107,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রধান বিচারপতি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 108,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সম্পত্তি দান"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 109,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৫ জন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 110,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩৫"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 111,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৫ জন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 112,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৬ ডিসেম্বর, ১৯৭২"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 113,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাংলাদেশ জুডিসিয়াল সার্ভিসে নিয়োগকৃত ব্যাক্তিদের মধ্য হতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 114,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিচার বিভাগীয় কর্মে নিযুক্ত ব্যক্তি হতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 115,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিচারিক ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 116,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জেলা ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 117,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এখতিয়ারসম্পন্ন ম্যাজিস্ট্রেট বা থানায় ভারপ্রাপ্ত কর্মকর্তার নিকট পাঠাবে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 118,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১২০ দিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 119,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যে আদালত সম্পত্তি ক্রোক করার আদেশ দিয়েছিল, সেই আদালতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 120,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যে আদালত উক্ত সমন বা পরোয়না বাস্তবায়ন করবে তার নিকট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 121,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২ জন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 122,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজের নিকট রিভিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 123,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেট্রোপলিটন ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 124,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অপরাধ সম্পর্কে জ্ঞাত যেকোনো ব্যক্তি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 125,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লিখিত বা মৌখিকভাবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 126,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অপরাধ আমলে গ্রহণকারী ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 127,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অভিযোগটি খারিজ করে দিতে পারে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 128,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সরকারের"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 129,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আমলযোগ্য মামলায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 130,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেট্রোপলিটন ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 131,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অপরাধের তদন্তের সময় বা অনুসন্ধান বা বিচার শুরুর পূর্বে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 132,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিচারের জন্য।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 133,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজ কোর্টে রিভিশন দায়ের"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 134,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চার্জ শীট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 135,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নির্বাহী ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 136,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নিকটতম নির্বাহী ম্যাজিস্ট্রেটকে যে সুরতহাল করার ক্ষমতাপ্রাপ্ত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 137,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "X বা Z নামক আদালতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 138,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গ বা ঘ নামক আদালতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 139,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাইকোর্ট বিভাগ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 141,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সে বিচার প্রার্থনা করে কিনা জিজ্ঞাসা করা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 142,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অভিযুক্তকে অব্যাহতি দিতে পারে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 143,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পাবলিক প্রসিকিউটর"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 144,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শুনানী মুলতুবির জন্য আবেদন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 145,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মামলার চূড়ান্ত আদেশের পূর্বে যে কোন সময়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 146,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপীল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 147,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দুই (২) বছরের অধিক নয়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 148,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেট্রোপলিটন ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 149,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৮০ দিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 150,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩৬০ দিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 151,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মামলার অনুসন্ধান বা বিচারের পর্যায়ে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 152,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আসামী দন্ডিত হবেনা।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 153,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাইকোর্ট বিভাগে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 154,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অধিকতর অনুসন্ধানের আদেশ বা অতিরিক্ত সাক্ষ্য গ্রহণের আদেশ দিতে পারে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 155,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাইকোর্ট বিভাগ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 156,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চীফ জুডিসিয়াল ম্যাজিস্ট্রেট"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 157,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজ আদালতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 158,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাইকোর্ট বিভাগে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 159,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রিভিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 160,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা আদালতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 161,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজ কোর্টে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 162,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজ কোর্টে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 163,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপীল করার কোন সুযোগ নেই"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 164,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাইকোর্ট বিভাগে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 165,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মহানগর দায়রা জজ আদালতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 166,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোন অপরাধ সংঘটনের নালিশী পিটিশন গ্রহণ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 167,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়রা জজ কোর্টে রিভিশন দায়ের"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 168,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৬ বছরের কম"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 169,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাইকোর্ট বিভাগ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 170,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "B খুনের জন্য ও A শুধুমাত্র নিন্দনীয় নরহত্যার জন্য দায়ী হবে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 171,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বেত্রাঘাত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 172,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মৃত্যুদন্ড"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 173,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অবৈধ বাধা দান"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 174,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যাবজ্জীবন কারাদন্ড সর্বদাই সশ্রম।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 175,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিনাশ্রম"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 176,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১/৪ অংশ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 177,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মৃত ব্যক্তির সম্পত্তি থেকে আদায় করা হবে।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 178,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এককালীন ১৪ দিন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 179,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোন অপরাধ করেনি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 180,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোন অপরাধ করেনি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 181,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অসতর্কতা হেতু কুড়ালের মাথা উড়ে নিকটস্থ ব্যক্তিকে আহত করা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 182,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৯ বছর"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 183,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অনিচ্ছাকৃত নেশাগ্রস্থতার"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 184,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোন অপরাধ করেনি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 185,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোন অপরাধ হয়নি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 186,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "X অপরাধ করেছে যেহেতু সে ভুল ধারণা দিয়ে সম্মতি নিয়েছে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 187,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খুন এবং রাষ্ট্রের বিরুদ্ধে অপরাধ যা মৃত্যুদন্ডযোগ্য।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 188,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অপহরণের অভিপ্রায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 189,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আক্রমনকারীকে হত্যা না করলে তার মূল্যবান জিনিসপত্র জোরপূর্বক নিয়ে যেত।"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 190,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাতের বেলায় ঘর ভঙ্গে অনুপ্রবেশ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 191,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "A এবং B কোন অপরাধ করেনি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 192,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যদিও C কাজটি অস্বীকার করেছে, তবুও A প্ররোচনার জন্য দায়ী হবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 193,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "A খুনে প্ররোচনার জন্য দণ্ডিত হবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 194,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "B কোনো অপরাধ করেনি, কিন্তু A বাসগৃহে আগুন লাগানোর অপসহায়তার জন্য দায়ী হবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 195,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "B কোনো অপরাধ করেনি, কিন্তু A চুরি অপসহায়তার জন্য দায়ী হবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 196,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তারা সবাই সমানভাবে দায়ী হবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 197,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "A, B এবং C সকলেই অভিযুক্ত হবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 198,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খ এর সমান শাস্তি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 199,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "A অর্থদণ্ডসহ ৭ বৎসর পর্যন্ত যেকোনো বর্ণনার কারাবাসে দণ্ডিত হতে পারে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 200,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "A অর্থদণ্ডসহ ১৪ বৎসর পর্যন্ত যেকোনো বর্ণনার কারাবাসে দণ্ডিত হতে পারে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 201,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মিথ্যা সাক্ষ্য উদ্ভাবন বা তৈরী"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 202,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কোনো অপরাধ করেনি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 203,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খুন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 204,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খুন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 205,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৫ টি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 206,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নিন্দনীয় নরহত্যা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 207,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১টি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 208,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মৃত্যুদণ্ড"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 209,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যেকোনো বর্ণনার ৫ বৎসর কারাবাস"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 210,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মারাত্মক জখম"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 211,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গুরুতর আঘাত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 212,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জমি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 213,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অপরাধমূলক সম্পত্তি তসরুপ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 214,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩ বৎসর কারাদণ্ড"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 215,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চুরি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 216,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দস্যুতা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 217,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৪ জন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 219,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৫ জন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 220,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অসাধুভাবে আত্মসাৎ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 221,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ছদ্মবেশে প্রবঞ্চনা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 222,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রতারণা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 223,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ছদ্মবেশে প্রবঞ্চনা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 224,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অপথে গৃহ প্রবেশ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 225,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পুরুষ আসামী"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 226,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৭ বছর পর্যন্ত কারাদণ্ড বা অর্থদণ্ড বা উভয়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 227,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রায় ঘোষণা করে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 228,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দায়িক"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 229,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দুটি জেলার যেকোনোটিতে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 230,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চট্রগ্রামে বা ঢাকায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 231,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মোকাদ্দমা স্থগিত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 232,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আরজি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 233,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আরজি বা জবাব"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 234,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রিভিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 235,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আরজি ফেরত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 236,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "3000"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 237,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপীল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 238,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপীল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 239,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "15"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 240,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দেনাদার প্রতারণা বা বলপ্রয়োগ দ্বারা ডিক্রি জারিতে বাধা প্রদান করলে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 242,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাংলাদেশ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 243,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মোকাদ্দমার কার্যক্রম স্থগিত করণ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 244,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আপীল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 245,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রিভিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 246,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রিভিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 247,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আর্থিক ক্ষতিপূরণ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 248,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দেওয়ানী মোকাদ্দমায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 249,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রতিরোধমূলক প্রতিকার"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 250,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শুধু রিভিশন"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 251,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খ ক্ষতিপূরণ লাভ করতে পারবে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 252,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লিখিত ও নিবন্ধিত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 253,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "3"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 254,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আদালত দ্বারা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 255,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রদ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 256,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চুক্তিটি বাতিলযোগ [voidable contract] বা অবসানযোগ্য [terminable] হয়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 257,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এ্যাড-ভোলোরাম"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 259,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৬ বছর"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 260,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৪৪ ধারা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 261,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নিষেধাজ্ঞার দ্বারা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 262,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৬৭ টি"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 263,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সরকারী দলিল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 264,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্বীকারোক্তি মতে আলামত উদ্ধার"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 265,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এস্টোপেল"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 266,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বি এর মৃত্যু"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 267,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পূর্ববর্তী দণ্ডাদেশ"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 268,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পূর্ববর্তী সৎচরিত্র"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 269,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "A এর উপর"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 270,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ক এর উপর"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 271,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দলিলটি হারিয়ে গেছে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 272,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ক' হলো চোর"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 273,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "conflicting_source_keys"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 282,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "excluded",
+      "reason": "conflicting_source_keys"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 275,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সকলেই"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 276,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দেওয়ানী এবং ফৌজদারী উভয় মামলায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 277,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যোগ্য সাক্ষী"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 278,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আদালত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 279,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পুনঃজবানবন্দীকালে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 280,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জেরায় [cross-examination]"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 281,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আদালত"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 283,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দেওয়ানী কার্যবিধির ক্ষেত্রে"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 284,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সংবিধিবদ্ধ সংস্থা"
+    },
+    {
+      "file": "bn_dataset/Culture/Law.csv",
+      "row": 285,
+      "category": "Culture",
+      "topic": "Law",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৩ বৎসর"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 2,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৪ টি"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 3,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৭ জানুয়ারি ১৯৭২"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 4,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১০ঃ৬"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 5,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৪ টি"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 6,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কাঁঠাল"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 7,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কামরুল হাসান"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 8,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এএনএ সাহা"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 9,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আমগাছ"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 10,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাহাত্তরের সংবিধানের মূলনীতিসমূহ"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 11,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মোহাম্মদ ইদ্রিস"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 12,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাউল"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 13,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সৈয়দ আলী আহসান"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 14,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রবীন্দ্রনাথ ঠাকুর"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 15,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জাতিসত্ত্বা"
+    },
+    {
+      "file": "bn_dataset/Culture/National Issues.csv",
+      "row": 16,
+      "category": "Culture",
+      "topic": "National Issues",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিদ্রোহী কবি"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 2,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বান্দরবান"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 3,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মৌলভীভাজার"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 4,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বোরো"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 5,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সিলেটের মালনীছড়ায়"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 6,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যশোর"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 7,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফসল কাটার উৎসব"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 8,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাজশাহী"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 9,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জুম"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 10,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 11,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ধুন্দল"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 12,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুন্দরবন"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 13,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুন্দরবন"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 14,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাড়িয়াভাঙ্গা"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 15,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "৫ টি"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 16,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রাকৃতিক গ্যাস"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 17,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নেত্রকোনা"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 18,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাঙ্গু ভ্যালি"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 19,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হরিপুর"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 20,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খুলনা শিপইয়ার্ড"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 21,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তৈরী পোষাক"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 22,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কয়লা"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 23,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সন্দ্বীপ"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 24,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কক্সবাজার"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 25,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফেনী"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 26,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কাপ্তাই"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 27,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাগেরহাট"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 28,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পায়রা"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 29,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঈশ্বরদী, পাবনা"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 30,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ভেড়ামারা"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 31,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পটুয়াখালী"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 32,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চিংড়ি"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 33,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ব্ল্যাক বেঙ্গল"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 34,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৭ আগষ্ট ২০১৭"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 35,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জামদানি শাড়ী"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 36,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইলিশ মাছ"
+    },
+    {
+      "file": "bn_dataset/Culture/Resources.csv",
+      "row": 37,
+      "category": "Culture",
+      "topic": "Resources",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মোঘল আমলে"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 2,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অস্ট্রিক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 3,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অস্ট্রিক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 4,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঐতরেয় আরণ্যক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 5,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সিলেট ও চট্টগ্রাম"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 6,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পুণ্ড্র"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 7,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বঙ্গ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 8,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কুমিল্লা ও নোয়াখালী"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 9,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মহাস্থানগঢ়"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 10,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চাঁপাইনবাবগঞ্জ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 11,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পুণ্ড্রনগর"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 12,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তাম্রলিপ্তি"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 13,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুর্শিদাবাদে"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 14,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বঙ্গ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 15,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মৌর্য"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 16,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুর্শিদাবাদ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 17,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বরেন্দ্র"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 18,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাংলায়"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 19,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সমতট"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 20,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চন্দ্রদ্বীপ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 21,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বর্ধমান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 22,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শশাঙ্ক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 23,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কেশব সেন"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 24,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চন্দ্রগুপ্ত মৌর্য"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 25,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ধর্মপাল"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 26,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পাল"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 27,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নওগাঁ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 28,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সম্রাট অশোক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 29,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নালান্দা"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 30,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গোপাল"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 31,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বৌদ্ধ ও হিন্দু"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 32,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মৌর্যদের"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 33,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গোপাল"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 34,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেগাস্থিনিস"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 35,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গৌড়"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 36,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিক্রমাদিত্য"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 37,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কণিষ্ক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 38,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দাক্ষিণাত্য"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 39,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হুগলীতে"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 40,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পাল রাজা"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 41,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শ্রাবস্তী"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 42,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হর্ষবর্ধন"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 43,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হযরত শাহ জালাল"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 44,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বল্লাল সেন"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 45,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ধর্মপাল"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 46,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পাল বংশ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 47,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দিব্য"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 48,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পাল যুগ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 49,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বল্লাল সেন"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 50,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাজা শশাঙ্ক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 51,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কর্ণসুবর্ণ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 52,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আলাউদ্দিন হোসেন শাহ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 53,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হোসেন শাহ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 54,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শামসুদ্দীন ইলিয়াস শাহ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 55,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুহম্মদ বিন কাসিম"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 56,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আলাউদ্দিন হোসেন শাহ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 57,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইখতিয়ার উদ্দিন বখতিয়ার খলজি"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 58,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুহম্মদ বিন তুঘলক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 59,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুহম্মদ বিন তুঘলক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 60,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফখরুদ্দিন মুবারক শাহ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 61,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুহম্মদ বিন তুঘলক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 62,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইলতুৎমিশ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 63,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কুতুব উদ্দিন আইবেক"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 64,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুলতানা রাজিয়া"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 65,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঢাকা"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 66,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আকবর"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 67,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শেরশাহ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 68,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জান্নাতাবাদ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 69,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সড়ক ই আজম"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 70,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লাহোরে"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 71,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাসারাম"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 72,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আবুল ফজল"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 73,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফারগানা"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 74,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শেরশাহ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 75,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইসলাম খান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 76,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইসলাম খান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 77,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শায়েস্তা খান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 78,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইসলাম খান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 79,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইসলাম খান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 80,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মীর জুমলা"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 81,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাংলার বারো ভূঁইয়াদের একজন"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 82,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঈসা খাঁ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 83,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বারো ভূঁইয়া নামে"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 84,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুর্শিদকুলী খান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 85,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মুর্শিদকুলী খান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 86,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খাজা হাবিবুল্লাহ"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 87,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মারাঠি"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 88,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মির্জা মুহম্মদ আলি"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 89,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সিরাজউদ্দৌলা"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 90,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সিন ফ্রে"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 91,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মীর কাশিম"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 92,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নবাব মীর কাসিম"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 93,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ভাগীরথী"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 94,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পর্তুগিজরা"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 95,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সম্রাট শাহজাহান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 96,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শায়েস্তা খান"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 97,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শাহজাহানের আমলে"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 98,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কলকাতায়"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 99,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুরাট"
+    },
+    {
+      "file": "bn_dataset/History/Ancient Bengal.csv",
+      "row": 100,
+      "category": "History",
+      "topic": "Ancient Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জাহাঙ্গীর"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 2,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লর্ড কর্নওয়ালিস"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 3,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফুলার"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 4,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লর্ড রিপন"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 5,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাজী শরীয়তুল্লাহ"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 6,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দুদু মিয়া"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 7,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রামমোহন রায়"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 8,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তিতুমীর"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 9,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নারিকেলবাড়িয়া"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 10,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দুদু মিয়া"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 11,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাঁশ"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 12,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফকির সন্ন্যাসী আন্দোলন"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 13,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাহাদুর শাহ জাফর"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 14,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফকির সন্নাসী আন্দোলনের"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 15,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফকির মজনু শাহ"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 16,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্যার সৈয়দ আহমদ খান"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 17,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তিতুমীর"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 18,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্যার সৈয়দ আহমদ খান"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 19,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঈশ্বরচন্দ্র বিদ্যাসাগর"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 20,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হেনরি লুই বিভিয়ান ডিরোজিও"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 21,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নওয়াব আবদুল লতিফ"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 22,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লর্ড বেন্টিঙ্ক"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 23,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পূর্ববঙ্গ ও আসাম"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 24,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাজ পঞ্চম জর্জ"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 25,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লর্ড কার্জন"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 26,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সুরেন্দ্রনাথ বন্দ্যোপাধ্যায়"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 27,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নবাব সলিমুল্লাহ্‌"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 28,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কবি মুকুন্দ দাস"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 29,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লর্ড হার্ডিঞ্জ"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 30,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্বদেশী আন্দোলন"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 31,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সূর্যসেন"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 32,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রীতিলতা ওয়াদ্দেদার"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 33,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চট্টগ্রামে"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 34,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্বদেশি"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 35,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মাওলানা মোহাম্মদ আলী"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 36,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চিত্তরঞ্জন দাশ"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 37,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হোসেন শহীদ সোহরাওয়ার্দী"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 38,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নেতাজী সুভাষচন্দ্র বসু"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 39,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এ. কে. ফজলুল হক"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 40,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খাজা নাজিমউদ্দীন"
+    },
+    {
+      "file": "bn_dataset/History/British Bengal.csv",
+      "row": 41,
+      "category": "History",
+      "topic": "British Bengal",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মোহাম্মাদ আলী জিন্নাহ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 2,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শামসুল হক"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 3,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মোহাম্মদ আলী জিন্নাহ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 4,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ফ্রেডারিক বোর্ন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 5,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চৌধুরী রহমত আলী"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 6,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আবুল কাশেম"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 7,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আব্দুল গাফফার চৌধুরী"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 8,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৯৯৯ সালের ১৭ নভেম্বর"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 9,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তমদ্দুন মজলিশ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 10,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খাজা নাজিম উদ্দীন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 11,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ধীরেন্দ্রনাথ দত্ত"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 12,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গাজীউল হক"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 13,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আসাদ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 14,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাসান হাফিজুর রহমান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 15,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৯৪৮ সালে"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 16,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শিল্পী হামিদুর রহমান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 17,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রফিক"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 18,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হাবিবুর রহমান শেলী"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 19,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আবদুল লতিফ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 20,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইউনেস্কো"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 21,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ন্যাশনাল আওয়ামী পার্টি"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 22,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কৃষি, সমবায় ও স্থানীয় সরকার"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 23,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "যুক্তফ্রন্ট"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 24,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রতিরক্ষা ও পররাষ্ট্র"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 25,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিচার ব্যবস্থা"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 26,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ছয়দফা আন্দোলন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 27,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "প্রাদেশিক স্বায়ত্তশাসন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 28,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাঙ্গালি জাতীয়তাবাদের ধারণার বিকাশ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 29,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রাষ্ট্র বনাম শেখ মুজিবর রহমান ও অন্যান্য"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 30,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ড. শামসুজ্জোহা"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 31,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "পূর্ব পাকিস্তানে অসহযোগ আন্দোলন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 32,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "২ মার্চ ১৯৭১"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 33,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৮ এপ্রিল, কলকাতায়"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 34,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "দ্য স্পিচ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 35,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্বাধীনতা, এই শব্দটি কীভাবে আমাদের হলো'- নির্মলেন্দু গুণ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 36,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইস্টবেঙ্গল রেজিমেন্ট"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 37,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অপারেশন সার্চ লাইট"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 38,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মাহবুব উদ্দিন আহমেদ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 39,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এ এইচ এম কামারুজ্জামান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 40,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তাজউদ্দিন আহমেদ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 41,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জয় বাংলা"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 42,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১০ এপ্রিল ১৯৭১"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 43,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১৭ এপ্রিল ১৯৭১"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 44,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কলকাতা"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 45,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বঙ্গবন্ধু শেখ মুজিবুর রহমান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 46,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রুহুল কুদ্দুস"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 47,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মাওলানা আব্দুল হামিদ খান ভাসানী"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 48,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কর্নেল (অব.) এম. এ. রব"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 49,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিশেষ কূটনৈতিক প্রতিনিধি"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 50,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অধ্যাপক ইউসুফ আলী"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 51,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আব্দুল মান্নান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 52,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ক্যাপ্টেন এম মনসুর আলী"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 53,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মেহেরপুরের বৈদ্যনাথতলায়"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 54,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "এ এইচ এম কামরুজ্জামান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 55,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তেলিয়াপাড়া স্ট্যাটেজি"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 56,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঢাকা"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 57,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ক্র্যাক প্লাটুন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 58,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শাহাবুদ্দীন আহমেদ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 59,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খালেদ মোশাররফ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 60,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "১১"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 61,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সাইমন ড্রিং"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 62,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইপিআর"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 63,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইউ কে চিং মারমা"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 64,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কালুরঘাট, চট্টগ্রাম"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 65,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "শহীদুল ইসলাম"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 66,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বীরশ্রেষ্ঠ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 67,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তারামান বিবি ও সিতারা বেগম"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 68,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আশালতা বৈদ্য"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 69,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ডব্লিউ এস ওডারল্যান্ড"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 70,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "লে. জেনারেল জগজিৎ অরোরার নেতৃত্ব"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 71,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "অ্যালেন গিন্সবার্গ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 72,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নিউইয়র্ক"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 73,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জর্জ হ্যারিসন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 74,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বাংলার ধুন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 75,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ড. সৈয়দ মুহম্মদ শামসুজ্জোহা"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 76,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সোভিয়েত ইউনিয়ন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 77,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চীন ও যুক্তরাষ্ট্র"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 78,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ভুটান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 79,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ইরাক"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 80,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কেন্দ্রীয় শহিদ মিনার"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 81,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "খুলনা"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 82,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রক্তসোপান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 83,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সৈয়দ শামসুল হক"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 84,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সেলিনা হোসেন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 85,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হুমায়ূন আহমেদ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 86,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জহির রায়হান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 87,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "আলমগীর কবির"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 89,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জহির রায়হান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 90,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হুমায়ূন আহমেদ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 91,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তারেক মাসুদ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 92,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "নাসির উদ্দিন ইউসুফ"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 93,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ওরা ১১ জন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 94,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চাষী নজরুল ইসলাম"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 95,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ঋত্বিক ঘটক"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 96,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "তানভীর মোকাম্মেল"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 97,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "কবীর আনোয়ার"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 98,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "মোরশেদুল ইসলাম"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 99,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "স্টপ জেনোসাইড"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 100,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "বিজয় কেতন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 101,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "রংপুর সেনানিবাস"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 102,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "চাঁদপুর"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 103,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "ময়মনসিংহ কৃষি বিশ্ববিদ্যালয়"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 104,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "হামিদুজ্জামান খান"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 105,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "সৈয়দ মইনুল হোসেন"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 106,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "জাগ্রত চৌরঙ্গী"
+    },
+    {
+      "file": "bn_dataset/History/Pakistan Era.csv",
+      "row": 107,
+      "category": "History",
+      "topic": "Pakistan Era",
+      "subject": "বাংলাদেশ বিষয়াবলি",
+      "status": "included",
+      "answer": "গোবিন্দ হালদার"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+/* The working study interface extends the existing visual foundation. */
+.form-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+.form-select { background-color: var(--bg); border-color: var(--line); color: var(--text); border-radius: 8px; padding: 11px 36px 11px 13px; font-size: 14px; }
+.form-select:focus { border-color: var(--brand); box-shadow: 0 0 0 3px #7caa9222; }
+.button-row { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+#import-form button, #bank-export-parts button { max-width: 100%; white-space: normal; }
+.study-welcome { display: flex; align-items: center; gap: 28px; padding: 30px; margin-bottom: 24px; background: var(--hero); }
+.study-welcome > div:first-child { flex: 1; }
+.study-welcome h2 { font-size: 27px; line-height: 1.4; }
+.study-welcome .muted { margin: 12px 0 22px; }
+.daily-goal { text-align: center; border-left: 1px solid var(--line); padding: 8px 20px 8px 30px; }
+.daily-goal > strong { display: block; font-size: 36px; }
+.daily-goal small { font-size: 18px; font-weight: 400; color: var(--muted); }
+.daily-goal > span, .daily-goal p { font-size: 12px; color: var(--muted); }
+.daily-goal p { margin-top: 12px; }
+.study-tabs { display: flex; gap: 8px; margin-bottom: 24px; flex-wrap: wrap; }
+.study-tabs a { padding: 9px 13px; border: 1px solid var(--line); border-radius: 8px; font-size: 12px; background: var(--surface); }
+.study-tabs a[aria-current], .study-tabs a:hover { background: var(--soft); color: var(--brand); border-color: var(--brand); }
+.question-panel { padding: 28px; }
+.question-meta { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; color: var(--muted); font-size: 12px; }
+.question-meta .bookmark-button { margin-left: auto; }
+.question-text { font-family: Inter, 'Noto Sans Bengali', sans-serif; font-size: 22px; font-weight: 600; line-height: 1.85; margin-bottom: 22px; overflow-wrap: anywhere; }
+.answer-options { display: grid; gap: 12px; }
+.answer-option { display: flex; align-items: center; gap: 14px; width: 100%; text-align: left; padding: 16px 18px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--text); font-family: Inter, 'Noto Sans Bengali', sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; }
+.answer-option > span { display: inline-grid; place-items: center; min-width: 30px; height: 30px; border-radius: 7px; background: var(--soft); font: 600 12px Inter, sans-serif; }
+button.answer-option:hover:not(:disabled), .answer-option.selected { border-color: var(--brand); background: var(--soft); }
+.answer-option.correct { border-color: #488368; background: #e9f5ed; color: #21583a; }
+.answer-option.incorrect { border-color: #bd786b; background: #fbece7; color: #8a3a2e; }
+.answer-option:disabled { opacity: 1; cursor: default; }
+.answer-feedback { margin: 24px 0; padding: 18px; background: var(--soft); border-radius: 10px; font-size: 15px; line-height: 1.9; }
+.answer-feedback p { margin: 8px 0 0; }
+.session-controls { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; }
+.exam-nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+.question-number { border: 1px solid var(--line); border-radius: 7px; min-width: 40px; min-height: 40px; background: var(--bg); color: var(--text); }
+.question-number.answered { background: var(--soft); border-color: #86af98; }
+.question-number.current { outline: 2px solid var(--brand); outline-offset: 2px; }
+.exam-timer { color: var(--brand); font-size: 24px; font-variant-numeric: tabular-nums; }
+.result-counts { display: flex; gap: 30px; flex-wrap: wrap; margin: 25px 0; }
+.result-counts strong { display: block; font-size: 30px; }
+.result-counts span { color: var(--muted); }
+.history-test { display: flex; width: 100%; text-align: left; justify-content: space-between; align-items: center; gap: 16px; border: 0; border-bottom: 1px solid var(--line); background: transparent; color: var(--text); padding: 18px 0; }
+.history-test small { display: block; color: var(--muted); font-size: 11px; margin-top: 6px; }
+.history-test strong { color: var(--brand); white-space: nowrap; }
+.bank-question { padding: 20px 0; border-bottom: 1px solid var(--line); overflow-wrap: anywhere; }
+.bank-question summary { cursor: pointer; font-size: 15px; line-height: 1.9; }
+.bank-question .pill { margin-right: 8px; }
+.import-status { white-space: pre-wrap; overflow-wrap: anywhere; color: var(--brand); }
+.mobile-offline-status { display: none; }
+.stat-card .stat-top > .icon { color: var(--brand); }
+.stat-card > strong { margin-top: 20px; }
+.activity-copy { min-width: 0; }
+.activity-copy p { overflow-wrap: anywhere; }
+[data-bs-theme=dark] .answer-option.correct { background: #254331; color: #c6ebd4; }
+[data-bs-theme=dark] .answer-option.incorrect { background: #482f29; color: #f4c6bb; }
+@media (max-width: 767px) {
+  .mobile-offline-status { display: block; margin: 0; padding: 7px 20px; color: var(--muted); font-size: 10px; background: var(--soft); }
+  .study-welcome { flex-direction: column; align-items: stretch; padding: 24px; gap: 24px; }
+  .study-welcome h2 { font-size: 25px; }
+  .daily-goal { text-align: left; border-left: 0; border-top: 1px solid var(--line); padding: 18px 0 0; }
+  .daily-goal strong { display: inline-block; margin-right: 12px; }
+  .daily-goal p { margin-bottom: 8px; }
+  .question-panel { padding: 20px; }
+  .question-text { font-size: 20px; }
+  .answer-option { padding: 14px 12px; gap: 10px; font-size: 16px; }
+  .form-grid { grid-template-columns: 1fr; gap: 18px; }
+  .section-heading { flex-wrap: wrap; }
+  .subject-card h3 { margin-bottom: 0; }
+  .study-tabs a { font-size: 11px; padding: 10px; }
+  .result-counts { gap: 22px; }
+  .history-test { flex-direction: column; align-items: flex-start; }
+  .question-meta .bookmark-button { margin-left: 0; }
+}
+
+/* Preserve paragraphs and wrap long source references in either script. */
+.question-explanation, .question-text { white-space: pre-wrap; overflow-wrap: anywhere; }
+.question-explanation { line-height: 1.9; }
+.question-panel > .muted, .bank-question > .muted, .review-list .muted { overflow-wrap: anywhere; }
+#papers-years .btn { white-space: normal; max-width: 100%; }
+#papers-view .bank-question, #papers-view .feature-note { overflow-wrap: anywhere; }
+#papers-years [aria-pressed="true"] { font-weight: 700; border-width: 2px; }

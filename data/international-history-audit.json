@@ -1,0 +1,3534 @@
+{
+  "provenance": {
+    "source": "OpenStax/Rice University and contributing authors, U.S. History",
+    "license": "CC BY-NC-SA 4.0",
+    "release": {
+      "repository": "openstax/osbooks-us-history",
+      "commit": "c05b860a035ff59a2ca1fd44339ef86694e09b57",
+      "archive": "osbooks-us-history-xml.zip",
+      "sha256": "ab58664a6c3bdc956ce772d794d453b49c254a556b3a317710f58053c69850bb",
+      "collected": "2026-11-17"
+    },
+    "changes": "Published MCQ stems/options/keys retained; textbook context mechanically selected from the same section; preparation links added.",
+    "verification": "Published key retained; context selection NOT independently expert-verified; supplementary subject practice, not university past papers.",
+    "included": 51
+  },
+  "rows": [
+    {
+      "module": "m00001",
+      "exercise": "exer-00001",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m00001",
+      "exercise": "exer-00002",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49968",
+      "exercise": "fs-idm23107536",
+      "status": "included",
+      "answer": "the Crusades"
+    },
+    {
+      "module": "m49968",
+      "exercise": "fs-idm52957872",
+      "status": "included",
+      "answer": "Venice"
+    },
+    {
+      "module": "m49968",
+      "exercise": "fs-idm49976592",
+      "status": "included",
+      "answer": "Jews and Muslims"
+    },
+    {
+      "module": "m49968",
+      "exercise": "fs-idm46810720",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49968",
+      "exercise": "fs-idm34522672",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49981",
+      "exercise": "fs-idm26945568",
+      "status": "included",
+      "answer": "Timbuktu"
+    },
+    {
+      "module": "m49981",
+      "exercise": "fs-idm15915456",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m49981",
+      "exercise": "fs-idm123615296",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49981",
+      "exercise": "fs-idm49846560",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49981",
+      "exercise": "fs-idm47455072",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49981",
+      "exercise": "fs-idm77941968",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49981",
+      "exercise": "fs-idm2906688",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49986",
+      "exercise": "fs-idp46070112",
+      "status": "included",
+      "answer": "Anasazi"
+    },
+    {
+      "module": "m49986",
+      "exercise": "fs-idm14330752",
+      "status": "included",
+      "answer": "Olmec"
+    },
+    {
+      "module": "m49986",
+      "exercise": "fs-idm43223200",
+      "status": "included",
+      "answer": "Inca"
+    },
+    {
+      "module": "m49986",
+      "exercise": "fs-idp10303440",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49990",
+      "exercise": "fs-idm83724880",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49990",
+      "exercise": "fs-idm163899552",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49990",
+      "exercise": "fs-idm56148592",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49992",
+      "exercise": "fs-idp34729504",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49992",
+      "exercise": "fs-idp52988816",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49992",
+      "exercise": "fs-idp18402576",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49992",
+      "exercise": "fs-idp58535984",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49992",
+      "exercise": "fs-idp13035056",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49992",
+      "exercise": "fs-idp11958384",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49992",
+      "exercise": "fs-idp63521728",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49992",
+      "exercise": "fs-idm962608",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49994",
+      "exercise": "fs-idp11204496",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49994",
+      "exercise": "fs-idm39224816",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49994",
+      "exercise": "fs-idm2880304",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49994",
+      "exercise": "fs-idm49291824",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49995",
+      "exercise": "fs-idm51792",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49995",
+      "exercise": "fs-idp1567984",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49995",
+      "exercise": "fs-idm6168768",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49996",
+      "exercise": "fs-idm30740512",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49996",
+      "exercise": "fs-idm87682768",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49996",
+      "exercise": "fs-idp20925664",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49996",
+      "exercise": "fs-idm34342816",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49996",
+      "exercise": "fs-idm39566880",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49998",
+      "exercise": "fs-idm5684544",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49998",
+      "exercise": "fs-idp19123920",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49998",
+      "exercise": "fs-idp4522608",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49999",
+      "exercise": "fs-idm2144",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49999",
+      "exercise": "fs-idp1016528",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49999",
+      "exercise": "fs-idp23850080",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49999",
+      "exercise": "fs-idp29546352",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m49999",
+      "exercise": "fs-idp47403536",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49999",
+      "exercise": "fs-idp21305568",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49999",
+      "exercise": "fs-idm750944",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m49999",
+      "exercise": "fs-idp45636496",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50000",
+      "exercise": "fs-idm102769264",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50000",
+      "exercise": "fs-idm37120",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50000",
+      "exercise": "fs-idm42833680",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50007",
+      "exercise": "fs-idm35145952",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50007",
+      "exercise": "fs-idm34276800",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50007",
+      "exercise": "fs-idm60112032",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50007",
+      "exercise": "fs-idm4053760",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50007",
+      "exercise": "fs-idm3923328",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50007",
+      "exercise": "fs-idp33202640",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50007",
+      "exercise": "fs-idm950656",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50007",
+      "exercise": "fs-idm8060512",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50007",
+      "exercise": "fs-idp21199440",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50014",
+      "exercise": "fs-idm69581264",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50014",
+      "exercise": "fs-idm59484912",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50014",
+      "exercise": "fs-idm72483136",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50015",
+      "exercise": "fs-idm22490416",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50015",
+      "exercise": "fs-idm42602160",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50015",
+      "exercise": "fs-idm30753856",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50016",
+      "exercise": "fs-idm22658320",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50016",
+      "exercise": "fs-idm6272400",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50016",
+      "exercise": "fs-idm11353872",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50017",
+      "exercise": "fs-idm16595280",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50017",
+      "exercise": "fs-idp2581680",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50020",
+      "exercise": "fs-idp17434368",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50020",
+      "exercise": "fs-idm2821152",
+      "status": "included",
+      "answer": "Massachusetts"
+    },
+    {
+      "module": "m50020",
+      "exercise": "fs-idp2939856",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50020",
+      "exercise": "fs-idp4602592",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50020",
+      "exercise": "fs-idp34117744",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50020",
+      "exercise": "fs-idm2751104",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50020",
+      "exercise": "fs-idm69881696",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50021",
+      "exercise": "fs-idm24270480",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50021",
+      "exercise": "fs-idm41661056",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50021",
+      "exercise": "fs-idm4637920",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50022",
+      "exercise": "fs-idm96514944",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50022",
+      "exercise": "fs-idm47459552",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50022",
+      "exercise": "fs-idm50029776",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50023",
+      "exercise": "fs-idp11149920",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50023",
+      "exercise": "fs-idm155168",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50024",
+      "exercise": "fs-idm2243168",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50024",
+      "exercise": "fs-idp28471760",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50024",
+      "exercise": "fs-idp37111136",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50026",
+      "exercise": "fs-idm122624064",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50026",
+      "exercise": "fs-idm165023472",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50026",
+      "exercise": "fs-idm184651552",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50026",
+      "exercise": "fs-idm110693488",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50027",
+      "exercise": "fs-idm97982096",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50027",
+      "exercise": "fs-idm75993488",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50027",
+      "exercise": "fs-idm90469232",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50027",
+      "exercise": "fs-idm60821216",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50027",
+      "exercise": "fs-idm43633824",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50028",
+      "exercise": "fs-idp6723008",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50028",
+      "exercise": "fs-idm41118848",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50029",
+      "exercise": "fs-idm54987872",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50029",
+      "exercise": "fs-idp1696480",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50029",
+      "exercise": "fs-idm145507648",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50029",
+      "exercise": "fs-idm46425248",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50029",
+      "exercise": "fs-idm5451952",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50029",
+      "exercise": "fs-idm21223328",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50029",
+      "exercise": "fs-idm106223072",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50029",
+      "exercise": "fs-idm125194592",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50031",
+      "exercise": "fs-idp52780880",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50031",
+      "exercise": "fs-idm55206352",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50031",
+      "exercise": "fs-idm120936640",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50034",
+      "exercise": "fs-idm120754928",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50034",
+      "exercise": "fs-idm171674192",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50034",
+      "exercise": "fs-idm72467968",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50035",
+      "exercise": "fs-idp38489120",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50035",
+      "exercise": "fs-idm129691088",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50035",
+      "exercise": "fs-idp8137600",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50036",
+      "exercise": "fs-idm38231440",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50036",
+      "exercise": "fs-idm14830704",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50036",
+      "exercise": "fs-idm39015072",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50036",
+      "exercise": "fs-idp66787792",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50036",
+      "exercise": "fs-idp41371568",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50036",
+      "exercise": "fs-idm25709344",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50036",
+      "exercise": "fs-idm42247568",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50036",
+      "exercise": "fs-idp254775136",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50036",
+      "exercise": "fs-idp22298784",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50038",
+      "exercise": "fs-idm149748496",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50038",
+      "exercise": "fs-idm149271632",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50038",
+      "exercise": "fs-idm28119440",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50039",
+      "exercise": "fs-idm91813520",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50039",
+      "exercise": "fs-idm43472448",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50039",
+      "exercise": "fs-idm152315456",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50041",
+      "exercise": "fs-idp2375984",
+      "status": "included",
+      "answer": "relations with France"
+    },
+    {
+      "module": "m50041",
+      "exercise": "fs-idm48332208",
+      "status": "included",
+      "answer": "the XYZ affair"
+    },
+    {
+      "module": "m50041",
+      "exercise": "fs-idm9559776",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50041",
+      "exercise": "fs-idm59665456",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50041",
+      "exercise": "fs-idm69707392",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50042",
+      "exercise": "fs-idp3289616",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50042",
+      "exercise": "fs-idp188236864",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50042",
+      "exercise": "fs-idp33162288",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50042",
+      "exercise": "fs-idp1615968",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50042",
+      "exercise": "fs-idp35086736",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50042",
+      "exercise": "fs-idm931712",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50042",
+      "exercise": "fs-idp15119504",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50044",
+      "exercise": "fs-idm49844128",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50044",
+      "exercise": "fs-idm55389968",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50044",
+      "exercise": "fs-idp336797232",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50045",
+      "exercise": "fs-idp22831168",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50045",
+      "exercise": "fs-idm83857664",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50045",
+      "exercise": "fs-idp49180480",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50045",
+      "exercise": "fs-idm160211392",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50047",
+      "exercise": "fs-idm141926624",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50047",
+      "exercise": "fs-idm17521120",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50047",
+      "exercise": "fs-idm201307056",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50048",
+      "exercise": "fs-idm333531552",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50048",
+      "exercise": "fs-idm216364208",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50048",
+      "exercise": "fs-idm217203440",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50048",
+      "exercise": "fs-idp158346320",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50048",
+      "exercise": "fs-idp135049952",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50048",
+      "exercise": "fs-idp124364320",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50048",
+      "exercise": "fs-idp72342400",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50048",
+      "exercise": "fs-idp239031008",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50050",
+      "exercise": "fs-idm208670336",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50050",
+      "exercise": "fs-idm6241760",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50050",
+      "exercise": "fs-idp107852496",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50050",
+      "exercise": "fs-idp7170144",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50050",
+      "exercise": "fs-idm29371472",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50051",
+      "exercise": "fs-idp218663888",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50051",
+      "exercise": "fs-idp25471552",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50051",
+      "exercise": "fs-idm29441920",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50051",
+      "exercise": "fs-idm185425200",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50052",
+      "exercise": "fs-idm301856784",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50052",
+      "exercise": "fs-idm168826480",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50052",
+      "exercise": "fs-idm52138576",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50052",
+      "exercise": "fs-idm55674368",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50053",
+      "exercise": "fs-idp266332768",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50053",
+      "exercise": "fs-idp23525536",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50053",
+      "exercise": "fs-idp40856800",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50054",
+      "exercise": "fs-idm227000432",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50054",
+      "exercise": "fs-idm207481456",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50054",
+      "exercise": "fs-idm116639920",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50054",
+      "exercise": "fs-idp287127232",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50054",
+      "exercise": "fs-idp18567696",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50054",
+      "exercise": "fs-idp290794768",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50054",
+      "exercise": "fs-idp55663136",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50054",
+      "exercise": "fs-idp33031712",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50057",
+      "exercise": "fs-idm228586640",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50057",
+      "exercise": "fs-idm127724336",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50057",
+      "exercise": "fs-idm97598832",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50059",
+      "exercise": "fs-idm96073632",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50059",
+      "exercise": "fs-idp287521568",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50059",
+      "exercise": "fs-idp114199712",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50060",
+      "exercise": "fs-idp221147232",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50060",
+      "exercise": "fs-idp6587600",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50060",
+      "exercise": "fs-idp37750112",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50061",
+      "exercise": "fs-idm195507456",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50061",
+      "exercise": "fs-idp51074592",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50061",
+      "exercise": "fs-idm177707360",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50061",
+      "exercise": "fs-idm179794512",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50062",
+      "exercise": "fs-idp21946928",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50062",
+      "exercise": "fs-idm94828576",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50062",
+      "exercise": "fs-idm105707408",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50062",
+      "exercise": "fs-idm844288",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50062",
+      "exercise": "fs-idm4809424",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50062",
+      "exercise": "fs-idm4411248",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50062",
+      "exercise": "fs-idp10087584",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50062",
+      "exercise": "fs-idp251138480",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50062",
+      "exercise": "fs-idm13990576",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50064",
+      "exercise": "fs-idm225454704",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50064",
+      "exercise": "fs-idm179266624",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50064",
+      "exercise": "fs-idp47063632",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50065",
+      "exercise": "fs-idm105747888",
+      "status": "included",
+      "answer": "property"
+    },
+    {
+      "module": "m50065",
+      "exercise": "fs-idp48855456",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50066",
+      "exercise": "fs-idp244628928",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50066",
+      "exercise": "fs-idp257500480",
+      "status": "included",
+      "answer": "concurrent majority"
+    },
+    {
+      "module": "m50066",
+      "exercise": "fs-idp177570048",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50068",
+      "exercise": "fs-idp53796144",
+      "status": "included",
+      "answer": "to annex new slave states"
+    },
+    {
+      "module": "m50068",
+      "exercise": "fs-idm217777168",
+      "status": "included",
+      "answer": "Cuba"
+    },
+    {
+      "module": "m50068",
+      "exercise": "fs-idm341992992",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50068",
+      "exercise": "fs-idp154381216",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50068",
+      "exercise": "fs-idm243319328",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50068",
+      "exercise": "fs-idp78041920",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50068",
+      "exercise": "fs-idp76939216",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50068",
+      "exercise": "fs-idp30094288",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50068",
+      "exercise": "fs-idm235112288",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50071",
+      "exercise": "eip-idm31610640",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50071",
+      "exercise": "eip-idp206914896",
+      "status": "included",
+      "answer": "the individual"
+    },
+    {
+      "module": "m50071",
+      "exercise": "eip-idp166844176",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50072",
+      "exercise": "fs-idm200336",
+      "status": "included",
+      "answer": "Mormons"
+    },
+    {
+      "module": "m50072",
+      "exercise": "fs-idp2081328",
+      "status": "included",
+      "answer": "Brook Farm"
+    },
+    {
+      "module": "m50072",
+      "exercise": "fs-idp9612816",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50074",
+      "exercise": "fs-idp202206080",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50074",
+      "exercise": "fs-idp78763280",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50074",
+      "exercise": "fs-idm10015168",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50075",
+      "exercise": "fs-idm54326320",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50075",
+      "exercise": "fs-idm213840880",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50076",
+      "exercise": "fs-idm66023920",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50076",
+      "exercise": "fs-idm117627472",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50076",
+      "exercise": "fs-idm266838576",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50076",
+      "exercise": "fs-idm245912928",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50076",
+      "exercise": "fs-idm262013680",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50076",
+      "exercise": "fs-idm139679584",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50076",
+      "exercise": "fs-idm298418784",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50076",
+      "exercise": "fs-idm301841184",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50078",
+      "exercise": "fs-idp72446960",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50078",
+      "exercise": "fs-idp57768016",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50078",
+      "exercise": "fs-idp53973088",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50080",
+      "exercise": "fs-idp106550800",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50080",
+      "exercise": "fs-idp194400016",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50080",
+      "exercise": "fs-idp144359856",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50081",
+      "exercise": "fs-idp57101408",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50081",
+      "exercise": "fs-idm88734272",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50081",
+      "exercise": "fs-idm87390304",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50082",
+      "exercise": "fs-idm13059088",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50082",
+      "exercise": "fs-idm77648032",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50082",
+      "exercise": "fs-idp1126912",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50082",
+      "exercise": "fs-idm17570176",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50082",
+      "exercise": "fs-idp39123280",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50082",
+      "exercise": "fs-idp4575888",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50082",
+      "exercise": "fs-idp82552512",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50082",
+      "exercise": "fs-idp45185728",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50085",
+      "exercise": "fs-idp232165840",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50085",
+      "exercise": "fs-idp27020016",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50085",
+      "exercise": "fs-idp99477888",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50086",
+      "exercise": "fs-idp121046624",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50086",
+      "exercise": "fs-idm80927376",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50086",
+      "exercise": "fs-idp152691456",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50087",
+      "exercise": "fs-idp25495200",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50087",
+      "exercise": "fs-idp87328400",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50088",
+      "exercise": "fs-idp210630432",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50088",
+      "exercise": "fs-idp151921552",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50088",
+      "exercise": "fs-idm31811808",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50088",
+      "exercise": "fs-idm64592608",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50088",
+      "exercise": "fs-idp358836144",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50088",
+      "exercise": "fs-idp200662128",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50088",
+      "exercise": "fs-idp162021920",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50091",
+      "exercise": "fs-idm253980528",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50091",
+      "exercise": "fs-idm34533248",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50091",
+      "exercise": "fs-idm378532208",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50092",
+      "exercise": "fs-idm357606272",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50092",
+      "exercise": "fs-idm343727296",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50092",
+      "exercise": "fs-idm446751952",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50094",
+      "exercise": "fs-idp62508496",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50094",
+      "exercise": "fs-idm190186880",
+      "status": "included",
+      "answer": "the Tenure of Office Act"
+    },
+    {
+      "module": "m50094",
+      "exercise": "fs-idp129715472",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50095",
+      "exercise": "fs-idm223934496",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50095",
+      "exercise": "fs-idm206366752",
+      "status": "included",
+      "answer": "redeemer"
+    },
+    {
+      "module": "m50095",
+      "exercise": "fs-idm291830144",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50095",
+      "exercise": "fs-idm138912928",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50095",
+      "exercise": "fs-idm196854848",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50095",
+      "exercise": "fs-idm244546848",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50095",
+      "exercise": "fs-idm269767664",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50095",
+      "exercise": "fs-idm101237344",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50098",
+      "exercise": "fs-idm57715072",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50098",
+      "exercise": "fs-idm57869296",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50098",
+      "exercise": "fs-idm17964336",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50099",
+      "exercise": "fs-idm65032544",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50099",
+      "exercise": "fs-idm24358720",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50099",
+      "exercise": "fs-idm60168592",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50100",
+      "exercise": "fs-idm49405312",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50100",
+      "exercise": "fs-idm47649424",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50100",
+      "exercise": "fs-idm15918592",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50101",
+      "exercise": "fs-idp20082576",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50102",
+      "exercise": "fs-idm30931696",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50102",
+      "exercise": "fs-idm335680",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50102",
+      "exercise": "fs-idp2865072",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50102",
+      "exercise": "fs-idm94880144",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50102",
+      "exercise": "fs-idm56293040",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50102",
+      "exercise": "fs-idm48666640",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50102",
+      "exercise": "fs-idm67509232",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50102",
+      "exercise": "fs-idm50565968",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50104",
+      "exercise": "fs-idm54902432",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50104",
+      "exercise": "fs-idm33369600",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50104",
+      "exercise": "fs-idp49678064",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50105",
+      "exercise": "fs-idp28818512",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50105",
+      "exercise": "fs-idm5904032",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50105",
+      "exercise": "fs-idm29703504",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50105",
+      "exercise": "fs-idm7626624",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50106",
+      "exercise": "fs-idm25878320",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50106",
+      "exercise": "fs-idm51584896",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50106",
+      "exercise": "fs-idp25629744",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50107",
+      "exercise": "fs-idm60390320",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50107",
+      "exercise": "fs-idm8544288",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50107",
+      "exercise": "fs-idm32777840",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50107",
+      "exercise": "fs-idm31776880",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50107",
+      "exercise": "fs-idp3526800",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50107",
+      "exercise": "fs-idp2918560",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50107",
+      "exercise": "fs-idp654304",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50107",
+      "exercise": "fs-idp36922032",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50109",
+      "exercise": "fs-idm30381024",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50109",
+      "exercise": "fs-idm31723008",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50109",
+      "exercise": "fs-idm30158656",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50114",
+      "exercise": "fs-idm76972672",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50114",
+      "exercise": "fs-idm44301632",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50114",
+      "exercise": "fs-idm68026416",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50117",
+      "exercise": "fs-idp12736608",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50117",
+      "exercise": "fs-idp8046144",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50117",
+      "exercise": "fs-idp1656304",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50119",
+      "exercise": "fs-idm3525264",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50119",
+      "exercise": "fs-idp51006288",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50119",
+      "exercise": "fs-idm26350928",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50119",
+      "exercise": "fs-idp3648992",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50119",
+      "exercise": "fs-idp3650336",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50119",
+      "exercise": "fs-idp3651600",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50119",
+      "exercise": "fs-idp223696",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50119",
+      "exercise": "fs-idp225056",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50121",
+      "exercise": "fs-idm69568192",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50121",
+      "exercise": "fs-idm34157952",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50121",
+      "exercise": "fs-idm30608224",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50122",
+      "exercise": "fs-idm77054752",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50122",
+      "exercise": "fs-idm82581616",
+      "status": "included",
+      "answer": "Chester A. Arthur"
+    },
+    {
+      "module": "m50122",
+      "exercise": "fs-idp213951264",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50123",
+      "exercise": "fs-idp6126544",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50123",
+      "exercise": "fs-idp44627168",
+      "status": "included",
+      "answer": "overproduction"
+    },
+    {
+      "module": "m50123",
+      "exercise": "fs-idp22654768",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50124",
+      "exercise": "fs-idp72596016",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50124",
+      "exercise": "fs-idp6073072",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50124",
+      "exercise": "fs-idm6909920",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50124",
+      "exercise": "fs-idm74045040",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50124",
+      "exercise": "fs-idm73483104",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50124",
+      "exercise": "fs-idm71678272",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50126",
+      "exercise": "fs-idm6317264",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50126",
+      "exercise": "fs-idm22827856",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50126",
+      "exercise": "fs-idp6736224",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50127",
+      "exercise": "fs-idm62784336",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50127",
+      "exercise": "fs-idp1462368",
+      "status": "included",
+      "answer": "referendums"
+    },
+    {
+      "module": "m50128",
+      "exercise": "fs-idm4273328",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50128",
+      "exercise": "fs-idm55137504",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50128",
+      "exercise": "fs-idp24035200",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idp6155392",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idm81830848",
+      "status": "included",
+      "answer": "the Payne-Aldrich Act"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idp96060096",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idp102850624",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idp124519280",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idm139772016",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idm119334960",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idm120729824",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idm11370144",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50129",
+      "exercise": "fs-idm63961200",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50133",
+      "exercise": "fs-idm33938544",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50133",
+      "exercise": "fs-idm146685456",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50133",
+      "exercise": "fs-idm42182016",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50135",
+      "exercise": "fs-idp68175888",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50135",
+      "exercise": "fs-idm6035680",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50135",
+      "exercise": "fs-idp2526960",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50136",
+      "exercise": "fs-idp419846992",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50136",
+      "exercise": "fs-idp139432928",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50136",
+      "exercise": "fs-idp190632128",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50139",
+      "exercise": "fs-idm248095600",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50139",
+      "exercise": "fs-idm203733616",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50139",
+      "exercise": "fs-idm124863248",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50140",
+      "exercise": "fs-idp9821520",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50140",
+      "exercise": "fs-idp9182848",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50140",
+      "exercise": "fs-idm92515360",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50140",
+      "exercise": "fs-idp1668336",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50140",
+      "exercise": "fs-idm120503008",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50140",
+      "exercise": "fs-idp182507488",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50140",
+      "exercise": "fs-idp19040544",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50140",
+      "exercise": "fs-idm143016208",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50142",
+      "exercise": "eip-idp15018256",
+      "status": "included",
+      "answer": "William Jennings Bryan"
+    },
+    {
+      "module": "m50142",
+      "exercise": "eip-idm3796896",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50142",
+      "exercise": "eip-idp107596016",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50143",
+      "exercise": "eip-idp232131680",
+      "status": "included",
+      "answer": "the Sedition Act"
+    },
+    {
+      "module": "m50143",
+      "exercise": "eip-idm52994880",
+      "status": "included",
+      "answer": "National Civil Liberties Bureau"
+    },
+    {
+      "module": "m50143",
+      "exercise": "eip-idm41382576",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50144",
+      "exercise": "fs-idp47548592",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50144",
+      "exercise": "fs-idp87420528",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50144",
+      "exercise": "fs-idm140777376",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50146",
+      "exercise": "fs-idp34041472",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50146",
+      "exercise": "fs-idp48990656",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50146",
+      "exercise": "fs-idp149236576",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50147",
+      "exercise": "fs-idm74601120",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50147",
+      "exercise": "fs-idp170718528",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50147",
+      "exercise": "fs-idp127533840",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50147",
+      "exercise": "fs-idp129024560",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50147",
+      "exercise": "fs-idp118814288",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50147",
+      "exercise": "fs-idm47403248",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50147",
+      "exercise": "fs-idm76493984",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50147",
+      "exercise": "fs-idm99531024",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50147",
+      "exercise": "eip-803",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50147",
+      "exercise": "eip-117",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50149",
+      "exercise": "fs-idm65978752",
+      "status": "included",
+      "answer": "The Jazz Singer"
+    },
+    {
+      "module": "m50149",
+      "exercise": "fs-idm185646032",
+      "status": "included",
+      "answer": "radios"
+    },
+    {
+      "module": "m50149",
+      "exercise": "fs-idm242162400",
+      "status": "included",
+      "answer": "Charles Lindbergh"
+    },
+    {
+      "module": "m50149",
+      "exercise": "fs-idm260892144",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50151",
+      "exercise": "fs-idp101056",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50151",
+      "exercise": "fs-idp433152",
+      "status": "included",
+      "answer": "Billy Sunday"
+    },
+    {
+      "module": "m50151",
+      "exercise": "fs-idp319056",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50152",
+      "exercise": "fs-idm16581968",
+      "status": "included",
+      "answer": "Sigmund Freud"
+    },
+    {
+      "module": "m50152",
+      "exercise": "fs-idm11693216",
+      "status": "included",
+      "answer": "Equal Rights Amendment"
+    },
+    {
+      "module": "m50152",
+      "exercise": "fs-idm172976",
+      "status": "included",
+      "answer": "Babbitt"
+    },
+    {
+      "module": "m50152",
+      "exercise": "fs-idm14443904",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50152",
+      "exercise": "fs-idm8851440",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50153",
+      "exercise": "fs-idm2921312",
+      "status": "included",
+      "answer": "Warren Harding"
+    },
+    {
+      "module": "m50153",
+      "exercise": "fs-idm4560656",
+      "status": "included",
+      "answer": "Secretary of the Interior"
+    },
+    {
+      "module": "m50153",
+      "exercise": "fs-idm3856768",
+      "status": "included",
+      "answer": "silence and inactivity"
+    },
+    {
+      "module": "m50153",
+      "exercise": "fs-idm9235280",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50153",
+      "exercise": "fs-idm6656960",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50153",
+      "exercise": "fs-idp981872",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50153",
+      "exercise": "fs-idm11164096",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50153",
+      "exercise": "fs-idm15008080",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50153",
+      "exercise": "fs-idm4286688",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50162",
+      "exercise": "fs-idp44026224",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50162",
+      "exercise": "fs-idp15223728",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50162",
+      "exercise": "fs-idm54693600",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50163",
+      "exercise": "fs-idm56883472",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50163",
+      "exercise": "fs-idm38885392",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50163",
+      "exercise": "fs-idm33092544",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50164",
+      "exercise": "fs-idp14613120",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50164",
+      "exercise": "fs-idp53718096",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50164",
+      "exercise": "fs-idp3685136",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50165",
+      "exercise": "fs-idp28530624",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50165",
+      "exercise": "fs-idp56198112",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50165",
+      "exercise": "fs-idm48953536",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50165",
+      "exercise": "fs-idm27065600",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50165",
+      "exercise": "fs-idm19015472",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50165",
+      "exercise": "fs-idm34733200",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50165",
+      "exercise": "fs-idp17681520",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50165",
+      "exercise": "fs-idm45424304",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50167",
+      "exercise": "fs-idm21008048",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50167",
+      "exercise": "fs-idp16401936",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50167",
+      "exercise": "fs-idp4971648",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50168",
+      "exercise": "fs-idm41852928",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50168",
+      "exercise": "fs-idm30680928",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50168",
+      "exercise": "fs-idm9490736",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50168",
+      "exercise": "fs-idm34812512",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50169",
+      "exercise": "fs-idp13151536",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50169",
+      "exercise": "fs-idp25723616",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50169",
+      "exercise": "fs-idp44223808",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50169",
+      "exercise": "fs-idp28029824",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50169",
+      "exercise": "fs-idm91314192",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50169",
+      "exercise": "fs-idm55698240",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50169",
+      "exercise": "fs-idm31232144",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50169",
+      "exercise": "fs-idm94376816",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50169",
+      "exercise": "fs-idm13606448",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50172",
+      "exercise": "fs-idm14244880",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50172",
+      "exercise": "fs-idp66487760",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50173",
+      "exercise": "fs-idm285922736",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50173",
+      "exercise": "fs-idm247819440",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50173",
+      "exercise": "fs-idp28768688",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50174",
+      "exercise": "fs-idp6864688",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50174",
+      "exercise": "fs-idm150947664",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50174",
+      "exercise": "fs-idm215869056",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50175",
+      "exercise": "fs-idm60399888",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50175",
+      "exercise": "fs-idp24285856",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50175",
+      "exercise": "fs-idm61821904",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50175",
+      "exercise": "fs-idm102362576",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50175",
+      "exercise": "fs-idm92441936",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50175",
+      "exercise": "fs-idm15602144",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50175",
+      "exercise": "fs-idp361323536",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50175",
+      "exercise": "fs-idm28984624",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50179",
+      "exercise": "fs-idm95471712",
+      "status": "included",
+      "answer": "quarantine"
+    },
+    {
+      "module": "m50179",
+      "exercise": "fs-idm291538896",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50179",
+      "exercise": "fs-idm208937408",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50180",
+      "exercise": "fs-idp148855264",
+      "status": "included",
+      "answer": "Students for a Democratic Society"
+    },
+    {
+      "module": "m50180",
+      "exercise": "fs-idm91045056",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50180",
+      "exercise": "fs-idp140798192",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50180",
+      "exercise": "fs-idp159259328",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50180",
+      "exercise": "fs-idp46718240",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50180",
+      "exercise": "fs-idm87376704",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50180",
+      "exercise": "fs-idm92290096",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50180",
+      "exercise": "fs-idm122791424",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50181",
+      "exercise": "fs-idp182773472",
+      "status": "included",
+      "answer": "Medicaid"
+    },
+    {
+      "module": "m50181",
+      "exercise": "fs-idm48526064",
+      "status": "included",
+      "answer": "the Tet Offensive"
+    },
+    {
+      "module": "m50181",
+      "exercise": "fs-idp164184848",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50182",
+      "exercise": "fs-idm83595152",
+      "status": "included",
+      "answer": "sit-in"
+    },
+    {
+      "module": "m50182",
+      "exercise": "fs-idp181059280",
+      "status": "included",
+      "answer": "the Black Panthers"
+    },
+    {
+      "module": "m50182",
+      "exercise": "fs-idp208035024",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50182",
+      "exercise": "fs-idp216870272",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50184",
+      "exercise": "fs-idm39780816",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50184",
+      "exercise": "fs-idp47613920",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50184",
+      "exercise": "fs-idm32817536",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50185",
+      "exercise": "fs-idp106897600",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50185",
+      "exercise": "fs-idp56034864",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50185",
+      "exercise": "fs-idp110741632",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50186",
+      "exercise": "fs-idm78360416",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50186",
+      "exercise": "fs-idp32570896",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50186",
+      "exercise": "fs-idp31815024",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50187",
+      "exercise": "fs-idm29528224",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50187",
+      "exercise": "fs-idm72742416",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50189",
+      "exercise": "fs-idp169887792",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50189",
+      "exercise": "fs-idp230968512",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50189",
+      "exercise": "fs-idp91894656",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50189",
+      "exercise": "fs-idm4977296",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50189",
+      "exercise": "fs-idp10264672",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50189",
+      "exercise": "fs-idp86359344",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50189",
+      "exercise": "fs-idm43363248",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50189",
+      "exercise": "fs-idm4953280",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50192",
+      "exercise": "fs-idm1932864",
+      "status": "included",
+      "answer": "Dennis Banks"
+    },
+    {
+      "module": "m50192",
+      "exercise": "fs-idp17827536",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50192",
+      "exercise": "fs-idm49214272",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50194",
+      "exercise": "fs-idp221292624",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50194",
+      "exercise": "fs-idp234229920",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50194",
+      "exercise": "fs-idp272634752",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50195",
+      "exercise": "fs-idm14726656",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50195",
+      "exercise": "fs-idm27210704",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50195",
+      "exercise": "fs-idm103559872",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50196",
+      "exercise": "fs-idp226319616",
+      "status": "included",
+      "answer": "the Helsinki Accords"
+    },
+    {
+      "module": "m50196",
+      "exercise": "fs-idp141042992",
+      "status": "included",
+      "answer": "Bob Woodward"
+    },
+    {
+      "module": "m50196",
+      "exercise": "fs-idm221776208",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50198",
+      "exercise": "fs-idp93151904",
+      "status": "included",
+      "answer": "that he would never lie"
+    },
+    {
+      "module": "m50198",
+      "exercise": "fs-idp281552848",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50198",
+      "exercise": "fs-idp292441632",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50198",
+      "exercise": "fs-idp56274704",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50198",
+      "exercise": "fs-idm95941248",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50198",
+      "exercise": "fs-idp130205296",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50198",
+      "exercise": "fs-idm83769360",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50198",
+      "exercise": "fs-idm124534096",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50200",
+      "exercise": "fs-idm105655472",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50200",
+      "exercise": "fs-idm102604048",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50200",
+      "exercise": "fs-idm22607040",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50201",
+      "exercise": "fs-idm23210992",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50201",
+      "exercise": "fs-idm54892816",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50201",
+      "exercise": "fs-idm220278352",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50202",
+      "exercise": "fs-idp384514368",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50202",
+      "exercise": "fs-idp258595472",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50202",
+      "exercise": "fs-idm114755488",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50203",
+      "exercise": "fs-idp133368496",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50203",
+      "exercise": "fs-idp1460528",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50203",
+      "exercise": "fs-idp76766192",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50203",
+      "exercise": "fs-idm232171312",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50203",
+      "exercise": "fs-idm100860960",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50203",
+      "exercise": "fs-idm212828784",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50203",
+      "exercise": "fs-idp61521984",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50203",
+      "exercise": "fs-idm241061280",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50209",
+      "exercise": "fs-idp61449520",
+      "status": "included",
+      "answer": "Guantanamo Bay, Cuba"
+    },
+    {
+      "module": "m50209",
+      "exercise": "fs-idm166676576",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50209",
+      "exercise": "fs-idm85541248",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50210",
+      "exercise": "fs-idm383557360",
+      "status": "included",
+      "answer": "Lehman Brothers"
+    },
+    {
+      "module": "m50210",
+      "exercise": "fs-idm259226576",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50210",
+      "exercise": "fs-idm245003824",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50212",
+      "exercise": "fs-idm228198608",
+      "status": "included",
+      "answer": "Arizona"
+    },
+    {
+      "module": "m50212",
+      "exercise": "fs-idm107004160",
+      "status": "included",
+      "answer": "Massachusetts"
+    },
+    {
+      "module": "m50212",
+      "exercise": "fs-idp10011280",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50213",
+      "exercise": "fs-idp283014320",
+      "status": "included",
+      "answer": "2013"
+    },
+    {
+      "module": "m50213",
+      "exercise": "fs-idm115353008",
+      "status": "excluded",
+      "reason": "no_matching_textbook_context_or_duplicate"
+    },
+    {
+      "module": "m50213",
+      "exercise": "fs-idp64140720",
+      "status": "excluded",
+      "reason": "not_self_contained_four_option_key"
+    },
+    {
+      "module": "m50213",
+      "exercise": "fs-idm43087392",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50213",
+      "exercise": "fs-idp70302176",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50213",
+      "exercise": "fs-idm139162768",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50213",
+      "exercise": "fs-idm97804288",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    },
+    {
+      "module": "m50213",
+      "exercise": "fs-idm67795504",
+      "status": "excluded",
+      "reason": "no_public_source_key"
+    }
+  ]
+}

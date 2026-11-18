@@ -1,0 +1,54 @@
+# Subject packs: what is actually available
+
+Updated 17 November 2026. The app is personal, offline-first and has no backend or runtime source API. Every pack must be deliberately imported on each browser/device. Downloading an app update does not import questions into the student's database.
+
+**Later addition on this date:** the separate **selected Satt Humanities** pack adds 15 limited public-page excerpts, JU 3 / GST 9 / NU 3, with source keys and original Bangla editorial explanations. The original-paper claims are unverified and no open reuse licence is claimed. It raises the complete available total to **12,743 study records + 16 testing samples = 12,759**, without changing the eight published-pack counts below. See `QUESTION_SOURCES.md` for its 30-candidate audit and limits.
+
+## New published-question collections
+
+| Button / JSON file | Valid questions | Subject | Evidence and limitations |
+| --- | ---: | --- | --- |
+| Published Bangla / `bluck-bangla.json` | 1,301 | বাংলা | BLUCK language questions; original stems/options/keys retained. **Source key only: no detailed rationales supplied.** |
+| Bangladesh affairs / `bangladesh-affairs.json` | 785 | বাংলাদেশ বিষয়াবলি | BLUCK Bangladesh history/culture/geography/law questions. **Source key only: no detailed rationales supplied.** Historical/current-law facts need independent checking. |
+| Published science / `science-practice.json` | 3,000 | সাধারণ বিজ্ঞান | SciQ human crowd-written science MCQs with source supporting passages. English. |
+| Mental arithmetic / `mental-arithmetic.json` | 1,500 | মানসিক দক্ষতা | GSM8K human-written arithmetic word problems and original worked solutions; four numeric choices added by the converter. English; foundation arithmetic, not a full university IQ/logic syllabus. |
+| Sociology / `sociology-practice.json` | 166 | সমাজবিজ্ঞান | OpenStax original MCQs with publisher keys and mechanically selected matching section context. English; context is not an expert-written question-specific rationale. |
+| ICT / `ict-practice.json` | 45 | ICT | OpenStax original review questions matched by question ID to public student keys, plus matching section context. English; higher-level information-systems examples extend beyond HSC ICT. |
+| International history / `international-history.json` | 51 | আন্তর্জাতিক বিষয়াবলি | OpenStax U.S. History original MCQs, public keys and section context. US-focused, not a complete world-history syllabus. |
+| Comparative government / `comparative-government.json` | 32 | আন্তর্জাতিক বিষয়াবলি | OpenStax American Government 3e original MCQs, public keys and section context. US examples, not Bangladeshi civics or constitutional rules. |
+| **New total** | **6,880** | | No original JU/GST/NU papers or examination years have been independently authenticated. |
+
+Earlier packs remain available: 2,875 Bangla reading, 2,000 English vocabulary, 945 world-geography/GK, 28 third-party admission-associated items and 16 original testing samples. All collections together contain **12,728 study records, plus 16 testing samples (12,744 total)**. Each record is stored once and linked to JU, GST and NU Humanities as preparation. Previous-year-only filtering excludes the supplements and published collections without authenticated occurrence metadata. Original content is not overwritten by importing a pack.
+
+## Real questions versus past papers
+
+BLUCK's authors describe compiled examination questions; the release supplies no individual original-paper links, years or explanations. Its original-paper claims and answer keys are **not independently verified** here. Every retained BLUCK record says **SOURCE KEY ONLY**, and its feedback explicitly says that no detailed rationale was supplied; none has been invented. This optional bank expands access to published Bangla questions, but does not fulfill the ideal of a verified detailed explanation for every record. Check disputed answers against textbooks/primary references before relying on them. The other collections retain published questions or explicitly adapt free-response questions into MCQs. They are not claimed JU/GST/NU previous-year papers.
+
+No complete coverage is claimed for economics, Bangladeshi civics, full logic/analytical reasoning, every HSC Humanities subject or current affairs. The existing study categories are populated where usable sources were found; sociology is an additional subject. Adding an empty subject label does not create a question bank. Verified original papers/answer keys or a reusable, reviewable source are still needed to fill these gaps.
+
+## Source provenance and quality checks
+
+- **BLUCK:** Kabir, Mahim, Shafayat, Sadik, Ahmed, Kim and Oh, [authors' repository](https://github.com/minhaj1403/bluck), commit `35f702db14eda56905049e214fc4dfa47d00e245`. Authors explicitly declare the dataset **CC BY-SA 4.0** in the [paper's Ethical Considerations](https://arxiv.org/html/2505.21092v2). Do not confuse that declaration with the paper's own license icon or the placeholder citation in the README. Of 2,366 rows, 2,086 survive: 172 invalid records, 98 records in conflicting-key groups and 10 duplicate rows are excluded. Conflicting groups are excluded as a whole. Full row audit and source archive are bundled. Original examination attributions are not invented.
+- **SciQ:** Welbl, Liu and Gardner (2017), [publisher release](https://allenai.org/data/sciq), **CC BY-NC 3.0**. Up to 3,000 distinct original MCQs are selected in stable content-hash order; records need four distinct choices, a nonempty supporting paragraph with the source answer located in it, and no question reference to a missing figure/table. Literal answer occurrence is a structural check, not independent fact verification.
+- **GSM8K:** OpenAI (2021), [original release](https://github.com/openai/grade-school-math), **MIT**. Select up to 1,500 distinct original arithmetic questions with integer answers; parse calculation annotations with a restricted AST and exact rational arithmetic, check every annotation and match the final calculation to the supplied final answer. Original worked solutions remain. The converter adds numeric distractors; it does not generate new original question stems or independently verify the narrative interpretation.
+- **OpenStax:** Rice University/OpenStax and contributing authors, [publisher repositories](https://github.com/openstax), **CC BY-NC-SA 4.0** for these pinned releases. Public source MCQs or public student keys only; instructor-only resources are not accessed. Require four distinct options, a supplied single answer, no omitted images/tables and matching paragraph context from the source section. Context is quoted and labelled mechanically selected, not claimed as expert reasoning. Sociology, ICT, U.S. History and American Government use distinct collections. Source links and required “Access for free at …” attribution appear on every question view through the source field.
+
+All new records default to medium because the schema requires a level; this is **not calibrated admission difficulty**. Sources/keys/context are not independently expert-verified. English source questions have not been translated or relabelled as Bangla originals.
+
+**Investigated but not bulk imported:** BnMMLU is manually gated, so publisher approval is required. BEnQA does not declare reuse terms in its current public repository. Several newer textbook banks provide public questions but withhold answer keys; missing answers were not guessed. SOMAJGYAAN had suspect keys in previous review, so it was not blindly imported. MCQ Academy's policy prohibits substantial extraction without permission. XCommonsense-BN explicitly describes AI-synthetic question generation, so it was not passed off as real past-paper questions. No access restriction was bypassed.
+
+## Reproduce and inspect
+
+Run `python tools/build_subject_banks.py` offline with `lxml` installed. It validates pinned source hashes, rebuilds all eight JSON packs and their row audits, and generates `js/services/subject-notices.js`. No network is used during conversion. Collection-time utilities are `tools/collect_openstax_sources.py` and `tools/collect_public_ict.py`; these are not loaded by the app. Source snapshots and release metadata live in `data/source-material/`. Full licenses/attribution and adaptation notes travel with question-bank exports and backups. Keep notices when sharing an export, and observe noncommercial/share-alike terms where applicable.
+
+## Load and test on your device
+
+**If your screen still shows only the old English/GK/reading/sample buttons:** there is a compatible manual import at `imports/missing-subjects.json`. Use the existing **Choose File → Validate & import** controls. This one 12.4 MiB file adds the five missing categories (5,413 records) without relying on new loader buttons. See `imports/README.md`. It does not change the cached app version or deploy a hosted site. All-pack totals describe available files, not questions automatically saved on a device.
+
+1. Use the same website address, port and browser that contains your saved progress. Download a full backup in Settings first.
+2. If new buttons are missing, the page may be cached or the hosting deployment may still be old. Open online and allow the update to download; when **Update ready** appears, close every app tab/window, then reopen. The current worker is `admission-companion-v13`. Updating files in this project does not automatically update a separately hosted website. Do **not** clear browser site data.
+3. Open **Practice → Question bank** and press the desired **Load …** button. Wait for **Imported N questions … Saved on this device**. Packs do not load automatically, and questions saved in one browser are not synced elsewhere.
+4. Return to Practice. Choose JU/GST/NU, **Humanities**, the subject and **All question types**. Choose a collection under additional filters, keep Random, and start. Do not use Previous-year-only mode for these packs. If needed, use **Show all bank questions** to reset filters.
+5. Create a custom model test using the same target/subject/collection. Set only your own study marking rules; no official university pattern is assumed.
+6. After **Ready for offline study**, disconnect and repeat practice/tests. Close/reopen and check saved questions/answers. Repeat a pack import: it should report duplicates rather than add records or overwrite progress.
+7. A large question-bank export is split into multiple **Download part N / M** buttons so every JSON stays within 20 MiB and 10,000 questions. Download and import every part. A full backup preserves progress/bookmarks/exams too; question-bank exports do not. Physical Android installation, restart/storage persistence and download handling still need testing on the actual phone.

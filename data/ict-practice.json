@@ -1,0 +1,1967 @@
+{
+  "provenance": {
+    "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025)",
+    "license": "CC BY-NC-SA 4.0",
+    "release": {
+      "baseURL": "https://openstax.org/books/foundations-information-systems/pages/",
+      "collected": "2026-11-17",
+      "archive": "openstax-public-ict.zip",
+      "sha256": "c29918fcbe5a22e98074e7d158f2ca43ede216ccb0c57adb730129cce6a3ec52",
+      "pages": [
+        {
+          "slug": "chapter-1",
+          "sha256": "d78f39063a1533139e356da3e99985d9e947186a4de03591c118aeec19323535"
+        },
+        {
+          "slug": "chapter-2",
+          "sha256": "0541f75aea98fee08171c01d8cb57d4f5c0a76672fab843a96767ef120fb7bad"
+        },
+        {
+          "slug": "chapter-3",
+          "sha256": "b317624093a9f0ef397fb5db8e489557a1d2bcdeb49246b540bf3cdaf8b8e02d"
+        },
+        {
+          "slug": "chapter-4",
+          "sha256": "ffd02e5b412c6d0b3034af31007595519560bb8f084fa04b8d76efc7e2858b8a"
+        },
+        {
+          "slug": "chapter-5",
+          "sha256": "2b77b6ab467b89a972d4d23b3bc25dd437ef17540f788f670e939091671eebb7"
+        },
+        {
+          "slug": "chapter-6",
+          "sha256": "b4087f161f7808bb97b5cfc37ca6d91bc8a7421bf1ac35cbfaba677f704719a9"
+        },
+        {
+          "slug": "chapter-7",
+          "sha256": "a056f479cc2d3884d87142ee47adf2f59316f57cc4fdc8d3807257af0a5739f7"
+        },
+        {
+          "slug": "chapter-8",
+          "sha256": "b09f1633b044845dfec667e70abff8c2af7c80b52b8e0dd539ae35e109545169"
+        },
+        {
+          "slug": "chapter-9",
+          "sha256": "b7e896d245202a73d2737e7784f67c73a207df6cc05b0b060067dd932755ac90"
+        },
+        {
+          "slug": "chapter-10",
+          "sha256": "6fcf96a5059661c2dff486752eb7634364e3ce6ed0fd3581ffce9fdf9e92ef10"
+        },
+        {
+          "slug": "chapter-11",
+          "sha256": "8165182023dc764c1839bf2c89b33eff18f3f2e477bbb431a32ec66f03bd89b1"
+        },
+        {
+          "slug": "chapter-12",
+          "sha256": "93adcb7296921afd0ac6e9349f83e3e99cb7d414ba5c3ee766c3527ac87c5498"
+        },
+        {
+          "slug": "1-review-questions",
+          "sha256": "e212acb1035ab043d9ede21918c152ac8d26d87e53c51c928e4b3297185ac443"
+        },
+        {
+          "slug": "10-review-questions",
+          "sha256": "9a17efd89c294420749506e437763153c18d4d2f1f23256269e13e56bd63dec6"
+        },
+        {
+          "slug": "11-review-questions",
+          "sha256": "678a9cc1e8c8a543665cacdff6fccd152b2bdc048b2276cbabb026c8c8df5817"
+        },
+        {
+          "slug": "12-review-questions",
+          "sha256": "9452f430e9fbb0ca6edcb490d32330e213454d977dae0c91238336c7a108659c"
+        },
+        {
+          "slug": "2-review-questions",
+          "sha256": "6c17bda050e51dadc0529c1995d71054b73c2d0dd123201fa21156fca47956f2"
+        },
+        {
+          "slug": "3-review-questions",
+          "sha256": "fab8f50acb4b8b8011e216039bdba9ae11c97ee78525701bc5cd7f4324e1631e"
+        },
+        {
+          "slug": "4-review-questions",
+          "sha256": "2d069443ddec32e9dff6adcedd8fd89c1d1efeff50fe895dd05a5f98b30571ef"
+        },
+        {
+          "slug": "5-review-questions",
+          "sha256": "0b790feae425986a6ca922891f0f2359976289ed199a24ad17e7f5eecb47f6c3"
+        },
+        {
+          "slug": "6-review-questions",
+          "sha256": "215d7c8c54c6520859c8c47808238bc0d12498a9bc7aecb643d8317863658e9f"
+        },
+        {
+          "slug": "7-review-questions",
+          "sha256": "e842263a654534f53b41553c9c4467ab21953d3e4334290839a111c337b10dfd"
+        },
+        {
+          "slug": "8-review-questions",
+          "sha256": "c7cb1dc83701f374b57e0aae1ae05ef026164a17ac0058448dfec89fcae06931"
+        },
+        {
+          "slug": "9-review-questions",
+          "sha256": "93acedf62e4271a49c7c04bbaeda3241c8c5ae9d6ea5afb2e2f6fe7c42a26c1c"
+        }
+      ]
+    },
+    "xmlRelease": {
+      "repository": "openstax/osbooks-foundations-information-systems",
+      "commit": "057882c68a7867af80c42e86937d3a2454bfd86a",
+      "archive": "osbooks-foundations-information-systems-xml.zip",
+      "sha256": "5ef3df3a27cef57aa304f8469dbd070de8fedd706cdb1d2202b36207c58bee4c",
+      "collected": "2026-11-17"
+    },
+    "changes": "Original public review questions matched by question ID to public student keys; text-only self-contained items with matching section context retained.",
+    "verification": "Public publisher key matched by ID; NOT independently expert-verified; not university past papers.",
+    "included": 45
+  },
+  "questions": [
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Introduction to Information Systems",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat type of information system is used by everyone in an organization to integrate various business processes and functions across an organization?",
+      "options": [
+        "management information system (MIS)",
+        "enterprise resource planning (ERP)",
+        "transaction processing system (TPS)",
+        "decision support system (DSS)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The public student answer key gives B: enterprise resource planning (ERP).\n\nRelated textbook context from the linked section:\n“In addition to these four types of information systems, an enterprise resource planning (ERP) system is a software system that helps an organization manage various types of information systems within the organization, and integrate business processes and functions across the organization. For example, large organizations may rely on an ERP system to handle human resource management throughout the organization. An ERP is also a useful tool for functions such as project management, accounting and financial management including payroll, and tracking customer service.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552170. https://openstax.org/books/foundations-information-systems/pages/1-review-questions#552170 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-1#552170-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Introduction to Information Systems",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat invention provided a vital framework for the development of computers?",
+      "options": [
+        "Jacquard loom",
+        "printing press",
+        "digital calculators",
+        "typewriters"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: Jacquard loom.\n\nRelated textbook context from the linked section:\n“The inventions of the computer and the internet have been instrumental in the development of some of the technology necessary for today’s information systems. While societies developed a variety of methods for communication, they also created tools for calculations, establishing the foundation for modern computers. The abacus, which can be traced to at least 1100 BCE, is the oldest known calculating tool. Analog and digital calculators were invented in the 1600s, followed by the Jacquard loom in the early 1800s. The first modern analog computer was developed in 1930, and in the 1940s, IBM produced fully functional computers that evolved over the decades to the laptops and other computers that we have today.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552181. https://openstax.org/books/foundations-information-systems/pages/1-review-questions#552181 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-1#552181-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Introduction to Information Systems",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat element of an information system is concerned with the policies and procedures that ensure an information system functions effectively, efficiently, and securely?",
+      "options": [
+        "processing",
+        "environment",
+        "feedback",
+        "control"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: control.\n\nRelated textbook context from the linked section:\n“An information system is a set of interconnected components that integrate the collection, processing, storage, and distribution of data, information, and digital products in order to support decision-making, coordination, control, analysis, and visualization in an organization. These systems play an important role in managing and facilitating various business processes and can also be used in individuals’ personal lives.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552184. https://openstax.org/books/foundations-information-systems/pages/1-review-questions#552184 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-1#552184-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Frameworks of Knowledge and Industry Standards",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nAs your team works to develop an information system, they review the policies, procedures, and requirements that apply to your organization’s system. What are they reviewing?",
+      "options": [
+        "guidelines",
+        "best practices",
+        "frameworks",
+        "industry standards"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: industry standards.\n\nRelated textbook context from the linked section:\n“Frameworks and industry standards can help IS professionals develop and maintain robust systems that enable organizations to function effectively and competitively. In addition, a framework can enable an information system to function in everyday life. For example, a fitness app can help you set fitness goals, establish an exercise plan, and track food and nutrient intake. It may provide access to free information and suggestions from athletes, fitness trainers, and experts in wellness. Similarly, an organization can use information systems to support decision-making and set goals for any function, including financial management, human resources, and marketing. Once an organization establishes its goals, it can use information systems to develop a plan of action to achieve those goals and then use it to carry out their plans, track progress, and achieve success in the marketplace.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552214. https://openstax.org/books/foundations-information-systems/pages/1-review-questions#552214 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-1#552214-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Frameworks of Knowledge and Industry Standards",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhen IS professionals work for a government agency or a private business that contracts with the government, what must they follow to meet system security requirements?",
+      "options": [
+        "COBIT",
+        "ITIL",
+        "FISMA",
+        "ISO/IEC 27001"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: FISMA.\n\nRelated textbook context from the linked section:\n“IS professionals who work for government agencies or private businesses that contract with the government should be familiar with the Federal Information Security Modernization Act (FISMA), which sets the guidelines and standards for security that affected organizations are required to meet to minimize the possibility that data will be stolen, lost, or misused. Under FISMA, affected organizations must have a security strategy that addresses issues such as system access control, risk assessment and management, information integrity, audit and accountability, incident response, and staff’s continuing education.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552216. https://openstax.org/books/foundations-information-systems/pages/1-review-questions#552216 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-1#552216-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Connections between Information Systems and Information Technology",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nImagine you are part of the hiring team tasked with filling your organization’s IS jobs. You are concerned about one of the candidates recommended by a coworker because you do not agree that this person has the integrity, initiative, and willingness to learn required for the role. What competency do you think this candidate is lacking?",
+      "options": [
+        "academic",
+        "workplace",
+        "technical",
+        "personal effectiveness"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: personal effectiveness.\n\nRelated textbook context from the linked section:\n“To be successful in the workplace, IS professionals need personal effectiveness, academic, and workplace competencies. In addition, they need competencies specific to technology and information systems. These include knowledge and skills in the principles of information technology, databases and applications, technological networks, telecom, wireless and mobility, software development and management, user and customer support, digital media and visualization, compliance, risk management, security, and information assurance. IS professionals also need competencies specific to the role they fill in IS. outlines both general and IS-specific professional competencies.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552231. https://openstax.org/books/foundations-information-systems/pages/1-review-questions#552231 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-1#552231-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Connections between Information Systems and Information Technology",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is the main focus for an IT professional?",
+      "options": [
+        "organizational goals",
+        "technological infrastructure",
+        "organizational competencies",
+        "business analysis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The public student answer key gives B: technological infrastructure.\n\nRelated textbook context from the linked section:\n“As an IS professional, you likely will work closely with professionals in IT. Although the terms IS and IT are sometimes used interchangeably and the fields are connected, they are not the same. While IS focuses on an organization’s goals and developing an information system to meet organizational needs, IT is concerned with the technological operations. IT professionals design and build an organization’s technological infrastructure, including the computer hardware, software, and networks required to support the information system. IT professionals also provide user support to maintain technology and ensure that it functions appropriately.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552233. https://openstax.org/books/foundations-information-systems/pages/1-review-questions#552233 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-1#552233-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Connections between Information Systems and Information Technology",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat key topic in IS education explores the processes to connect computers and other technology to enable information sharing?",
+      "options": [
+        "enterprise systems",
+        "information system design",
+        "networks",
+        "information technology"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: networks.\n\nRelated textbook context from the linked section:\n“To be successful in the workplace, IS professionals need personal effectiveness, academic, and workplace competencies. In addition, they need competencies specific to technology and information systems. These include knowledge and skills in the principles of information technology, databases and applications, technological networks, telecom, wireless and mobility, software development and management, user and customer support, digital media and visualization, compliance, risk management, security, and information assurance. IS professionals also need competencies specific to the role they fill in IS. outlines both general and IS-specific professional competencies.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552235. https://openstax.org/books/foundations-information-systems/pages/1-review-questions#552235 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-1#552235-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Practices and Frameworks for Data Management",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nIn the Robert Anthony framework, which domain ensures that an organization is meeting its strategic goals through activities such as setting budgets and tracking sales?",
+      "options": [
+        "strategic planning",
+        "operational control",
+        "intelligence",
+        "management control"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: management control.\n\nRelated textbook context from the linked section:\n“According to the Gorry and Scott Morton framework, management control primarily deals with overseeing and guiding people, while operational control focuses on the performance of designated activities or tasks, such as manufacturing a particular part. Typically, operational control systems have a limited ability to provide managerial control reports or data that are helpful for strategic decision-making. For example, an online retail system primarily focused on operational control can generate sales reports that may provide valuable data for both managerial and strategic decision-making. Similarly, an online retail system primarily focused on operational control can generate reports, such as a sales analysis report. While intended for operational purposes, such reports can also provide valuable data for both managerial and strategic decision-making. For instance, Zara has been able to use online retail system data for its supply chain management system to beat competitors in the time to market by offering new fashions to its customer base.“Zara Supply Chain Analysis—The Secret Behind Zara’s Retail Success,” QuickBooks Blog, Intuit Quickbooks, June 25, 2018, https://quickbooks.intuit.com/r/supply-chain/zara-supply-chain-its-secret-to-retail-success/ These data can be leveraged to identify sales trends in specific regions, or product categories can inform decisions on marketing expansion, inventory management, and product diversification to drive future growth.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552310. https://openstax.org/books/foundations-information-systems/pages/2-review-questions#552310 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-2#552310-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Digital Business Models",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhich business model earns commissions by promoting and selling other companies’ products or services through websites or social media channels?",
+      "options": [
+        "affiliate model",
+        "e-commerce model",
+        "marketplace model",
+        "sharing economy model"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: affiliate model.\n\nRelated textbook context from the linked section:\n“In an affiliate model, one company earns commissions by promoting and selling other companies’ products or services through websites or social media channels. They help drive traffic and sales, receiving a percentage of the revenue from the companies they promote. Amazon Associates, ClickBank, and Commission Junction use this model. These organizations should work with IT to build effective tracking and reporting systems to accurately attribute sales to affiliates by implementing affiliate tracking software, optimizing landing pages for conversion, and ensuring a seamless user journey from the affiliate’s site to the merchant’s platform. Providing real-time data and performance insights to affiliates enables them to optimize their promotional strategies.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552290. https://openstax.org/books/foundations-information-systems/pages/2-review-questions#552290 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-2#552290-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Digital Innovation Creation, Distribution, and Commercialization",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhich digital innovation activity refers to maximizing the value derived from the existing information systems?",
+      "options": [
+        "initiate",
+        "develop",
+        "implement",
+        "exploit"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: exploit.\n\nRelated textbook context from the linked section:\n“Exploitation refers to maximizing the value derived from the existing information system. After implementation, organizations leverage these systems to their fullest potential. This may involve reusing existing systems and technologies for different purposes, finding innovative ways to utilize the data collected by these systems, and continuously extracting value from the digital innovations to drive growth and efficiency. For instance, after digital innovation has been implemented, a company’s new advanced monitoring systems may not only improve safety and efficiency but now also provide new data insights. The company could leverage this data to optimize its operations further, forecast maintenance needs, and enhance overall performance.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552277. https://openstax.org/books/foundations-information-systems/pages/2-review-questions#552277 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-2#552277-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Data Types, Database Management Systems, and Tools for Managing Data",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nAn example of a primary data source are ________.",
+      "options": [
+        "data from existing databases",
+        "articles and books",
+        "direct observations",
+        "reports from other researchers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: direct observations.\n\nRelated textbook context from the linked section:\n“The gathering data stage includes identifying data sources, data collection methods, and tools for data collection. Data sources can be categorized into primary and secondary sources. Primary data refers to data collected firsthand through methods such as experiments, surveys, or direct observations. Secondary data include data previously collected by other researchers or organizations and are accessible through books, articles, and other databases. The choice of data collection method depends on the research objectives and the nature of the data required. lists some considerations and examples for collecting primary data.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552535. https://openstax.org/books/foundations-information-systems/pages/3-review-questions#552535 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-3#552535-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "The Importance of Network Security",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat principle primarily concerns protecting information from unauthorized access, modification, or deletion?",
+      "options": [
+        "data encryption",
+        "information security",
+        "information privacy",
+        "user authentication"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The public student answer key gives B: information security.\n\nRelated textbook context from the linked section:\n“In the field of cybersecurity—which is the practice of protecting systems, networks, devices, and data from online threats—information security and information privacy are not identical terms, although they are related. On one hand, information security is the practice of protecting information by mitigating information risks and vulnerabilities, which encompasses data privacy, data confidentiality, data integrity, and data availability and employs methods such as encryption, firewalls, and secure network design. Its aim is to shield both organizational and individual data from unauthorized access or tampering. In contrast, information privacy involves the right and measure of control individuals have over the collection, storage, management, and dissemination of personal information. Information privacy involves policies regarding what data are collected, how they are stored, and who has access to share information.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552602. https://openstax.org/books/foundations-information-systems/pages/5-review-questions#552602 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-5#552602-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "The Importance of Network Security",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat type of social engineering attack appears as a trustworthy entity in digital communication but steals user data, such as login credentials and financial information?",
+      "options": [
+        "spoofing",
+        "hacking",
+        "identity theft",
+        "phishing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: identity theft.\n\nRelated textbook context from the linked section:\n“Personally identifiable information, such as Social Security numbers and addresses, constitutes an entity such as employee, customer, or student data. Although they may not seem very sensitive, these data are valuable to hackers for identity theft, corporate espionage, harassment, and extortion. Organizations must use measures such as encryption and the principle of least privilege to protect this information.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552604. https://openstax.org/books/foundations-information-systems/pages/5-review-questions#552604 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-5#552604-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Information Security and Risk Management Strategies",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is a key process of an effective information security risk management (ISRM) strategy?",
+      "options": [
+        "periodic security training",
+        "continuous monitoring",
+        "single-layer security",
+        "annual risk assessments"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The public student answer key gives B: continuous monitoring.\n\nRelated textbook context from the linked section:\n“Continuous monitoring plays an important role in ensuring the ongoing integrity, availability, and security of critical assets and information. Continuous monitoring is a necessary component of an effective ISRM strategy, ensuring that security controls are operating as intended and that any malicious activities are detected and addressed in a timely manner.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 550789. https://openstax.org/books/foundations-information-systems/pages/5-review-questions#550789 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-5#550789-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Information Security and Risk Management Strategies",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat organization is well known for developing standards and frameworks like COBIT to support compliance with ISRM practices?",
+      "options": [
+        "IEEE",
+        "ISO",
+        "ISACA",
+        "NIST"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: ISACA.\n\nRelated textbook context from the linked section:\n“The Information Systems Audit and Control Association (ISACA) is an international association that provides IT professionals with knowledge, credentials, education, and community in IT governance, control, risk, security, audit, and assurance. IT governance is the process of managing and controlling an organization's IT capabilities to improve IT management, ensure compliance, and increase the value of IT investments. ISACA offers several certifications and comprehensive cyber education and plays an important role in setting global standards for cybersecurity. Through its publications, certifications, and guidance, ISACA provides industry best practices and frameworks that organizations can adopt to enhance their monitoring capabilities and align with relevant regulatory requirements.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 550801. https://openstax.org/books/foundations-information-systems/pages/5-review-questions#550801 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-5#550801-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Career Focus: Key Certifications",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nIn which type of organization would a Certified Information Security Manager (CISM) certification be especially beneficial for career advancement?",
+      "options": [
+        "tech start-ups",
+        "government agencies",
+        "financial institutions",
+        "nonprofit organizations"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: financial institutions.\n\nRelated textbook context from the linked section:\n“The corporate sector is the most expansive area for information security professionals, encompassing technology companies, financial institutions, health-care providers, and e-commerce businesses. Each of these subsectors demands specialized knowledge and skill sets, from safeguarding intellectual property to ensuring customer data privacy.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 550841. https://openstax.org/books/foundations-information-systems/pages/5-review-questions#550841 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-5#550841-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Key Concepts in Data Privacy and Data Security",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nThe International Organization for Standardization’s (ISO) 27701 standard is an extension of ISO 27001. What does ISO 27701 provide guidance on?",
+      "options": [
+        "how to manage privacy information",
+        "how to manage third-party relationships in data storage",
+        "how to create new data privacy laws",
+        "how to design privacy into IT systems and business practices"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: how to manage privacy information.\n\nRelated textbook context from the linked section:\n“However, it’s not just regulatory compliance that organizations need to consider. Industry standards also play a crucial role in shaping how businesses protect personal data. For instance, the International Organization for Standardization (ISO) has introduced ISO/IEC 27701, an extension to ISO/IEC 27001, the international standard for information security management systems. ISO/IEC 27701 provides guidance on how to manage privacy information, essentially translating privacy principles from regulations like the GDPR into actionable controls. This involves not only technical measures, but also administrative ones, such as defining roles and responsibilities, maintaining records of processing activities, and ensuring proper data breach response procedures.International Organization for Standardization, ISO/IEC 27701:2019 (ISO, 2019). By adopting ISO/IEC 27701, organizations can demonstrate their commitment to privacy, reassure customers and stakeholders, and potentially gain a competitive advantage.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 548677. https://openstax.org/books/foundations-information-systems/pages/6-review-questions#548677 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-6#548677-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Key Concepts in Data Privacy and Data Security",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is the term for the practice of incorporating privacy controls into the design and development of IT, systems, networks, and business practices?",
+      "options": [
+        "Privacy by Design",
+        "privacy engineering",
+        "security engineering",
+        "privacy network"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The public student answer key gives B: privacy engineering.\n\nRelated textbook context from the linked section:\n“An emerging field in this context is privacy engineering, which is fundamentally about incorporating privacy principles directly into the design and development of IT systems, networks, and business practices. By making privacy an integral part of the design and development process rather than an afterthought, enterprises can effectively mitigate risks and better protect user data. Some examples of privacy engineering include:”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 548679. https://openstax.org/books/foundations-information-systems/pages/6-review-questions#548679 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-6#548679-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Vulnerabilities and Threats in Web Applications and IoT Technology",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhich attack can turn unsecured IoT devices into bots to carry out massive, distributed denial-of-service (DDoS) attacks?",
+      "options": [
+        "Mirai botnet attack",
+        "SQL injection",
+        "CSRF attack",
+        "dictionary attack"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: Mirai botnet attack.\n\nRelated textbook context from the linked section:\n“The high-profile Mirai botnet attack of 2016 serves as an important real-world example of these challenges. This was a distributed denial-of-service (DDoS) attack that exploited many inherent weaknesses in IoT security: default passwords, unsecured network services, and the lack of regular software updates in many devices. The attack targeted and overwhelmed the servers of Dyn, a major DNS provider, with a tremendous amount of traffic. This disruption impacted several high-profile platforms and services, including Twitter, Netflix, Reddit, and CNN, rendering them inaccessible to millions of users for several hours. This incident showcased how easily IoT devices can be exploited for malicious purposes and the far-reaching consequences of such security lapses.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552840. https://openstax.org/books/foundations-information-systems/pages/6-review-questions#552840 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-6#552840-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Vulnerabilities and Threats in Web Applications and IoT Technology",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhich organization has been heavily involved in developing standards specifically for IoT?",
+      "options": [
+        "W3C",
+        "IEEE",
+        "ITU",
+        "NIST"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The public student answer key gives B: IEEE.\n\nRelated textbook context from the linked section:\n“Organizations such as the International Organization for Standardization (ISO), International Electrotechnical Commission (IEC), and the Institute of Electrical and Electronics Engineers (IEEE) have developed standards, such as ISO/IEC 27001 and IEEE 2413, to address these vulnerabilities through risk management frameworks and architectural guidelines. The ISO/IEC 27001 provides the framework for an information security management system (ISMS), which is a systematic approach consisting of processes and procedures designed to control an organization’s information security risks. An ISMS allows organizations to manage security in a comprehensive and structured manner, ensuring that all potential vulnerabilities are addressed and that systems are resilient to potential attacks. The IEEE has been heavily involved in developing standards for IoT. One such standard is the IEEE 2413, an architectural framework for IoT that aims to promote cross-domain interaction, aid system interoperability and functional compatibility, and foster a common understanding among IoT systems.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552848. https://openstax.org/books/foundations-information-systems/pages/6-review-questions#552848 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-6#552848-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Data Security and Privacy from a Global Perspective",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhich type of organization would most likely require that its data centers be ISO/IEC 27001 certified?",
+      "options": [
+        "local shops",
+        "Fortune 500 companies",
+        "small online businesses",
+        "individual clients"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The public student answer key gives B: Fortune 500 companies.\n\nRelated textbook context from the linked section:\n“In April 2020, Lone Star Data Hub, a data center located in Austin, Texas, embarked on a journey to achieve ISO/IEC 27001 certification. For Lone Star Data Hub, known for managing critical data infrastructure for regional clients in sectors such as finance and health care, this certification was more than just a seal of approval. It was a strategic business move aimed at setting their services apart in a competitive market. Obtaining ISO/IEC 27001 certification would underscore the center’s dedication to stringent information security standards and enhance its appeal to a broad client base, including Fortune 500 companies. This certification was seen as a crucial step in demonstrating their commitment to protecting sensitive data and maintaining the highest level of security. However, the onset of the COVID-19 pandemic introduced a myriad of challenges, specifically, nationwide lockdowns, social distancing mandates, and the transition to remote work.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552852. https://openstax.org/books/foundations-information-systems/pages/6-review-questions#552852 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-6#552852-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Managing Enterprise Risk and Compliance",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nIn terms of compliance with global frameworks such as GDPR, what principle emphasizes collecting only the data strictly necessary for intended purposes?",
+      "options": [
+        "data maximization",
+        "transparency",
+        "data minimization",
+        "data expansion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: data minimization.\n\nRelated textbook context from the linked section:\n“The next phase involved comparing Facebook’s practices to the stringent requirements of the EU’s GDPR. GDPR emphasizes principles such as data minimization and transparency, both of which were lacking in Facebook’s existing data sharing approach. The principle of data minimization ensures that organizations only collect, process, and store the minimum amount of personal data necessary for its purpose. Identifying specific areas where compliance with international standards was lacking underscored the need for targeted interventions.Colin J. Bennett, “The European General Data Protection Regulation: An Instrument for the Globalization of Privacy Standards?,” Information Polity 23, no. 2 (April 2018), https://doi.org/10.3233/IP-180002”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552856. https://openstax.org/books/foundations-information-systems/pages/6-review-questions#552856 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-6#552856-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Fundamentals of Cloud Computing",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat term describes a physical computing environment that is located at an organization’s facility?",
+      "options": [
+        "on-premise",
+        "hot facility",
+        "cold site",
+        "cloud-based"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: on-premise.\n\nRelated textbook context from the linked section:\n“Cloud computing environments and on-premise environments have the same functionality, but they have some fundamental differences. One main difference is the physical environment. In an on-premise facility, an organization owns and manages their own infrastructure. In a cloud environment, the cloud provider owns, operates, and manages the computing equipment. Both computing environments have a physical hardware component, yet the cloud environment offers services to the cloud consumers using virtualization, in which a physical computer environment creates a simulated computer environment (). Virtualization software takes physical hardware, such as a server, and converts it to resources that are then reallocated through code to re-create an IT resource that functions in the same manner as the physical equivalent.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552470. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552470 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552470-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Fundamentals of Cloud Computing",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is the term for the party that manages and maintains a cloud-based environment?",
+      "options": [
+        "service provider",
+        "ISP engineer",
+        "cloud provider",
+        "cloud engineer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: cloud provider.\n\nRelated textbook context from the linked section:\n“In a cloud environment, the cloud provider owns and manages physical hardware to deliver virtualized access through the internet to the server, network equipment, and workstations. The cloud environment can support access via any device, from any location, at any time based on the contracted services the cloud consumer purchases. For example, a cloud environment in a school allows a student to review their grades at any time. The student can use their smartphone to access the school portal, and with the correct credentials, they can log in and access the platform that houses their grades.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552472. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552472 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552472-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Fundamentals of Cloud Computing",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is the term for a plan that an organization puts in place to maintain its operational status in an emergency scenario?",
+      "options": [
+        "business continuity",
+        "recovery plan",
+        "emergency recovery",
+        "shutdown plan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: business continuity.\n\nRelated textbook context from the linked section:\n“With the introduction of cloud-based resources, organizations now have a new component to add to their tools for IS operations. The concept of IS operations requires an organization to make allowances and plans for downtime scenarios. One course of action is business continuity, which is a plan that an organization puts in place to maintain its operational status in an emergency scenario. The plan requires the company to inventory its IS resources, validate the requirements for its users, and develop a plan to address the needs should an outage occur. The plan would provide details for how the outage is to be handled, who is involved to assist in the outage, and what steps should be taken to restore services.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552474. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552474 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552474-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Cloud Computing Services, Pricing, and Deployment Models",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is the second level of the cloud environment that is to be built in relation to the Infrastructure as a Service component?",
+      "options": [
+        "Database as a Service",
+        "Software as a Service",
+        "Platform as a Service",
+        "Communication as a Service"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: Platform as a Service.\n\nRelated textbook context from the linked section:\n“Platform as a Service is typically the second level of the cloud environment and is built in relation to the IaaS component. This service is a preconfigured environment that supports a cloud consumer’s operational needs. The PaaS delivery model can be as simple as file services, such as storage of data files on a file server, or as complex as database services with business intelligence used for business analysis. This portion of the delivery model requires the cloud consumer to identify specific tasks that are associated with their operational requirements, such as extending an existing on-premise resource by creating a secondary backup system in the cloud, or replacing an existing IS. The PaaS offers the cloud consumer the opportunity to configure the prebuilt environments and removes some of the complexity involved in configuring an IaaS environment with a bare metal server, which is a physical server deployed for a single customer that provides the customer full access to the server resources.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552481. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552481 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552481-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Cloud Computing Services, Pricing, and Deployment Models",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is the term for an environment that is owned by a specific community or cloud provider that is offering services to a specific community?",
+      "options": [
+        "hybrid cloud",
+        "community cloud",
+        "public cloud",
+        "private cloud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The public student answer key gives B: community cloud.\n\nRelated textbook context from the linked section:\n“A community cloud environment is one that is owned by a specific community or a cloud provider that is offering services to that community (). Access to the community cloud is limited to the community that built and manages the cloud environment, such as a university with multiple campuses or a firm with multiple office locations. Membership is granted to those outside the community at the discretion of the community, and access is controlled by the community. Since community clouds are shared by organizations in the same industry, those that do business in a certain sector, such as education, must adhere to certain sector-specific regulations for their entire cloud.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552483. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552483 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552483-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Cloud Computing Technologies",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat advancement changed the way networking components worked, handled traffic, and opened new methods of controlling the network architecture?",
+      "options": [
+        "SDN",
+        "VPN",
+        "ACD",
+        "ATM"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: SDN.\n\nRelated textbook context from the linked section:\n“Since the development of the cloud environment, there has been specific network architecture needed, such as more availability to control the flow of data, how it manages access to the applications, and bandwidth capabilities. Traditional network architectures did not meet these requirements, which led to the development of SDNs. The SDNs changed the way networking components worked and handled traffic, and they opened new methods of controlling the network architecture. The SDNs move from the proprietary software and configurations of network equipment manufacturers to develop a mechanism to enable control at specific levels of the network architecture. The other aspect of SDNs is their ability to virtualize the network infrastructure, enabling the network manager to control the network infrastructure from the SDN controller (). The SDN controller provides centralized management of the network environment, the application layer manages the applications and provides information to the SDN controller regarding the needs of the applications, and the infrastructure layer is the layer where the physical network hardware resides.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552490. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552490 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552490-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Cloud Computing Technologies",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat would an organization use to move their content to a cloud provider?",
+      "options": [
+        "programming code",
+        "command line",
+        "migration tool",
+        "solution plan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: migration tool.\n\nRelated textbook context from the linked section:\n“The organization will have project managers work with IT to develop a migration plan and submit it for approval for those specializing in IT governance. The plan will require that IT provide resources to configure the migration tool needed to move to this cloud provider’s environment. The plan is laid out as follows:”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552492. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552492 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552492-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Cloud Computing Technologies",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is the name of the guidelines that provide a foundation for the organization to work from and develop a cybersecurity program?",
+      "options": [
+        "NIST Cybersecurity Framework",
+        "NIST Cloud Computing Reference Architecture",
+        "NIST Standard for Cybersecurity and Risk",
+        "NIST Computing Security Standard"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: NIST Cybersecurity Framework.\n\nRelated textbook context from the linked section:\n“The NIST Cybersecurity Framework provides a foundation for an organization to develop a cybersecurity program. It can be used in the development of policies for cybersecurity, risk management, business continuity, and disaster recovery plans.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552494. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552494 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552494-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Cloud-Based Industry Applications",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is an example of a cloud-based application used by companies such as Salesforce, HubSpot, and Zoho for managing their customer interactions, lead management, and analytics?",
+      "options": [
+        "enterprise management planning",
+        "customer relationship management",
+        "supply chain management",
+        "automatic call distribution"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The public student answer key gives B: customer relationship management.\n\nRelated textbook context from the linked section:\n“Companies such as Salesforce, HubSpot, and Zoho have a cloud-based customer relationship management (CRM) application, which organizations can use to manage customer interactions and leads, and perform analytics. A CRM is used to determine the return on the organization’s sales force investments in the customer base and uses a data warehouse for accumulating the data for analytics purposes. shows an example of a CRM. A CRM is a modular platform and is fully customizable based on the customer’s requirements.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552721. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552721 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552721-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Scientific, Industrial, and Social Implications of Cloud Computing",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat platform is unique in that it is built on open-source software known as OpenFlow and OpenDaylight?",
+      "options": [
+        "SDN",
+        "ATM",
+        "TCP/IP",
+        "VPN"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: SDN.\n\nRelated textbook context from the linked section:\n“One of the most important breakthroughs in cloud computing was SDNs, which have changed the way network engineers manage traffic by offering scalability, which led to optimization of traffic performance through the infrastructure layer’s ability to manage network resources, and the flexibility to design networking in a new manner using the functionality of the control layer. In the cloud computing environment, SDNs provide better management of network traffic, improve resource management, and give cloud providers tools to enhance their security profile. What makes the SDN platform so unique is that it is built on open-source software, free software that is available for use and modification without licensing, known as OpenFlow and OpenDaylight. There are also SDN platforms using Python-based language for programming.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552512. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552512 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552512-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Scientific, Industrial, and Social Implications of Cloud Computing",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat component of cloud-based computing is influenced by its accessibility from any device?",
+      "options": [
+        "competitiveness",
+        "drive",
+        "profitability",
+        "sustainability"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: sustainability.\n\nRelated textbook context from the linked section:\n“In any industry, an organization must determine how to achieve sustainability in their products, services, and offerings. This issue is familiar to those who developed cloud computing. One factor that has led to the sustainability of cloud-based computing is its accessibility from any device. Creating a platform that does not require the adding of an app, software, or a proprietary component is a major factor in attracting and sustaining a strong customer base. It is also important to consider the environmental impact of cloud-based solutions, such as energy consumption of data centers, and reflect on how an organization can reduce its carbon footprint, such as learning what efforts are being made to recycle resources (for example, cooling water, using generated heat, and optimizing operations). These factors can help an organization determine what cloud-based solutions to use.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552517. https://openstax.org/books/foundations-information-systems/pages/7-review-questions#552517 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-7#552517-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Setting Up and Managing Projects for Success",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat steps are included in the execution portion of a project?",
+      "options": [
+        "coordinating resources, managing risks, resolving issues, and ensuring quality control",
+        "assigning all resources, monitoring risks, maintaining the schedule, and setting up quality control measures",
+        "managing resources, monitoring risks, resolving the schedule, and measuring quality control",
+        "monitoring resources, managing risks, fixing issues, and guaranteeing quality control"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: coordinating resources, managing risks, resolving issues, and ensuring quality control.\n\nRelated textbook context from the linked section:\n“During project execution, project managers oversee the execution of planned activities, ensuring that work is performed in accordance with the project plan. This includes coordinating resources, managing risks, resolving issues, and ensuring quality control. Effective leadership and stakeholder engagement are critical in fostering collaboration and maintaining project momentum. This is the stage at which communication becomes critical. You might have leaders and supervisors who have never worked together before or never worked with you. Set expectations and make sure everyone knows their job for the project.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552191. https://openstax.org/books/foundations-information-systems/pages/9-review-questions#552191 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-9#552191-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "The Importance of Global Information Systems",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat feature of a global information system ensures compatibility among different global information systems, enhancing data exchange?",
+      "options": [
+        "scalability measurements",
+        "communication protocols",
+        "cloud computing services",
+        "interoperability standard"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: interoperability standard.\n\nRelated textbook context from the linked section:\n“Ethics in a global information system focuses on security and privacy. Interoperability standards ensure that different systems can work together effectively, protecting user privacy and maintaining trust. These standards provide a common framework for system compatibility and data exchange. Security measures, such as encryption and access controls, are vital for preventing unauthorized access and protecting data integrity. Together, these practices ensure that data are handled responsibly and ethically. Public health agencies often rely on global information system infrastructure to help track and analyze the spread of infectious diseases. Patient locations and demographics of reported cases allow for targeted interventions and resource allocation.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552669. https://openstax.org/books/foundations-information-systems/pages/11-review-questions#552669 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-11#552669-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "The Importance of Global Information Systems",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhich feature of a global information system can help organizations improve decision-making, be more efficient, and identify new business prospects?",
+      "options": [
+        "supply chain management",
+        "scalability",
+        "spatial analysis",
+        "data migration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: spatial analysis.\n\nRelated textbook context from the linked section:\n“Visual representation is a powerful tool for understanding complex data and communicating insights effectively (see ). Within a global information system, a geographic information system enables organizations to visualize spatial data through interactive maps, charts, and dashboards. The term spatial analysis refers to the process of examining patterns, trends, and relationships within geographic data to gain insights and make informed decisions about spatial phenomena. By using spatial analysis, decision-makers gain valuable insights, visualize complex information, and develop informed strategies. Imagine you have a map of your neighborhood with all the places where people have complained about noisy pet dogs. Spatial analysis would help you see if the complaints are clustered in certain areas or spread out. This way, you could find out if there’s a pattern, like if noisy dogs are more common near certain types of homes or parks, helping you decide where to focus your efforts to address the issue. Another example would be a city planning department using geographic information system maps to visualize population density, land-use patterns, and transportation networks to inform urban development strategies.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552671. https://openstax.org/books/foundations-information-systems/pages/11-review-questions#552671 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-11#552671-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Global Information Systems Business Models, Logistics, and Risk Management",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat is the primary focus of the just-in-time logistics model?",
+      "options": [
+        "minimizing inventory levels",
+        "reducing transportation costs",
+        "ensuring timely deliveries",
+        "increasing storage capacity"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The public student answer key gives A: minimizing inventory levels.\n\nRelated textbook context from the linked section:\n“Just-in-time (JIT) logistics focuses on minimizing inventory levels by receiving goods only as they are needed in the production process. This model strives to reduce costs and increase efficiency by lowering inventory levels, reducing storage costs, and minimizing waste from unsold or obsolete products. JIT offers streamlined operations, and reduced lead times can enhance supply chain efficiency, plus it promotes responsiveness to market demand, reducing excess stock. However, JIT is highly sensitive to supply chain disruptions, and delays from suppliers can halt production.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552444. https://openstax.org/books/foundations-information-systems/pages/11-review-questions#552444 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-11#552444-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Ethics, Sustainability, and Use of Information Systems",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat ethical theory focuses on taking actions that could be universalized as moral laws that all individuals should follow?",
+      "options": [
+        "virtue ethics",
+        "utilitarianism",
+        "deontology",
+        "consequentialism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: deontology.\n\nRelated textbook context from the linked section:\n“The concept of deontology describes a normative ethical theory that focuses on the inherent rightness or wrongness of actions themselves, as opposed to the consequences of those actions, following the premise of treating others the way you would like to be treated. The school of deontology is usually attributed to philosopher Immanuel Kant (1724–1804). Its name comes from the Greek word for “duty,” and it is often referred to as the duty-based approach. Kant’s maxim is stated as such: Act only in accordance with that maxim through which you can at the same time wish that it becomes universal law.Immanuel Kant, Grounding for the Metaphysics of Morals: with, On a Supposed Right to Lie because of Philanthropic Concerns, 3rd ed., trans. James W. Ellington (Hackett Publishing Company, 1993), 30. The simplest interpretation of this is to only take an action if everyone else should also be able to do it. You may recognize this idea as the Golden Rule: Treat others the way you would like to be treated, or act toward others the way you would want others to act toward you. Expressed this way, deontology becomes clear: the action one takes is the focal point for whether the decision being made is ethical. For a deontologist, the consequences of your actions are irrelevant because it is impossible for you to truly know what all the consequences of your actions would be. However, you could know if your action was in alignment with a universal maxim that reflects a natural law.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 551658. https://openstax.org/books/foundations-information-systems/pages/12-review-questions#551658 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-12#551658-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Ethics, Sustainability, and Use of Information Systems",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nSystems thinking emphasizes the importance of viewing components as part of a larger, interconnected ________.",
+      "options": [
+        "process",
+        "goal",
+        "team",
+        "whole"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: whole.\n\nRelated textbook context from the linked section:\n“In essence, systems thinking enhances the DIKW pyramid by emphasizing the importance of viewing each level as part of a larger, interconnected whole. It reminds us that wisdom is not just the culmination of accumulated knowledge but also the recognition of patterns, relationships, and feedback loops within the system. By understanding systems thinking, we can harness a deeper, more holistic understanding of complex issues and challenges, fostering more informed and effective ethical decision-making.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 551662. https://openstax.org/books/foundations-information-systems/pages/12-review-questions#551662 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-12#551662-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Intellectual Property",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat type of intellectual property protection is best suited for a company logo?",
+      "options": [
+        "copyright",
+        "patent",
+        "trademark",
+        "trade secret"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: trademark.\n\nRelated textbook context from the linked section:\n“The culture and economy of the United States are becoming increasingly knowledge based, with a growing focus on technological innovations. In a 2022 report, the U.S. Patent and Trademark Office noted that intellectual property–intensive industries, such as computer technology and information systems, represent $7.8 trillion in economic value. This significant figure represents over 40 percent of the U.S. gross domestic product and accounts for forty-seven million jobs.Andrew A. Toole, Richard D. Miller, and Nicholas Rada, Intellectual Property and the U.S. Economy, 3rd ed., (U.S. Patent and Trademark Office, March 2022), 3–5, https://www.uspto.gov/sites/default/files/documents/uspto-ip-us-economy-third-edition.pdf From an economic perspective, IP-related technology is significantly increasing.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 551672. https://openstax.org/books/foundations-information-systems/pages/12-review-questions#551672 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-12#551672-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Intellectual Property",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nIn the context of IP law, what term best describes the protection of information that a company wishes to keep secret, such as a proprietary recipe or manufacturing process?",
+      "options": [
+        "copyright",
+        "patent",
+        "trademark",
+        "trade secret"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: trade secret.\n\nRelated textbook context from the linked section:\n“The source of trade secret law resides in the Uniform Trade Secrets Act, which defines a trade secret generally as information that derives economic value from not being generally known and that efforts to maintain its secrecy are reasonable.“Trade Secret,” Legal Information Institute, Cornell Law School, last updated June 2024, https://www.law.cornell.edu/wex/trade_secret As you can imagine, various types of information can be protected, including business, financial, economic, technical, and engineering information. Specifically, formulas, patterns, compilations, programs, devices, methods, techniques, and processes can be subject to trade secret protection. The trade secret owner must ensure that the secrecy of the trade secret is maintained. Examples of such actions include nondisclosure agreements (NDAs), employee training, access controls, exit interviews, marking documents as confidential, IT security measures (such as firewalls and intrusion detection systems), and physical security measures (such as restricting access, security personnel, and CCTV monitoring). If the trade secret owner continuously maintains reasonable measures such as these, the duration of protection against misappropriation is potentially indefinite.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 551676. https://openstax.org/books/foundations-information-systems/pages/12-review-questions#551676 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-12#551676-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Ethics of Artificial Intelligence Development and Machine Learning",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat practice involves continually testing AI systems using diverse datasets to reveal inaccurate preconceptions?",
+      "options": [
+        "encryption",
+        "transparency",
+        "bias testing",
+        "accountability"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The public student answer key gives C: bias testing.\n\nRelated textbook context from the linked section:\n“Another key governance issue is ensuring that AI systems are free from biases. Training data and algorithms must be continually vetted to avoid encoding social biases and prejudices into systems. Diversity among AI development teams also helps reduce bias. Regular algorithm audits and bias testing identify problems that must be addressed.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552701. https://openstax.org/books/foundations-information-systems/pages/12-review-questions#552701 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-12#552701-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Ethics of Artificial Intelligence Development and Machine Learning",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat practice helps ensure AI systems complement humans rather than replace human discretion?",
+      "options": [
+        "automated decision-making",
+        "accountability",
+        "technological unemployment",
+        "human control"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: human control.\n\nRelated textbook context from the linked section:\n“To achieve these goals, maintaining meaningful human control and oversight over AI is critical. Humans—not fully autonomous systems—must remain ultimately responsible for high-stakes decisions. Artificial intelligence transparency, the ability to show that the outputs make sense, and results validation support human oversight. Humans may need to remain “in the loop” and check results when AI systems operate in real-time for critical use cases. Predefined constraints can also curb unfettered AI autonomy if human supervision is absent. The goal should be complementing human capabilities with AI, rather than replacing human discretion and authority.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 551289. https://openstax.org/books/foundations-information-systems/pages/12-review-questions#551289 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-12#551289-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    },
+    {
+      "subject": "ICT",
+      "collection": "OpenStax — published ICT practice",
+      "chapter": "Foundations of Information Systems",
+      "topic": "Ethics in Health Informatics",
+      "question": "Published ICT practice — not a JU/GST/NU past paper.\n\nWhat technique involves removing specific details from patient data to protect privacy?",
+      "options": [
+        "encryption",
+        "immutability",
+        "anonymization",
+        "de-identification"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The public student answer key gives D: de-identification.\n\nRelated textbook context from the linked section:\n“As health data processing becomes increasingly automated and vast in scope, it is important to protect patient privacy, which provides an individual with freedom from unauthorized access and use of one’s personal health information. Robust de-identification to remove any personal information included in data, access controls, encryption, and compliance procedures can secure personal records from unauthorized use or disclosure. Consent protocols should clearly convey how data are shared and used. Data minimization principles should ensure that data collection is limited and gathers only the data necessary to provide care. Additionally, individuals should be able to access their records and correct inaccuracies. Such measures build patient trust and prevent misuse. However, privacy protections should be designed so that they do not obstruct beneficial data sharing to conduct public health analysis or pursue research breakthroughs enabled by big data. To this end, anonymization techniques can help prevent misuse while still allowing aggregation for the common good.”\n\nThe key is matched by publisher question ID. This context was selected mechanically because it mentions the answer; it is not an independently reviewed, question-specific rationale.",
+      "source": "OpenStax/Rice University; Mahesh S. Raisinghani, Foundations of Information Systems (2025). Public question/key ID 552703. https://openstax.org/books/foundations-information-systems/pages/12-review-questions#552703 | Public key: https://openstax.org/books/foundations-information-systems/pages/chapter-12#552703-solution | Access for free at https://openstax.org/books/foundations-information-systems/pages/1-introduction | CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/ . Original question/options/public key; context selected mechanically. NOT independently expert-verified; NOT university past papers.",
+      "language": "en",
+      "difficulty": "medium",
+      "isSample": false,
+      "common": false,
+      "university": "",
+      "admissionUnit": "",
+      "examYear": null,
+      "previousYears": [],
+      "admissionTargets": [
+        {
+          "targetId": "ju",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "gst",
+          "unit": "",
+          "group": "Humanities"
+        },
+        {
+          "targetId": "nu",
+          "unit": "",
+          "group": "Humanities"
+        }
+      ]
+    }
+  ]
+}

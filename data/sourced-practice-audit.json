@@ -1,0 +1,460 @@
+{
+  "checkedAt": "2026-11-17",
+  "sourcePolicy": "Selected short public question excerpts only; no website explanations or whole banks copied. No gated pages used. No authenticity claim for previous-year provenance.",
+  "records": [
+    {
+      "key": "ju-task",
+      "url": "https://sattacademy.com/mcq/let-the-task-done-as-directed",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "c18f55e254a7a85e86b902f8aa3f2f68e160bf07a1452ad2d7f1ab140c3710e3",
+      "excerptWords": 12,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-tag",
+      "url": "https://sattacademy.com/mcq/they-havent-visited-the-garden",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "f7cfa747fd47a497baa69ba5da9eeb1a778c4f078b4f954c8baa0e727b600586",
+      "excerptWords": 14,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-agreement",
+      "url": "https://sattacademy.com/mcq/the-girl-as-well-as-her-parents-watching-the-movie",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "f21e4e810c27b7db668c6bbabd0b59398ac92b0c9215074c563a615148baed4b",
+      "excerptWords": 16,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-article",
+      "url": "https://sattacademy.com/mcq/he-needs-book-that-you-bought-yesterday",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "bbc592d00ce5049b1bf90431231369ed32188b3d58fd6c203c3cb3524d79ac1d",
+      "excerptWords": 12,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-relative",
+      "url": "https://sattacademy.com/mcq/she-looks-at-the-photograph-you-have-taken-right-now",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "b185918b12dc6978458ebe2e9159a97751dde70727317a44df8d9a62194e9afc",
+      "excerptWords": 15,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-preposition",
+      "url": "https://sattacademy.com/mcq/pay-attention-english-grammar-to-use-correct-sentences",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "e65c6d6a99feba837ec7107f8f525d5bc2849df6e4e993f4760369be5f9226b2",
+      "excerptWords": 13,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-elaborate",
+      "url": "https://sattacademy.com/mcq/the-synonym-of-the-word-elaborate-is",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "0a452a4fc71cbbfeb6027c846a64746e1f4aa7076aa08bb4efd0e2871491d6eb",
+      "excerptWords": 11,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-delicate",
+      "url": "https://sattacademy.com/mcq/the-antonym-of-the-word-delicate-is-62777",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "64be4155468112f0ba2b21e1916cd1feacc29322a2ef98a7fc8bad56b5ca85c7",
+      "excerptWords": 12,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-sustain",
+      "url": "https://sattacademy.com/mcq/the-adjective-of-the-word-sustain-is",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "ff6c752255c32af6468a05a5ec632e6b555cc7448619fe54b8071aac113335f4",
+      "excerptWords": 12,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "gst-lacuna",
+      "url": "https://sattacademy.com/mcq/choose-the-correct-antonym-of-the-word-lacuna-from-the-options-below",
+      "status": "included",
+      "targetId": "gst",
+      "questionSHA256": "50490179ad0e07d3fa2e1f7d7edb724bec3aef60410218f7b430403c45108899",
+      "excerptWords": 17,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "gst-diction",
+      "url": "https://sattacademy.com/mcq/an-authors-choice-of-words-is-called",
+      "status": "included",
+      "targetId": "gst",
+      "questionSHA256": "9284542f35f1d251ae548aff72ad58b98815bb73a5162c8d0981225e717e4fe5",
+      "excerptWords": 13,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "gst-conditional",
+      "url": "https://sattacademy.com/mcq/if-i-some-money-i-would-have-bought-the-bike",
+      "status": "included",
+      "targetId": "gst",
+      "questionSHA256": "4b68613c4abff8e3d6f4f75673d298eaf55dd57d6304f8433fc9a684f951720d",
+      "excerptWords": 18,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "gst-pernicious",
+      "url": "https://sattacademy.com/mcq/the-antonym-of-pernicious-is-78431",
+      "status": "included",
+      "targetId": "gst",
+      "questionSHA256": "4a17545f499dcd58db411c8c094ec3f3623d31f2e498f588f277c14209c1a17b",
+      "excerptWords": 11,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "gst-immune",
+      "url": "https://sattacademy.com/mcq/he-is-immune-criticism",
+      "status": "included",
+      "targetId": "gst",
+      "questionSHA256": "83a1efcd5008e6d38cd3d7879f14a46c4881696c67bc24d05b182ed3dfc44601",
+      "excerptWords": 9,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "gst-lying",
+      "url": "https://sattacademy.com/mcq/i-saw-the-boys-on-the-floor",
+      "status": "included",
+      "targetId": "gst",
+      "questionSHA256": "5388d19d1d93e80ae671adc146787bc2505f5bbcda590e2dd52bc20ce3fd7128",
+      "excerptWords": 12,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "nu-komol",
+      "url": "https://sattacademy.com/mcq/%E0%A6%95%E0%A6%AE%E0%A6%B2-%E0%A6%AC%E0%A6%A8-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%95%E0%A7%80-44863",
+      "status": "included",
+      "targetId": "nu",
+      "questionSHA256": "e663f41d2707b37070609cbe94cbd83a94c5d564d652df20c143abe4ebc02f2d",
+      "excerptWords": 11,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "nu-sentence",
+      "url": "https://sattacademy.com/mcq/%E0%A6%B2%E0%A7%8B%E0%A6%AD-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97-%E0%A6%95%E0%A6%B0-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%BF-99022",
+      "status": "included",
+      "targetId": "nu",
+      "questionSHA256": "020b12ae96bd1414e1b630bed5737b24adc6dca37a1752d83e5ea11ce469f6db",
+      "excerptWords": 16,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "nu-spelling",
+      "url": "https://sattacademy.com/mcq/%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A6%9F%E0%A6%BF-%E0%A6%AD%E0%A7%81%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-24559",
+      "status": "included",
+      "targetId": "nu",
+      "questionSHA256": "b5d7911a5cb04929463970d4fba6e0c7203e4a5f9451edf2ad6335d2e605de72",
+      "excerptWords": 10,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "nu-bookpost",
+      "url": "https://sattacademy.com/mcq/book-post-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6-87992",
+      "status": "included",
+      "targetId": "nu",
+      "questionSHA256": "cb676da5a142b1de9a11b75633a4977d1d42f6d8f686113bdc3b781143ff8460",
+      "excerptWords": 14,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "nu-sotwo",
+      "url": "https://sattacademy.com/mcq/%E0%A6%B7%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-62398",
+      "status": "included",
+      "targetId": "nu",
+      "questionSHA256": "9b23e95ce8289991349485913fc1905f600e111dd400f2e940809fb154d02d8c",
+      "excerptWords": 10,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "nu-correct",
+      "url": "https://sattacademy.com/mcq/%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%AF-72114",
+      "status": "included",
+      "targetId": "nu",
+      "questionSHA256": "21b55f39b3c321cd38648395dc2c2fa832b2dbfac236c88184de81f54f3663e8",
+      "excerptWords": 15,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "nu-idiom",
+      "url": "https://sattacademy.com/mcq/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%95%E0%A7%80-18002",
+      "status": "included",
+      "targetId": "nu",
+      "questionSHA256": "e3b1b3eba60a39ee8d6b538ce1b36918c04fb2d2103f9fb183ce4ac0cbd7a0dd",
+      "excerptWords": 16,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-letter",
+      "url": "https://sattacademy.com/mcq/%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%9F-27123",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "d3272a63c27fd340db2eca7637057a3e65a51f0bf4ff46e364dc719f22a2c182",
+      "excerptWords": 8,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-bnspell",
+      "url": "https://sattacademy.com/mcq/%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%97%E0%A7%81%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B%E0%A6%87-%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-95430",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "93904defaff0a9d88ebad7ee6adb7da0bb918eeb4001718b3ea401e41885f6ee",
+      "excerptWords": 17,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-prefix",
+      "url": "https://sattacademy.com/mcq/%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%96%E0%A7%81%E0%A6%A8-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AE-%E0%A6%89%E0%A6%AA%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A7%83%E0%A6%A4-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-69232",
+      "status": "excluded",
+      "reason": "Prefix meaning overlaps between offered answers; not selected for the starter pack."
+    },
+    {
+      "key": "ju-prefixpos",
+      "url": "https://sattacademy.com/mcq/%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A7%9F-%E0%A6%A8%E0%A6%BE-55069",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "a2fde46d16192d8961429a69fce4dbc1c49a87cfdc3dbc1737371706c42f7538",
+      "excerptWords": 10,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-basicword",
+      "url": "https://sattacademy.com/mcq/%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF-96112",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "ba5bac0677c8192a9634d0d1eb27b240a2ebadfaca8df318dc6bb3520fff8d04",
+      "excerptWords": 7,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-pun",
+      "url": "https://sattacademy.com/mcq/what-is-a-pun",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "35154600416589b5cbb9187dd419a5ee5614b991c15d34b7415b1a8c8caa106a",
+      "excerptWords": 16,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    },
+    {
+      "key": "ju-hostage",
+      "url": "https://sattacademy.com/mcq/several-soldiers-of-the-squad-were-taken-by-the-enemy-forces-81149",
+      "status": "included",
+      "targetId": "ju",
+      "questionSHA256": "ee140ce9dbad31f0944dd235daa1b7179f4cc2767da2c793680fec932452fae7",
+      "excerptWords": 16,
+      "fetchedAt": "2026-11-17",
+      "checks": [
+        "4 distinct text options",
+        "source answer matches editorial expected key",
+        "self-contained question",
+        "editorial explanation",
+        "not original-paper authenticated"
+      ]
+    }
+  ]
+}
